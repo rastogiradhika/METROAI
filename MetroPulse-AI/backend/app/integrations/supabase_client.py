@@ -33,8 +33,10 @@ class SupabaseManager:
         key = settings.SUPABASE_SERVICE_ROLE_KEY or settings.SUPABASE_ANON_KEY
 
         if url and key and "supabase.co" in url and not key.startswith("your-"):
+            # Normalize URL: strip /rest/v1 or trailing slashes if present
+            clean_url = url.split("/rest/v1")[0].rstrip("/")
             try:
-                self._client = create_client(url, key)
+                self._client = create_client(clean_url, key)
                 self._is_configured = True
                 logger.info("Supabase client initialized successfully.")
             except Exception as e:
