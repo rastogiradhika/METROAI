@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+*/node_modules/
+venv/
+*/venv/
+.venv/
+*/.venv/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Python cache & test
+__pycache__/
+*/__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*/.pytest_cache/
+
+# Local data & uploads
+uploads/
+*/uploads/
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
