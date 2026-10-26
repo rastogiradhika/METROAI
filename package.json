@@ -1,5 +1,8 @@
 {
-  "dependencies": {
-    "@supabase/supabase-js": "^2.118.0"
+  "name": "metropulse-ai",
+  "private": true,
+  "scripts": {
+    "build": "cd MetroPulse-AI/frontend && npm install && npm run build",
+    "dev": "cd MetroPulse-AI/frontend && npm run dev"
   }
 }
