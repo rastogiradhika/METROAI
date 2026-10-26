@@ -1,0 +1,7 @@
+route_id,source_station_id,dest_station_id,stops_sequence,line_names,estimated_duration_min,interchanges
+rt-001,stn-001,stn-002,"stn-001;stn-004;stn-008;stn-002",Yellow Line,14,""
+rt-002,stn-001,stn-003,"stn-001;stn-003",Yellow Line,6,""
+rt-003,stn-001,stn-006,"stn-001;stn-003;stn-006",Yellow Line,22,""
+rt-004,stn-002,stn-006,"stn-002;stn-008;stn-004;stn-001;stn-003;stn-006",Yellow Line,35,""
+rt-005,stn-001,stn-005,"stn-001;stn-005",Blue Line,4,""
+rt-006,stn-002,stn-003,"stn-002;stn-008;stn-004;stn-001;stn-003",Yellow Line,18,""

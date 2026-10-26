@@ -1,0 +1,2654 @@
+stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,wheelchair_boarding,level_id
+st_sftn,SECTOR - 52 NOIDA,28.5867,77.3728,1,,1,
+st_sftn_lift_no_2,Lift No. 2,28.5867,77.3728,0,st_sftn,1,L4
+st_sftn_gate_no_2,Gate No. 2,28.5867,77.3728,0,st_sftn,1,L1
+st_sftn_platform_1,Platform 1,28.5867,77.3728,0,st_sftn,1,L7
+st_sftn_lift_no_1,Lift No. 1,28.5867,77.3728,0,st_sftn,1,L4
+st_sftn_platform_2,Platform 2,28.5867,77.3728,0,st_sftn,1,L8
+st_sftn_unpaid_concourse,Unpaid Concourse,28.5867,77.3728,0,st_sftn,1,L3
+st_sftn_lift_no_5,Lift No. 5,28.5867,77.3728,0,st_sftn,1,L1
+st_sftn_gate_no_1,Gate No. 1,28.5867,77.3728,0,st_sftn,1,L1
+st_sftn_lift_no_3,Lift No. 3,28.5867,77.3728,0,st_sftn,1,L1
+st_sftn_paid_concourse,Paid Concourse,28.5867,77.3728,0,st_sftn,1,L4
+st_sftn_gate_no_3,Gate No. 3,28.5867,77.3728,0,st_sftn,1,L1
+st_sftn_lift_no_4,Lift No. 4,28.5867,77.3728,0,st_sftn,1,L1
+st_ctst,CENTRAL SECRETARIAT,28.614973,77.212029,1,,1,
+st_ctst_lift_no_2a_violet_line,Lift No. 2A (Violet Line),28.6152,77.2123,0,st_ctst,1,L4
+st_ctst_lift_no_2,Lift No. 2,28.6152,77.2123,0,st_ctst,1,L4
+st_ctst_concourse,Concourse,28.614973,77.212029,0,st_ctst,1,L5
+st_ctst_platform_4,Platform 4,28.614973,77.212029,0,st_ctst,1,L6
+st_ctst_gate_no_2,Gate No. 2,28.6152,77.2123,0,st_ctst,0,L1
+st_ctst_platform_1,Platform 1,28.614973,77.212029,0,st_ctst,1,L7
+st_ctst_lift_no_1,Lift No. 1,28.6152,77.2123,0,st_ctst,1,L4
+st_ctst_unpaid_concourse,Unpaid Concourse,28.614973,77.212029,0,st_ctst,1,L3
+st_ctst_gate_no_4,Gate No. 4,28.6152,77.2123,0,st_ctst,0,L1
+st_ctst_gate_no_1,Gate No. 1,28.6152,77.2123,0,st_ctst,0,L1
+st_ctst_gate_no_5,Gate No. 5,28.6152,77.2123,0,st_ctst,1,L1
+st_ctst_lift_no_3a_violet_line,Lift No. 3A (Violet Line),28.6152,77.2123,0,st_ctst,1,L1
+st_ctst_platform_3,Platform 3,28.614973,77.212029,0,st_ctst,1,L6
+st_ctst_lift_no_3,Lift No. 3,28.6152,77.2123,0,st_ctst,1,L1
+st_ctst_lift_no_1a_violet_line,Lift No. 1A (Violet Line),28.6152,77.2123,0,st_ctst,1,L4
+st_ctst_paid_concourse,Paid Concourse,28.614973,77.212029,0,st_ctst,1,L4
+st_ctst_gate_no_3,Gate No. 3,28.6152,77.2123,0,st_ctst,1,L1
+st_ctst_platform_2,Platform 2,28.614973,77.212029,0,st_ctst,1,L8
+st_gec,GOLF COURSE,28.566917,77.345726,1,,1,
+st_gec_lift_no_2,Lift No. 2,28.5672,77.346,0,st_gec,1,L4
+st_gec_concourse,Concourse,28.566917,77.345726,0,st_gec,1,L5
+st_gec_gate_no_2,Gate No. 2,28.5672,77.346,0,st_gec,1,L1
+st_gec_platform_1,Platform 1,28.566917,77.345726,0,st_gec,1,L7
+st_gec_lift_no_1,Lift No. 1,28.5672,77.346,0,st_gec,1,L4
+st_gec_platform_2,Platform 2,28.566917,77.345726,0,st_gec,1,L8
+st_gec_unpaid_concourse,Unpaid Concourse,28.566917,77.345726,0,st_gec,1,L3
+st_gec_gate_no_1,Gate No. 1,28.5672,77.346,0,st_gec,1,L1
+st_gec_lift_no_3,Lift No. 3,28.5672,77.346,0,st_gec,1,L1
+st_gec_paid_concourse,Paid Concourse,28.566917,77.345726,0,st_gec,1,L4
+st_gec_lift_no_4,Lift No. 4,28.5672,77.346,0,st_gec,1,L1
+st_gtbr,GURU TEG BAHADUR NAGAR,28.6984,77.2059,1,,1,
+st_gtbr_lift_no_2,Lift No. 2,28.6984,77.2059,0,st_gtbr,1,L4
+st_gtbr_concourse,Concourse,28.6984,77.2059,0,st_gtbr,1,L5
+st_gtbr_gate_no_2,Gate No. 2,28.6984,77.2059,0,st_gtbr,0,L1
+st_gtbr_platform_1,Platform 1,28.6984,77.2059,0,st_gtbr,1,L7
+st_gtbr_lift_no_1,Lift No. 1,28.6984,77.2059,0,st_gtbr,1,L4
+st_gtbr_unpaid_concourse,Unpaid Concourse,28.6984,77.2059,0,st_gtbr,1,L3
+st_gtbr_gate_no_4,Gate No. 4,28.6984,77.2059,0,st_gtbr,0,L1
+st_gtbr_gate_no_1,Gate No. 1,28.6984,77.2059,0,st_gtbr,1,L1
+st_gtbr_gate_no_5,Gate No. 5,28.6984,77.2059,0,st_gtbr,0,L1
+st_gtbr_lift_no_3,Lift No. 3,28.6984,77.2059,0,st_gtbr,1,L1
+st_gtbr_paid_concourse,Paid Concourse,28.6984,77.2059,0,st_gtbr,1,L4
+st_gtbr_gate_no_3,Gate No. 3,28.6984,77.2059,0,st_gtbr,0,L1
+st_gtbr_platform_2,Platform 2,28.6984,77.2059,0,st_gtbr,1,L8
+st_miaa,MUNDKA INDUSTRIAL AREA (MIA),28.6822749,77.0146522,1,,1,
+st_miaa_lift_no_2,Lift No. 2,28.6822749,77.0146522,0,st_miaa,1,L5
+st_miaa_concourse,Concourse,28.6822749,77.0146522,0,st_miaa,1,L5
+st_miaa_gate_no_2,Gate No. 2,28.6822749,77.0146522,0,st_miaa,1,L1
+st_miaa_platform_1,Platform 1,28.6822749,77.0146522,0,st_miaa,1,L7
+st_miaa_lift_no_1,Lift No. 1,28.6822749,77.0146522,0,st_miaa,1,L5
+st_miaa_platform_2,Platform 2,28.6822749,77.0146522,0,st_miaa,1,L8
+st_miaa_unpaid_concourse,Unpaid Concourse,28.6822749,77.0146522,0,st_miaa,1,L3
+st_miaa_gate_no_1,Gate No. 1,28.6822749,77.0146522,0,st_miaa,1,L1
+st_miaa_lift_no_3,Lift No. 3,28.6822749,77.0146522,0,st_miaa,1,L1
+st_miaa_paid_concourse,Paid Concourse,28.6822749,77.0146522,0,st_miaa,1,L4
+st_miaa_gate_no_3,Gate No. 3,28.6822749,77.0146522,0,st_miaa,0,L1
+st_miaa_lift_no_4,Lift No. 4,28.6822749,77.0146522,0,st_miaa,1,L1
+st_ri,RITHALA,28.720821,77.105042,1,,1,
+st_ri_lift_no_2,Lift No. 2,28.7208,77.1072,0,st_ri,1,L5
+st_ri_gate_no_2,Gate No. 2,28.7208,77.1072,0,st_ri,0,L1
+st_ri_unpaid_concourse,Unpaid Concourse,28.720821,77.105042,0,st_ri,1,L3
+st_ri_lift_no_1,Lift No. 1,28.7208,77.1072,0,st_ri,1,L5
+st_ri_gate_no_1,Gate No. 1,28.7208,77.1072,0,st_ri,0,L1
+st_ri_lift_no_3,Lift No. 3,28.7208,77.1072,0,st_ri,1,L1
+st_ri_paid_concourse,Paid Concourse,28.720821,77.105042,0,st_ri,1,L4
+st_ri_gate_no_3,Gate No. 3,28.7208,77.1072,0,st_ri,1,L1
+st_ri_platform_2,Platform 2,28.720821,77.105042,0,st_ri,1,L8
+st_eanr,EAST AZAD NAGAR,28.665043,77.284599,1,,1,
+st_eanr_lift_no_2,Lift No. 2,28.66479,77.2826113,0,st_eanr,1,L5
+st_eanr_concourse,Concourse,28.665043,77.284599,0,st_eanr,1,L5
+st_eanr_gate_no_2,Gate No. 2,28.66479,77.2826113,0,st_eanr,1,L1
+st_eanr_unpaid_concourse,Unpaid Concourse,28.665043,77.284599,0,st_eanr,1,L3
+st_eanr_lift_no_1,Lift No. 1,28.66479,77.2826113,0,st_eanr,1,L5
+st_eanr_gate_no_1,Gate No. 1,28.66479,77.2826113,0,st_eanr,1,L1
+st_eanr_lift_no_3,Lift No. 3,28.66479,77.2826113,0,st_eanr,1,L5
+st_eanr_paid_concourse,Paid Concourse,28.665043,77.284599,0,st_eanr,1,L4
+st_eanr_lift_no_4,Lift No. 4,28.66479,77.2826113,0,st_eanr,1,L5
+st_nrsn,NANGLOI RAILWAY STATION,28.682091,77.05619,1,,1,
+st_nrsn_lift_no_2,Lift No. 2,28.682133,77.0540313,0,st_nrsn,1,L5
+st_nrsn_gate_no_2,Gate No. 2,28.682133,77.0540313,0,st_nrsn,1,L1
+st_nrsn_unpaid_concourse,Unpaid Concourse,28.682091,77.05619,0,st_nrsn,1,L3
+st_nrsn_lift_no_1,Lift No. 1,28.682133,77.0540313,0,st_nrsn,1,L5
+st_nrsn_gate_no_1,Gate No. 1,28.682133,77.0540313,0,st_nrsn,1,L1
+st_nrsn_lift_no_3,Lift No. 3,28.682133,77.0540313,0,st_nrsn,1,L1
+st_nrsn_paid_concourse,Paid Concourse,28.682091,77.05619,0,st_nrsn,1,L4
+st_nrsn_lift_no_4,Lift No. 4,28.682133,77.0540313,0,st_nrsn,1,L1
+st_vnpr,VINOBAPURI,28.566179,77.249367,1,,1,
+st_vnpr_concourse,Concourse,28.566179,77.249367,0,st_vnpr,1,L5
+st_vnpr_lift_no_2,Lift No. 2,28.5655297,77.2485991,0,st_vnpr,1,L3
+st_vnpr_gate_no_2,Gate No. 2,28.5655297,77.2485991,0,st_vnpr,0,L1
+st_vnpr_platform_1,Platform 1,28.566179,77.249367,0,st_vnpr,1,L7
+st_vnpr_lift_no_1,Lift No. 1,28.5655297,77.2485991,0,st_vnpr,1,L4
+st_vnpr_unpaid_concourse,Unpaid Concourse,28.566179,77.249367,0,st_vnpr,1,L3
+st_vnpr_gate_no_1,Gate No. 1,28.5655297,77.2485991,0,st_vnpr,1,L1
+st_vnpr_paid_concourse,Paid Concourse,28.566179,77.249367,0,st_vnpr,1,L4
+st_vnpr_platform_2,Platform 2,28.566179,77.249367,0,st_vnpr,1,L8
+st_jgpi,JAHANGIRPURI,28.72818,77.16124,1,,1,
+st_jgpi_lift_no_2,Lift No. 2,28.7296,77.1666,0,st_jgpi,1,L4
+st_jgpi_gate_no_2,Gate No. 2,28.72583,77.16297,0,st_jgpi,1,L1
+st_jgpi_platform_1,Platform 1,28.72818,77.16124,0,st_jgpi,1,L7
+st_jgpi_lift_no_1,Lift No. 1,28.7296,77.1666,0,st_jgpi,1,L4
+st_jgpi_platform_2,Platform 2,28.72818,77.16124,0,st_jgpi,1,L8
+st_jgpi_gate_no_4,Gate No. 4,28.72624,77.16229,0,st_jgpi,1,L1
+st_jgpi_unpaid_concourse,Unpaid Concourse,28.72818,77.16124,0,st_jgpi,1,L3
+st_jgpi_gate_no_1,Gate No. 1,28.72652,77.16249,0,st_jgpi,0,L1
+st_jgpi_lift_no_3,Lift No. 3,28.7296,77.1666,0,st_jgpi,1,L1
+st_jgpi_paid_concourse,Paid Concourse,28.72818,77.16124,0,st_jgpi,1,L4
+st_jgpi_gate_no_3,Gate No. 3,28.72579,77.16277,0,st_jgpi,0,L1
+st_jgpi_lift_no_4,Lift No. 4,28.7296,77.1666,0,st_jgpi,1,L1
+st_hcc,MILLENNIUM CITY CENTRE GURUGRAM,"28° 27′ 33.37″ N,",77° 4′ 20.71″ E,1,,1,
+st_hcc_lift_no_2,LIft No. 2,"28° 27′ 33.37″ N,",77° 4′ 20.71″ E,0,st_hcc,1,L4
+st_hcc_concourse,Concourse,"28° 27′ 33.37″ N,",77° 4′ 20.71″ E,0,st_hcc,1,L5
+st_hcc_gate_no_2,Gate No. 2,"28° 27′ 33.37″ N,",77° 4′ 20.71″ E,0,st_hcc,0,L1
+st_hcc_platform_1,Platform 1,"28° 27′ 33.37″ N,",77° 4′ 20.71″ E,0,st_hcc,1,L7
+st_hcc_lift_no_1,Lift No. 1,"28° 27′ 33.37″ N,",77° 4′ 20.71″ E,0,st_hcc,1,L1
+st_hcc_unpaid_concourse,Unpaid Concourse,"28° 27′ 33.37″ N,",77° 4′ 20.71″ E,0,st_hcc,1,L3
+st_hcc_gate_no_4,Gate No. 4,"28° 27′ 33.37″ N,",77° 4′ 20.71″ E,0,st_hcc,1,L1
+st_hcc_gate_no_1,Gate No. 1,"28° 27′ 33.37″ N,",77° 4′ 20.71″ E,0,st_hcc,1,L1
+st_hcc_lift_no_3,Lift No. 3,"28° 27′ 33.37″ N,",77° 4′ 20.71″ E,0,st_hcc,1,L1
+st_hcc_paid_concourse,Paid Concourse,"28° 27′ 33.37″ N,",77° 4′ 20.71″ E,0,st_hcc,1,L4
+st_hcc_gate_no_3,Gate No. 3,"28° 27′ 33.37″ N,",77° 4′ 20.71″ E,0,st_hcc,1,L1
+st_hcc_platform_2,Platform 2,"28° 27′ 33.37″ N,",77° 4′ 20.71″ E,0,st_hcc,1,L8
+st_ecmj,ESCORTS MUJESAR,28.370199,77.315002,1,,1,
+st_ecmj_lift_no_2,Lift No. 2,28.37016,77.31494,0,st_ecmj,1,L4
+st_ecmj_concourse,Concourse,28.370199,77.315002,0,st_ecmj,1,L5
+st_ecmj_gate_no_2,Gate No. 2,28.37016,77.31494,0,st_ecmj,1,L1
+st_ecmj_platform_1,Platform 1,28.370199,77.315002,0,st_ecmj,1,L7
+st_ecmj_lift_no_1,Lift No. 1,28.37016,77.31494,0,st_ecmj,1,L4
+st_ecmj_platform_2,Platform 2,28.370199,77.315002,0,st_ecmj,1,L8
+st_ecmj_unpaid_concourse,Unpaid Concourse,28.370199,77.315002,0,st_ecmj,1,L3
+st_ecmj_gate_no_1,Gate No. 1,28.37016,77.31494,0,st_ecmj,0,L1
+st_ecmj_lift_no_3,Lift No. 3,28.37016,77.31494,0,st_ecmj,1,L1
+st_ecmj_paid_concourse,Paid Concourse,28.370199,77.315002,0,st_ecmj,1,L4
+st_ecmj_gate_no_3,Gate No. 3,28.37016,77.31494,0,st_ecmj,1,L1
+st_ecmj_lift_no_4,Lift No. 4,28.37016,77.31494,0,st_ecmj,1,L1
+st_ipe,I.P. EXTENSION,28.6319356,77.3085679,1,,1,
+st_ipe_lift_no_2,Lift No. 2,28.6319356,77.3085679,0,st_ipe,1,L5
+st_ipe_concourse,Concourse,28.6319356,77.3085679,0,st_ipe,1,L5
+st_ipe_gate_no_2,Gate No. 2,28.6319356,77.3085679,0,st_ipe,1,L1
+st_ipe_unpaid_concourse,Unpaid Concourse,28.6319356,77.3085679,0,st_ipe,1,L3
+st_ipe_lift_no_1,Lift No. 1,28.6319356,77.3085679,0,st_ipe,1,L5
+st_ipe_gate_no_1,Gate No. 1,28.6319356,77.3085679,0,st_ipe,1,L1
+st_ipe_lift_no_3,Lift No. 3,28.6319356,77.3085679,0,st_ipe,1,L5
+st_ipe_paid_concourse,Paid Concourse,28.6319356,77.3085679,0,st_ipe,1,L4
+st_ipe_lift_no_4,Lift No. 4,28.6319356,77.3085679,0,st_ipe,1,L5
+st_vnnr,MANDAWALI - WEST VINOD NAGAR,28.624861,77.304146,1,,1,
+st_vnnr_concourse,Concourse,28.624861,77.304146,0,st_vnnr,1,L5
+st_vnnr_lift_no_2,Lift No. 2,28.624877,77.3021833,0,st_vnnr,1,L5
+st_vnnr_gate_no_2,Gate No 2,28.624861,77.304146,0,st_vnnr,0,
+st_vnnr_unpaid_concourse,Unpaid Concourse,28.624861,77.304146,0,st_vnnr,1,L3
+st_vnnr_lift_no_1,Lift No. 1,28.624877,77.3021833,0,st_vnnr,1,L5
+st_vnnr_gate_no_1,Gate No. 1,28.624877,77.3021833,0,st_vnnr,1,L1
+st_vnnr_lift_no_3,Lift No. 3,28.624877,77.3021833,0,st_vnnr,1,L5
+st_vnnr_paid_concourse,Paid Concourse,28.624861,77.304146,0,st_vnnr,1,L4
+st_hdnr,HINDON RIVER,28.673508,77.40654,1,,1,
+st_hdnr_lift_no_2,Lift No. 2,28.6734,77.4065,0,st_hdnr,1,L5
+st_hdnr_gate_no_2,Gate No. 2,28.6734,77.4065,0,st_hdnr,1,L1
+st_hdnr_platform_1,Platform 1,28.673508,77.40654,0,st_hdnr,1,L7
+st_hdnr_lift_no_1,Lift No. 1,28.6734,77.4065,0,st_hdnr,1,L5
+st_hdnr_platform_2,Platform 2,28.673508,77.40654,0,st_hdnr,1,L8
+st_hdnr_unpaid_concourse,Unpaid Concourse,28.673508,77.40654,0,st_hdnr,1,L3
+st_hdnr_gate_no_1,Gate No. 1,28.6734,77.4065,0,st_hdnr,1,L1
+st_hdnr_lift_no_3,Lift No. 3,28.6734,77.4065,0,st_hdnr,1,L1
+st_hdnr_paid_concourse,Paid Concourse,28.673508,77.40654,0,st_hdnr,1,L4
+st_hdnr_lift_no_4,Lift No. 4,28.6734,77.4065,0,st_hdnr,1,L1
+st_skrp,SIKANDERPUR,28.481352,77.092995,1,,1,
+st_skrp_gate_no_4_rapid_metro,Gate No. 4 (Rapid Metro),28.4813,77.0931,0,st_skrp,1,L1
+st_skrp_lift_no_2,Lift No. 2,28.4813,77.0931,0,st_skrp,1,L1
+st_skrp_concourse,Concourse,28.481352,77.092995,0,st_skrp,1,L5
+st_skrp_paid_concourse,Paid Concourse,28.481352,77.092995,0,st_skrp,1,L4
+st_skrp_gate_no_2,Gate No. 2,28.4813,77.0931,0,st_skrp,1,L1
+st_skrp_unpaid_concourse,Unpaid Concourse,28.481352,77.092995,0,st_skrp,1,L3
+st_skrp_lift_no_1,Lift No. 1,28.4813,77.0931,0,st_skrp,1,L1
+st_skrp_lift_no_5,Lift No. 5,28.4813,77.0931,0,st_skrp,1,L1
+st_skrp_gate_no_6_rapid_metro,Gate No. 6 (Rapid Metro),28.4813,77.0931,0,st_skrp,1,L1
+st_skrp_gate_no_5_rapid_metro,Gate No. 5 (Rapid Metro),28.4813,77.0931,0,st_skrp,1,L1
+st_skrp_gate_no_3_rapid_metro,Gate No. 3 (Rapid Metro),28.4813,77.0931,0,st_skrp,1,L1
+st_skrp_gate_no_1,Gate No. 1,28.4813,77.0931,0,st_skrp,1,L1
+st_skrp_gate_no_2_rapid_metro,Gate No. 2 (Rapid Metro),28.4813,77.0931,0,st_skrp,1,L1
+st_skrp_lift_no_3,Lift No. 3,28.4813,77.0931,0,st_skrp,1,L1
+st_skrp_pertains_to_rapid_metro,Pertains To Rapid Metro,28.481352,77.092995,0,st_skrp,0,
+st_skrp_lift_no_4,Lift No. 4,28.4813,77.0931,0,st_skrp,1,L1
+st_jamd,JAMA MASJID,28.650393,77.237556,1,,1,
+st_jamd_lift_no_2,Lift No. 2,28.6504603,77.2362374,0,st_jamd,1,L1
+st_jamd_gate_no_2,Gate No. 2,28.6504603,77.2362374,0,st_jamd,0,L1
+st_jamd_unpaid_concourse,Unpaid Concourse,28.650393,77.237556,0,st_jamd,1,L3
+st_jamd_lift_no_1,Lift No. 1,28.6504603,77.2362374,0,st_jamd,1,L4
+st_jamd_gate_no_4,Gate No. 4,28.6504603,77.2362374,0,st_jamd,1,L1
+st_jamd_gate_no_1,Gate No. 1,28.6504603,77.2362374,0,st_jamd,1,L1
+st_jamd_lift_no_3,Lift No. 3,28.6504603,77.2362374,0,st_jamd,1,L1
+st_jamd_paid_concourse,Paid Concourse,28.650393,77.237556,0,st_jamd,1,L4
+st_jamd_gate_no_3,Gate No. 3,28.6504603,77.2362374,0,st_jamd,1,L1
+st_jamd_lift_no_4,Lift No. 4,28.6504603,77.2362374,0,st_jamd,1,L1
+st_vasi,VAISHALI,28.650059,77.337608,1,,1,
+st_vasi_lift_no_2,Lift No. 2,28.6498,77.3397,0,st_vasi,1,L4
+st_vasi_concourse,Concourse,28.650059,77.337608,0,st_vasi,1,L5
+st_vasi_gate_no_2,Gate No. 2,28.6498,77.3397,0,st_vasi,1,L1
+st_vasi_platform_1,Platform 1,28.650059,77.337608,0,st_vasi,1,L7
+st_vasi_lift_no_1,Lift No. 1,28.6498,77.3397,0,st_vasi,1,L4
+st_vasi_platform_2,Platform 2,28.650059,77.337608,0,st_vasi,1,L8
+st_vasi_unpaid_concourse,Unpaid Concourse,28.650059,77.337608,0,st_vasi,1,L3
+st_vasi_lift_no_5,Lift No. 5,28.6498,77.3397,0,st_vasi,1,L1
+st_vasi_gate_no_1,Gate No. 1,28.6498,77.3397,0,st_vasi,1,L1
+st_vasi_lift_no_3,Lift No. 3,28.6498,77.3397,0,st_vasi,1,L1
+st_vasi_paid_concourse,Paid Concourse,28.650059,77.337608,0,st_vasi,1,L4
+st_vasi_gate_no_3,Gate No. 3,28.6498,77.3397,0,st_vasi,1,L1
+st_vasi_lift_no_4,Lift No. 4,28.6498,77.3397,0,st_vasi,1,L1
+st_bvhm,RAJA NAHAR SINGH (BALLABHGARH),28.339792,77.316522,1,,1,
+st_bvhm_lift_no_2,Lift No. 2,28.339792,77.316522,0,st_bvhm,1,L4
+st_bvhm_concourse,Concourse,28.339792,77.316522,0,st_bvhm,1,L5
+st_bvhm_gate_no_2,Gate No. 2,28.339792,77.316522,0,st_bvhm,1,L1
+st_bvhm_platform_1,Platform 1,28.339792,77.316522,0,st_bvhm,1,L7
+st_bvhm_lift_no_1,Lift No. 1,28.339792,77.316522,0,st_bvhm,1,L4
+st_bvhm_platform_2,Platform 2,28.339792,77.316522,0,st_bvhm,1,L8
+st_bvhm_unpaid_concourse,Unpaid Concourse,28.339792,77.316522,0,st_bvhm,1,L3
+st_bvhm_lift_no_6,Lift No. 6,28.339792,77.316522,0,st_bvhm,1,L1
+st_bvhm_gate_no_1,Gate No. 1,28.339792,77.316522,0,st_bvhm,1,L1
+st_bvhm_lift_no_5,Lift No. 5,28.339792,77.316522,0,st_bvhm,1,L1
+st_bvhm_lift_no_3,Lift No. 3,28.339792,77.316522,0,st_bvhm,1,L1
+st_bvhm_paid_concourse,Paid Concourse,28.339792,77.316522,0,st_bvhm,1,L4
+st_bvhm_gate_no_3,Gate No. 3,28.339792,77.316522,0,st_bvhm,1,L1
+st_bvhm_lift_no_4,Lift No. 4,28.339792,77.316522,0,st_bvhm,1,L3
+st_jgpa,JANGPURA,28.583231,77.239662,1,,1,
+st_jgpa_lift_no_2,Lift No. 2,28.583698,77.2362473,0,st_jgpa,1,L4
+st_jgpa_concourse,Concourse,28.583231,77.239662,0,st_jgpa,1,L5
+st_jgpa_gate_no_2,Gate No. 2,28.583698,77.2362473,0,st_jgpa,1,L1
+st_jgpa_platform_1,Platform 1,28.583231,77.239662,0,st_jgpa,1,L7
+st_jgpa_lift_no_1,Lift No. 1,28.583698,77.2362473,0,st_jgpa,1,L4
+st_jgpa_platform_2,Platform 2,28.583231,77.239662,0,st_jgpa,1,L8
+st_jgpa_unpaid_concourse,Unpaid Concourse,28.583231,77.239662,0,st_jgpa,1,L3
+st_jgpa_gate_no_1,Gate No. 1,28.583698,77.2362473,0,st_jgpa,1,L1
+st_jgpa_lift_no_3,Lift No. 3,28.583698,77.2362473,0,st_jgpa,1,L1
+st_jgpa_paid_concourse,Paid Concourse,28.583231,77.239662,0,st_jgpa,1,L4
+st_jgpa_gate_no_3,Gate No. 3,28.583698,77.2362473,0,st_jgpa,0,L1
+st_jgpa_lift_no_4,Lift No. 4,28.583698,77.2362473,0,st_jgpa,1,L1
+st_rck,RAJIV CHOWK,28.632896,77.219574,1,,1,
+st_rck_gate_no_7,Gate No. 7,28.633,77.2194,0,st_rck,1,L1
+st_rck_lift_no_2,Lift No. 2,28.633,77.2194,0,st_rck,1,L6
+st_rck_concourse,Concourse,28.632896,77.219574,0,st_rck,1,L5
+st_rck_gate_no_2,Gate No. 2,28.633,77.2194,0,st_rck,1,L1
+st_rck_gate_no_8,Gate No. 8,28.633,77.2194,0,st_rck,1,L1
+st_rck_gate_no_6,Gate No. 6,28.633,77.2194,0,st_rck,0,L1
+st_rck_lift_no_1,Lift No. 1,28.633,77.2194,0,st_rck,1,L5
+st_rck_unpaid_concourse,Unpaid Concourse,28.632896,77.219574,0,st_rck,1,L3
+st_rck_gate_no_4,Gate No. 4,28.633,77.2194,0,st_rck,0,L1
+st_rck_lift_no_5,Lift No. 5,28.633,77.2194,0,st_rck,1,L1
+st_rck_gate_no_1,Gate No. 1,28.633,77.2194,0,st_rck,1,L1
+st_rck_gate_no_5,Gate No. 5,28.633,77.2194,0,st_rck,0,L1
+st_rck_lift_no_3,Lift No. 3,28.633,77.2194,0,st_rck,1,L6
+st_rck_paid_concourse,Paid Concourse,28.632896,77.219574,0,st_rck,1,L4
+st_rck_gate_no_3,Gate No. 3,28.633,77.2194,0,st_rck,0,L1
+st_rck_lift_no_4,Lift No. 4,28.633,77.2194,0,st_rck,1,L1
+st_nsst,NOIDA SECTOR-16,,,1,,1,
+st_nsst_paid_concourse,Paid Concourse,,,0,st_nsst,1,L4
+st_nsst_unpaid_concourse,Unpaid Concourse,,,0,st_nsst,1,L3
+st_cwbr,CHAWRI BAZAR,28.649635,77.22628,1,,1,
+st_cwbr_lift_no_2,Lift No. 2,28.6488,77.2263,0,st_cwbr,1,L4
+st_cwbr_concourse,Concourse,28.649635,77.22628,0,st_cwbr,1,L5
+st_cwbr_platform_1,Platform 1,28.649635,77.22628,0,st_cwbr,1,L7
+st_cwbr_lift_no_1,Lift No. 1,28.6488,77.2263,0,st_cwbr,1,L4
+st_cwbr_platform_2,Platform 2,28.649635,77.22628,0,st_cwbr,1,L8
+st_cwbr_unpaid_concourse,Unpaid Concourse,28.649635,77.22628,0,st_cwbr,1,L3
+st_cwbr_lift_no_5,Lift No. 5,28.6488,77.2263,0,st_cwbr,1,L4
+st_cwbr_gate_no_1,Gate No. 1,28.6488,77.2263,0,st_cwbr,1,L1
+st_cwbr_paid_concourse,Paid Concourse,28.649635,77.22628,0,st_cwbr,1,L4
+st_cwbr_gate_no_3,Gate No. 3,28.6488,77.2263,0,st_cwbr,0,L1
+st_cwbr_lift_no_4,Lift No. 4,28.6488,77.2263,0,st_cwbr,1,L4
+st_mapr,MADIPUR,28.676418,77.117294,1,,1,
+st_mapr_lift_no_2,Lift No. 2,28.67634,77.1175513,0,st_mapr,1,L5
+st_mapr_gate_no_2,Gate No. 2,28.67634,77.1175513,0,st_mapr,1,L1
+st_mapr_unpaid_concourse,Unpaid Concourse,28.676418,77.117294,0,st_mapr,1,L3
+st_mapr_lift_no_1,Lift No. 1,28.67634,77.1175513,0,st_mapr,1,L5
+st_mapr_gate_no_1,Gate No. 1,28.67634,77.1175513,0,st_mapr,1,L1
+st_mapr_lift_no_3,Lift No. 3,28.67634,77.1175513,0,st_mapr,1,L1
+st_mapr_paid_concourse,Paid Concourse,28.676418,77.117294,0,st_mapr,1,L4
+st_mapr_lift_no_4,Lift No. 4,28.67634,77.1175513,0,st_mapr,1,L1
+st_nuee,NEHRU ENCLAVE,28.545856,77.25116,1,,1,
+st_nuee_lift_no_2,Lift No. 2,28.5458514,77.251167,0,st_nuee,1,L1
+st_nuee_gate_no_2,Gate No. 2,28.5458514,77.251167,0,st_nuee,1,L1
+st_nuee_platform_1,Platform 1,28.545856,77.25116,0,st_nuee,1,L7
+st_nuee_lift_no_1,Lift No. 1,28.5458514,77.251167,0,st_nuee,1,L4
+st_nuee_platform_2,Platform 2,28.545856,77.25116,0,st_nuee,1,L8
+st_nuee_gate_no_4,Gate No. 4,28.5458514,77.251167,0,st_nuee,0,L1
+st_nuee_unpaid_concourse,Unpaid Concourse,28.545856,77.25116,0,st_nuee,1,L3
+st_nuee_lift_no_5,Lift No. 5,28.5458514,77.251167,0,st_nuee,1,L1
+st_nuee_gate_no_1,Gate No. 1,28.5458514,77.251167,0,st_nuee,1,L1
+st_nuee_gate_no_5,Gate No. 5,28.5458514,77.251167,0,st_nuee,1,L1
+st_nuee_lift_no_3,Lift No. 3,28.5458514,77.251167,0,st_nuee,1,L1
+st_nuee_paid_concourse,Paid Concourse,28.545856,77.25116,0,st_nuee,1,L4
+st_nuee_gate_no_3,Gate No. 3,28.5458514,77.251167,0,st_nuee,1,L1
+st_nuee_lift_no_4,Lift No. 4,28.5458514,77.251167,0,st_nuee,1,L1
+st_dsfn,DWARKA SECTOR - 14,28.602232,77.02594,1,,1,
+st_dsfn_lift_no_2,Lift No. 2,28.6022,77.0259,0,st_dsfn,1,L4
+st_dsfn_gate_no_2,Gate No. 2,28.6022,77.0259,0,st_dsfn,1,L1
+st_dsfn_platform_1,Platform 1,28.602232,77.02594,0,st_dsfn,1,L7
+st_dsfn_lift_no_1,Lift No. 1,28.6022,77.0259,0,st_dsfn,1,L4
+st_dsfn_unpaid_concourse,Unpaid Concourse,28.602232,77.02594,0,st_dsfn,1,L3
+st_dsfn_gate_no_1,Gate No. 1,28.6022,77.0259,0,st_dsfn,1,L1
+st_dsfn_paid_concourse,Paid Concourse,28.602232,77.02594,0,st_dsfn,1,L4
+st_dsfn_platform_2,Platform 2,28.602232,77.02594,0,st_dsfn,1,L8
+st_dsg,DILSHAD GARDEN,28.675991,77.321495,1,,1,
+st_dsg_lift_no_2,Lift No. 2,28.6759,77.3215,0,st_dsg,1,L5
+st_dsg_concourse,Concourse,28.675991,77.321495,0,st_dsg,1,L5
+st_dsg_gate_no_2,Gate No. 2,28.6759,77.3215,0,st_dsg,0,L1
+st_dsg_platform_1,Platform 1,28.675991,77.321495,0,st_dsg,1,L7
+st_dsg_lift_no_1,Lift No. 1,28.6759,77.3215,0,st_dsg,1,L5
+st_dsg_unpaid_concourse,Unpaid Concourse,28.675991,77.321495,0,st_dsg,1,L3
+st_dsg_gate_no_1,Gate No. 1,28.6759,77.3215,0,st_dsg,1,L1
+st_dsg_lift_no_3,Lift No. 3,28.6759,77.3215,0,st_dsg,1,L1
+st_dsg_paid_concourse,Paid Concourse,28.675991,77.321495,0,st_dsg,1,L4
+st_dsg_platform_2,Platform 2,28.675991,77.321495,0,st_dsg,1,L8
+st_mlcd,MOOLCHAND,28.564629,77.234222,1,,1,
+st_mlcd_concourse,Concourse,28.564629,77.234222,0,st_mlcd,1,L5
+st_mlcd_lift_no_2,Lift No. 2,28.5647817,77.2309781,0,st_mlcd,1,L4
+st_mlcd_platform_1,Platform 1,28.564629,77.234222,0,st_mlcd,1,L7
+st_mlcd_lift_no_1,Lift No. 1,28.5647817,77.2309781,0,st_mlcd,1,L6
+st_mlcd_unpaid_concourse,Unpaid Concourse,28.564629,77.234222,0,st_mlcd,1,L3
+st_mlcd_gate_no_1,Gate No. 1,28.5647817,77.2309781,0,st_mlcd,1,L1
+st_mlcd_paid_concourse,Paid Concourse,28.564629,77.234222,0,st_mlcd,1,L4
+st_mlcd_platform_2,Platform 2,28.564629,77.234222,0,st_mlcd,1,L8
+st_knr,KIRTI NAGAR,28.655773,77.148499,1,,1,
+st_knr_lift_no_2,Lift No. 2,28.6557,77.1508,0,st_knr,1,L1
+st_knr_concourse,Concourse,28.655773,77.148499,0,st_knr,1,L5
+st_knr_platform_4,Platform 4,28.655773,77.148499,0,st_knr,1,L6
+st_knr_platform_1,Platform 1,28.655773,77.148499,0,st_knr,1,L7
+st_knr_lift_no_1,Lift No. 1,28.6557,77.1508,0,st_knr,1,L1
+st_knr_platform_2,Platform 2,28.655773,77.148499,0,st_knr,1,L8
+st_knr_unpaid_concourse,Unpaid Concourse,28.655773,77.148499,0,st_knr,1,L3
+st_knr_gate_no_1,Gate No. 1,28.6557,77.1508,0,st_knr,1,L1
+st_knr_platform_3,Platform 3,28.655773,77.148499,0,st_knr,1,L6
+st_knr_lift_no_3,Lift No. 3,28.6557,77.1508,0,st_knr,1,L5
+st_knr_paid_concourse,Paid Concourse,28.655773,77.148499,0,st_knr,1,L4
+st_knr_lift_no_4,Lift No. 4,28.6557,77.1508,0,st_knr,1,L5
+st_ina,DILLI HAAT - INA,28.575195,77.209473,1,,1,
+st_ina_lift_no_2,Lift No. 2,28.5744,77.2096,0,st_ina,1,L1
+st_ina_concourse,Concourse,28.575195,77.209473,0,st_ina,1,L5
+st_ina_platform_4,Platform 4,28.575195,77.209473,0,st_ina,1,L6
+st_ina_lift_no_1a_pink_line,Lift No. 1A (Pink Line),28.5744,77.2096,0,st_ina,1,L1
+st_ina_gate_no_1,Gate No. 1,28.5744,77.2096,0,st_ina,1,L1
+st_ina_paid_concourse,Paid Concourse,28.575195,77.209473,0,st_ina,1,L4
+st_ina_lift_no_5a_pink_line,Lift No. 5A (Pink Line),28.5744,77.2096,0,st_ina,1,L5
+st_ina_platform_1,Platform 1,28.575195,77.209473,0,st_ina,1,L7
+st_ina_gate_no_4,Gate No. 4,28.5744,77.2096,0,st_ina,1,L1
+st_ina_lift_no_4a_pink_line,Lift No. 4A (Pink Line),28.5744,77.2096,0,st_ina,1,L5
+st_ina_platform_2,Platform 2,28.575195,77.209473,0,st_ina,1,L8
+st_ina_gate_no_6,Gate No. 6,28.5744,77.2096,0,st_ina,0,L1
+st_ina_lift_no_1,Lift No. 1,28.5744,77.2096,0,st_ina,1,L4
+st_ina_gate_no_5,Gate No. 5,28.5744,77.2096,0,st_ina,1,L1
+st_ina_platform_3,Platform 3,28.575195,77.209473,0,st_ina,1,L6
+st_ina_lift_no_3,Lift No. 3,28.5744,77.2096,0,st_ina,1,L1
+st_ina_lift_no_2a_pink_line,Lift No. 2A (Pink Line),28.5744,77.2096,0,st_ina,1,L5
+st_ina_lift_no_3a_pink_line,Lift No. 3A (Pink Line),28.5744,77.2096,0,st_ina,1,L4
+st_ina_gate_no_2,Gate No. 2,28.5744,77.2096,0,st_ina,1,L1
+st_ina_unpaid_concourse,Unpaid Concourse,28.575195,77.209473,0,st_ina,1,L3
+st_ina_gate_no_3,Gate No. 3,28.5744,77.2096,0,st_ina,0,L1
+st_nfgh,NAJAFGARH,28.613316,76.986259,1,,1,
+st_nfgh_lift_no_2,Lift No. 2,28.6126772,76.984354,0,st_nfgh,1,L4
+st_nfgh_gate_no_2,Gate No. 2,28.6126772,76.984354,0,st_nfgh,1,L1
+st_nfgh_platform_1,Platform 1,28.613316,76.986259,0,st_nfgh,1,L7
+st_nfgh_lift_no_1,Lift No. 1,28.6126772,76.984354,0,st_nfgh,1,L4
+st_nfgh_platform_2,Platform 2,28.613316,76.986259,0,st_nfgh,1,L8
+st_nfgh_unpaid_concourse,Unpaid Concourse,28.613316,76.986259,0,st_nfgh,1,L3
+st_nfgh_gate_no_1,Gate No. 1,28.6126772,76.984354,0,st_nfgh,1,L1
+st_nfgh_lift_no_3,Lift No. 3,28.6126772,76.984354,0,st_nfgh,1,L1
+st_nfgh_paid_concourse,Paid Concourse,28.613316,76.986259,0,st_nfgh,1,L4
+st_nfgh_gate_no_3,Gate No. 3,28.6126772,76.984354,0,st_nfgh,0,L1
+st_nfgh_lift_no_4,Lift No. 4,28.6126772,76.984354,0,st_nfgh,1,L1
+st_ptck,PATEL CHOWK,28.622967,77.212288,1,,1,
+st_ptck_lift_no_2,Lift No. 2,28.6233,77.2145,0,st_ptck,1,L1
+st_ptck_concourse,Concourse,28.622967,77.212288,0,st_ptck,1,L5
+st_ptck_gate_no_2,Gate No. 2,28.6233,77.2145,0,st_ptck,1,L1
+st_ptck_platform_1,Platform 1,28.622967,77.212288,0,st_ptck,1,L7
+st_ptck_lift_no_1,Lift No. 1,28.6233,77.2145,0,st_ptck,1,L4
+st_ptck_unpaid_concourse,Unpaid Concourse,28.622967,77.212288,0,st_ptck,1,L3
+st_ptck_gate_no_1,Gate No. 1,28.6233,77.2145,0,st_ptck,1,L1
+st_ptck_paid_concourse,Paid Concourse,28.622967,77.212288,0,st_ptck,1,L4
+st_ptck_gate_no_3,Gate No. 3,28.6233,77.2145,0,st_ptck,0,L1
+st_ptck_platform_2,Platform 2,28.622967,77.212288,0,st_ptck,1,L8
+st_ofdb,OLD FARIDABAD,28.412172,77.311272,1,,1,
+st_ofdb_lift_no_2,Lift No. 2,28.4102041,77.3086392,0,st_ofdb,1,L4
+st_ofdb_concourse,Concourse,28.412172,77.311272,0,st_ofdb,1,L5
+st_ofdb_gate_no_2,Gate No. 2,28.4102041,77.3086392,0,st_ofdb,0,L1
+st_ofdb_unpaid_concourse,Unpaid Concourse,28.412172,77.311272,0,st_ofdb,1,L3
+st_ofdb_lift_no_1,Lift No. 1,28.4102041,77.3086392,0,st_ofdb,1,L4
+st_ofdb_gate_no_1,Gate No. 1,28.4102041,77.3086392,0,st_ofdb,1,L1
+st_ofdb_lift_no_3,Lift No. 3,28.4102041,77.3086392,0,st_ofdb,1,L1
+st_ofdb_paid_concourse,Paid Concourse,28.412172,77.311272,0,st_ofdb,1,L4
+st_ofdb_gate_no_3,Gate No. 3,28.4102041,77.3086392,0,st_ofdb,1,L1
+st_ofdb_lift_no_4,Lift No. 4,28.4102041,77.3086392,0,st_ofdb,1,L1
+st_iit,IIT,28.547194,77.193832,1,,1,
+st_iit_lift_no_2,Lift No. 2,28.547199,77.1916283,0,st_iit,1,L1
+st_iit_gate_no_2,Gate No. 2,28.547199,77.1916283,0,st_iit,1,L1
+st_iit_platform_1,Platform 1,28.547194,77.193832,0,st_iit,1,L7
+st_iit_lift_no_1,Lift No. 1,28.547199,77.1916283,0,st_iit,1,L4
+st_iit_unpaid_concourse,Unpaid Concourse,28.547194,77.193832,0,st_iit,1,L3
+st_iit_gate_no_1,Gate No. 1,28.547199,77.1916283,0,st_iit,0,L1
+st_iit_lift_no_3,Lift No. 3,28.547199,77.1916283,0,st_iit,1,L1
+st_iit_paid_concourse,Paid Concourse,28.547194,77.193832,0,st_iit,1,L4
+st_iit_gate_no_3,Gate No. 3,28.547199,77.1916283,0,st_iit,1,L1
+st_iit_platform_2,Platform 2,28.547194,77.193832,0,st_iit,1,L8
+st_dnbt,DHANSA BUS STAND,28.611858,76.975426,1,,1,
+st_dnbt_lift_no_2,Lift No. 2,28.6118577,76.9754261,0,st_dnbt,1,L4
+st_dnbt_gate_no_2,Gate No. 2,28.6118577,76.9754261,0,st_dnbt,1,L1
+st_dnbt_unpaid_concourse,Unpaid Concourse,28.611858,76.975426,0,st_dnbt,1,L3
+st_dnbt_lift_no_1,Lift No. 1,28.6118577,76.9754261,0,st_dnbt,1,L4
+st_dnbt_lift_no_5,Lift No. 5,28.6118577,76.9754261,0,st_dnbt,1,L1
+st_dnbt_gate_no_1,Gate No.1,28.6118577,76.9754261,0,st_dnbt,1,L1
+st_dnbt_lift_no_3,Lift No. 3,28.6118577,76.9754261,0,st_dnbt,1,L1
+st_dnbt_paid_concourse,Paid Concourse,28.611858,76.975426,0,st_dnbt,1,L4
+st_dnbt_gate_no_3,Gate No. 3,28.6118577,76.9754261,0,st_dnbt,1,L1
+st_dnbt_lift_no_4,Lift No. 4,28.6118577,76.9754261,0,st_dnbt,1,L1
+st_stvr,SARITA VIHAR,28.528622,77.288345,1,,1,
+st_stvr_lift_no_2,Lift No. 2,28.5294337,77.2861724,0,st_stvr,1,L4
+st_stvr_concourse,Concourse,28.528622,77.288345,0,st_stvr,1,L5
+st_stvr_gate_no_2,Gate No. 2,28.5294337,77.2861724,0,st_stvr,1,L1
+st_stvr_platform_1,Platform 1,28.528622,77.288345,0,st_stvr,1,L7
+st_stvr_lift_no_1,Lift No. 1,28.5294337,77.2861724,0,st_stvr,1,L4
+st_stvr_platform_2,Platform 2,28.528622,77.288345,0,st_stvr,1,L8
+st_stvr_unpaid_concourse,Unpaid Concourse,28.528622,77.288345,0,st_stvr,1,L3
+st_stvr_gate_no_1,Gate No. 1,28.5294337,77.2861724,0,st_stvr,1,L1
+st_stvr_lift_no_3,Lift No. 3,28.5294337,77.2861724,0,st_stvr,1,L1
+st_stvr_paid_concourse,Paid Concourse,28.528622,77.288345,0,st_stvr,1,L4
+st_stvr_lift_no_4,Lift No. 4,28.5294337,77.2861724,0,st_stvr,1,L1
+st_jiee,JOHRI ENCLAVE,28.713297,77.290154,1,,1,
+st_jiee_lift_no_2,Lift No. 2,28.714627,77.2866533,0,st_jiee,1,L5
+st_jiee_gate_no_2,Gate No. 2,28.714627,77.2866533,0,st_jiee,1,L1
+st_jiee_unpaid_concourse,Unpaid Concourse,28.713297,77.290154,0,st_jiee,1,L3
+st_jiee_lift_no_1,Lift No. 1,28.714627,77.2866533,0,st_jiee,1,L5
+st_jiee_gate_no_1,Gate No. 1,28.714627,77.2866533,0,st_jiee,1,L1
+st_jiee_lift_no_3,Lift No. 3,28.714627,77.2866533,0,st_jiee,1,L1
+st_jiee_paid_concourse,Paid Concourse,28.713297,77.290154,0,st_jiee,1,L4
+st_jiee_lift_no_4,Lift No. 4,28.714627,77.2866533,0,st_jiee,1,L1
+st_nhpc,NHPC CHOWK,28.462435,77.305252,1,,1,
+st_nhpc_lift_no_2,Lift No. 2,28.4576694,77.3047513,0,st_nhpc,1,L4
+st_nhpc_concourse,Concourse,28.462435,77.305252,0,st_nhpc,1,L5
+st_nhpc_gate_no_2,Gate No. 2,28.4576694,77.3047513,0,st_nhpc,1,L1
+st_nhpc_platform_1,Platform 1,28.462435,77.305252,0,st_nhpc,1,L7
+st_nhpc_lift_no_1,Lift No. 1,28.4576694,77.3047513,0,st_nhpc,1,L4
+st_nhpc_platform_2,Platform 2,28.462435,77.305252,0,st_nhpc,1,L8
+st_nhpc_unpaid_concourse,Unpaid Concourse,28.462435,77.305252,0,st_nhpc,1,L3
+st_nhpc_gate_no_1,Gate No. 1,28.4576694,77.3047513,0,st_nhpc,0,L1
+st_nhpc_lift_no_3,Lift No. 3,28.4576694,77.3047513,0,st_nhpc,1,L1
+st_nhpc_paid_concourse,Paid Concourse,28.462435,77.305252,0,st_nhpc,1,L4
+st_nhpc_gate_no_3,Gate No. 3,28.4576694,77.3047513,0,st_nhpc,1,L1
+st_nhpc_lift_no_4,Lift No. 4,28.4576694,77.3047513,0,st_nhpc,1,L1
+st_tkpr,TRILOKPURI-SANJAY LAKE,28.6134317,77.3077957,1,,1,
+st_tkpr_lift_no_2,Lift No. 2,28.6134317,77.3077957,0,st_tkpr,1,L5
+st_tkpr_concourse,Concourse,28.6134317,77.3077957,0,st_tkpr,1,L5
+st_tkpr_gate_no_2,Gate No. 2,28.6134317,77.3077957,0,st_tkpr,1,L1
+st_tkpr_unpaid_concourse,Unpaid Concourse,28.6134317,77.3077957,0,st_tkpr,1,L3
+st_tkpr_lift_no_1,Lift No. 1,28.6134317,77.3077957,0,st_tkpr,1,L5
+st_tkpr_gate_no_1,Gate No. 1,28.6134317,77.3077957,0,st_tkpr,1,L1
+st_tkpr_lift_no_3,Lift No. 3,28.6134317,77.3077957,0,st_tkpr,1,L5
+st_tkpr_paid_concourse,Paid Concourse,28.6134317,77.3077957,0,st_tkpr,1,L4
+st_tkpr_lift_no_4,Lift No. 4,28.6134317,77.3077957,0,st_tkpr,1,L5
+st_mngm,MOHAN NAGAR,28.67856,77.384209,1,,1,
+st_mngm_lift_no_2,Lift No. 2,28.6785,77.3839,0,st_mngm,1,L5
+st_mngm_concourse,Concourse,28.67856,77.384209,0,st_mngm,1,L5
+st_mngm_gate_no_2,Gate No. 2,28.6785,77.3839,0,st_mngm,1,L1
+st_mngm_platform_1,Platform 1,28.67856,77.384209,0,st_mngm,1,L7
+st_mngm_lift_no_1,Lift No. 1,28.6785,77.3839,0,st_mngm,1,L5
+st_mngm_platform_2,Platform 2,28.67856,77.384209,0,st_mngm,1,L8
+st_mngm_unpaid_concourse,Unpaid Concourse,28.67856,77.384209,0,st_mngm,1,L3
+st_mngm_gate_no_1,Gate No. 1,28.6785,77.3839,0,st_mngm,1,L1
+st_mngm_lift_no_3,Lift No. 3,28.6785,77.3839,0,st_mngm,1,L1
+st_mngm_paid_concourse,Paid Concourse,28.67856,77.384209,0,st_mngm,1,L4
+st_mngm_lift_no_4,Lift No. 4,28.6785,77.3839,0,st_mngm,1,L1
+st_aiims,AIIMS,28.568199,77.207947,1,,1,
+st_aiims_lift_no_2,Lift No. 2,28.5668,77.2081,0,st_aiims,1,L1
+st_aiims_concourse,Concourse,28.568199,77.207947,0,st_aiims,1,L5
+st_aiims_gate_no_2,Gate No. 2,28.5668,77.2081,0,st_aiims,1,L1
+st_aiims_platform_1,Platform 1,28.568199,77.207947,0,st_aiims,1,L7
+st_aiims_lift_no_1,Lift No. 1,28.5668,77.2081,0,st_aiims,1,L4
+st_aiims_platform_2,Platform 2,28.568199,77.207947,0,st_aiims,1,L8
+st_aiims_gate_no_4,Gate No. 4,28.5668,77.2081,0,st_aiims,0,L1
+st_aiims_unpaid_concourse,Unpaid Concourse,28.568199,77.207947,0,st_aiims,1,L3
+st_aiims_gate_no_1,Gate No. 1,28.5668,77.2081,0,st_aiims,1,L1
+st_aiims_lift_no_3,Lift No. 3,28.5668,77.2081,0,st_aiims,1,L1
+st_aiims_paid_concourse,Paid Concourse,28.568199,77.207947,0,st_aiims,1,L4
+st_aiims_gate_no_3,Gate No. 3,28.5668,77.2081,0,st_aiims,1,L1
+st_aiims_lift_no_4,Lift No. 4,28.5668,77.2081,0,st_aiims,1,L1
+st_ghem,GHEVRA METRO STATION,28.685289,76.993584,1,,1,
+st_ghem_lift_no_2,Lift No. 2,28.6853835,76.9949917,0,st_ghem,1,L5
+st_ghem_concourse,Concourse,28.685289,76.993584,0,st_ghem,1,L5
+st_ghem_gate_no_2,Gate No. 2,28.6853835,76.9949917,0,st_ghem,1,L1
+st_ghem_platform_1,Platform 1,28.685289,76.993584,0,st_ghem,1,L7
+st_ghem_lift_no_1,Lift No. 1,28.6853835,76.9949917,0,st_ghem,1,L5
+st_ghem_platform_2,Platform 2,28.685289,76.993584,0,st_ghem,1,L8
+st_ghem_unpaid_concourse,Unpaid Concourse,28.685289,76.993584,0,st_ghem,1,L3
+st_ghem_gate_no_1,Gate No. 1,28.6853835,76.9949917,0,st_ghem,1,L1
+st_ghem_lift_no_3,Lift No. 3,28.6853835,76.9949917,0,st_ghem,1,L1
+st_ghem_paid_concourse,Paid Concourse,28.685289,76.993584,0,st_ghem,1,L4
+st_ghem_lift_no_4,Lift No. 4,28.6853835,76.9949917,0,st_ghem,1,L1
+st_kg,KASHMERE GATE,28.667879,77.228012,1,,1,
+st_kg_gate_no_7,Gate No. 7,28.6675,77.2282,0,st_kg,1,L1
+st_kg_concourse,Concourse,28.667879,77.228012,0,st_kg,1,L5
+st_kg_platform_4,Platform 4,28.667879,77.228012,0,st_kg,1,L6
+st_kg_lift_no_1c,Lift No. 1C,28.6675,77.2282,0,st_kg,1,L5
+st_kg_gate_no_1,Gate No. 1,28.6675,77.2282,0,st_kg,1,L1
+st_kg_lift_no_1a,Lift No. 1A,28.6675,77.2282,0,st_kg,1,L5
+st_kg_paid_concourse,Paid Concourse,28.667879,77.228012,0,st_kg,1,L4
+st_kg_platform_5,Platform 5,28.667879,77.228012,0,st_kg,1,L6
+st_kg_lift_no_2c,Lift No. 2C,28.6675,77.2282,0,st_kg,1,L5
+st_kg_platform_1,Platform 1,28.667879,77.228012,0,st_kg,1,L7
+st_kg_gate_no_4,Gate No. 4,28.6675,77.2282,0,st_kg,0,L1
+st_kg_lift_no_2b,Lift No. 2B,28.6675,77.2282,0,st_kg,1,L5
+st_kg_platform_2,Platform 2,28.667879,77.228012,0,st_kg,1,L8
+st_kg_gate_no_8,Gate No. 8,28.6675,77.2282,0,st_kg,1,L1
+st_kg_gate_no_6,Gate No. 6,28.6675,77.2282,0,st_kg,1,L1
+st_kg_platform_6,Platform 6,28.667879,77.228012,0,st_kg,1,L6
+st_kg_lift_no_2a,Lift No. 2A,28.6675,77.2282,0,st_kg,1,L5
+st_kg_gate_no_5,Gate No. 5,28.6675,77.2282,0,st_kg,0,L1
+st_kg_platform_3,Platform 3,28.667879,77.228012,0,st_kg,1,L6
+st_kg_lift_no_1b,Lift No. 1B,28.6675,77.2282,0,st_kg,1,L5
+st_kg_unpaid_concourse,Unpaid Concourse,28.667879,77.228012,0,st_kg,1,L3
+st_kg_gate_no_3,Gate No. 3,28.6675,77.2282,0,st_kg,0,L1
+st_kpen,KRISHNA PARK EXTENSION,28.64777 N,77.08439 E,1,,1,
+st_kpen_lift_no_2,Lift No. 2,28.6295,77.0778,0,st_kpen,1,L5
+st_kpen_concourse,Concourse,28.64777 N,77.08439 E,0,st_kpen,1,L5
+st_kpen_gate_no_2,Gate No. 2,28.64777 N,77.08439 E,0,st_kpen,0,L1
+st_kpen_platform_1,Platform 1,28.64777 N,77.08439 E,0,st_kpen,1,L7
+st_kpen_lift_no_1,Lift No. 1,28.6295,77.0778,0,st_kpen,1,L5
+st_kpen_platform_2,Platform 2,28.64777 N,77.08439 E,0,st_kpen,1,L8
+st_kpen_unpaid_concourse,Unpaid Concourse,28.64777 N,77.08439 E,0,st_kpen,1,L3
+st_kpen_gate_no_1,Gate No. 1,28.64777 N,77.08439 E,0,st_kpen,0,L1
+st_kpen_lift_no_3,Lift No. 3,28.6295,77.0778,0,st_kpen,1,L1
+st_kpen_paid_concourse,Paid Concourse,28.64777 N,77.08439 E,0,st_kpen,1,L4
+st_kpen_lift_no_4,Lift No. 4,28.6295,77.0778,0,st_kpen,1,L1
+st_yb,YAMUNA BANK,28.623178,77.267937,1,,1,
+st_yb_concourse,Concourse,28.623178,77.267937,0,st_yb,1,L5
+st_yb_lift_no_2,Lift No. 2,28.6233,77.2679,0,st_yb,1,L4
+st_yb_platform_4,Platform 4,28.623178,77.267937,0,st_yb,1,L6
+st_yb_platform_1,Platform 1,28.623178,77.267937,0,st_yb,1,L7
+st_yb_lift_no_1,Lift No. 1,28.6233,77.2679,0,st_yb,1,L4
+st_yb_unpaid_concourse,Unpaid Concourse,28.623178,77.267937,0,st_yb,1,L3
+st_yb_gate_no_1,Gate No. 1,28.6233,77.2679,0,st_yb,1,L1
+st_yb_platform_3,Platform 3,28.623178,77.267937,0,st_yb,1,L6
+st_yb_lift_no_3,Lift No. 3,28.6233,77.2679,0,st_yb,1,L4
+st_yb_paid_concourse,Paid Concourse,28.623178,77.267937,0,st_yb,1,L4
+st_yb_platform_2,Platform 2,28.623178,77.267937,0,st_yb,1,L8
+st_hks,HAUZ KHAS,28.543346,77.206673,1,,1,
+st_hks_lift_no_2,Lift No. 2,28.544,77.2062,0,st_hks,1,L1
+st_hks_concourse,Concourse,28.543346,77.206673,0,st_hks,1,L5
+st_hks_platform_4,Platform 4,28.543346,77.206673,0,st_hks,1,L6
+st_hks_gate_no_1,Gate No. 1,28.544,77.2062,0,st_hks,1,L1
+st_hks_paid_concourse,Paid Concourse,28.543346,77.206673,0,st_hks,1,L4
+st_hks_platform_1,Platform 1,28.543346,77.206673,0,st_hks,1,L7
+st_hks_gate_no_4,Gate No. 4,28.544,77.2062,0,st_hks,1,L1
+st_hks_lift_no_1_a,Lift No. 1 A,28.544,77.2062,0,st_hks,1,L5
+st_hks_lift_no_2_a,Lift No. 2 A,28.544,77.2062,0,st_hks,1,L5
+st_hks_platform_2,Platform 2,28.543346,77.206673,0,st_hks,1,L8
+st_hks_lift_no_6_a,Lift No. 6 A,28.544,77.2062,0,st_hks,1,L1
+st_hks_lift_no_3_a,Lift No. 3 A,28.544,77.2062,0,st_hks,1,L1
+st_hks_lift_no_1,Lift No. 1,28.544,77.2062,0,st_hks,1,L4
+st_hks_lift_no_4_a,Lift No. 4 A,28.544,77.2062,0,st_hks,1,L1
+st_hks_platform_3,Platform 3,28.543346,77.206673,0,st_hks,1,L6
+st_hks_lift_no_5_a,Lift No. 5 A,28.544,77.2062,0,st_hks,1,L1
+st_hks_gate_no_2,Gate No. 2,28.544,77.2062,0,st_hks,0,L1
+st_hks_unpaid_concourse,Unpaid Concourse,28.543346,77.206673,0,st_hks,1,L3
+st_hks_lift_no_7_a,Lift No. 7 A,28.544,77.2062,0,st_hks,1,L1
+st_hks_gate_no_3,Gate No. 3,28.544,77.2062,0,st_hks,1,L1
+st_chk,CHANDNI CHOWK,28.656443,77.229218,1,,1,
+st_chk_lift_no_2,Lift No. 2,28.6588,77.2304,0,st_chk,1,L1
+st_chk_concourse,Concourse,28.656443,77.229218,0,st_chk,1,L5
+st_chk_gate_no_2,Gate No. 2,28.6588,77.2304,0,st_chk,1,L1
+st_chk_platform_1,Platform 1,28.656443,77.229218,0,st_chk,1,L7
+st_chk_lift_no_1,Lift No. 1,28.6588,77.2304,0,st_chk,1,L4
+st_chk_unpaid_concourse,Unpaid Concourse,28.656443,77.229218,0,st_chk,1,L3
+st_chk_gate_no_4,Gate No. 4,28.6588,77.2304,0,st_chk,0,L1
+st_chk_gate_no_1,Gate No. 1,28.6588,77.2304,0,st_chk,0,L1
+st_chk_gate_no_5,Gate No. 5,28.6588,77.2304,0,st_chk,0,L1
+st_chk_paid_concourse,Paid Concourse,28.656443,77.229218,0,st_chk,1,L4
+st_chk_gate_no_3,Gate No. 3,28.6588,77.2304,0,st_chk,0,L1
+st_chk_platform_2,Platform 2,28.656443,77.229218,0,st_chk,1,L8
+st_nngi,NANGLI,28.61722,77.010345,1,,1,
+st_nngi_lift_no_2,Lift No. 2,28.6174019,77.0083739,0,st_nngi,1,L4
+st_nngi_gate_no_2,Gate No. 2,28.6174019,77.0083739,0,st_nngi,1,L1
+st_nngi_platform_1,Platform 1,28.61722,77.010345,0,st_nngi,1,L7
+st_nngi_lift_no_1,Lift No. 1,28.6174019,77.0083739,0,st_nngi,1,L4
+st_nngi_platform_2,Platform 2,28.61722,77.010345,0,st_nngi,1,L8
+st_nngi_unpaid_concourse,Unpaid Concourse,28.61722,77.010345,0,st_nngi,1,L3
+st_nngi_gate_no_1,Gate No. 1,28.6174019,77.0083739,0,st_nngi,1,L1
+st_nngi_lift_no_3,Lift No. 3,28.6174019,77.0083739,0,st_nngi,1,L1
+st_nngi_paid_concourse,Paid Concourse,28.61722,77.010345,0,st_nngi,1,L4
+st_nngi_lift_no_4,Lift No. 4,28.6174019,77.0083739,0,st_nngi,1,L1
+st_jpw,JANAKPURI WEST,28.6295,77.0778,1,,1,
+st_jpw_lift_no_2,Lift No. 2,28.6295,77.0778,0,st_jpw,1,L4
+st_jpw_concourse,Concourse,28.6295,77.0778,0,st_jpw,1,L5
+st_jpw_lift_no_2_magenta_line,Lift No. 2 (Magenta Line),28.6295,77.0778,0,st_jpw,1,L5
+st_jpw_platform_4,Platform 4,28.6295,77.0778,0,st_jpw,1,L6
+st_jpw_lift_no_1_magenta_line,Lift No. 1 (Magenta Line),28.6295,77.0778,0,st_jpw,1,L5
+st_jpw_gate_no_2,Gate No. 2,28.6295,77.0778,0,st_jpw,1,L5
+st_jpw_platform_1,Platform 1,28.6295,77.0778,0,st_jpw,1,L7
+st_jpw_lift_no_1,Lift No. 1,28.6295,77.0778,0,st_jpw,1,L4
+st_jpw_platform_2,Platform 2,28.6295,77.0778,0,st_jpw,1,L8
+st_jpw_unpaid_concourse,Unpaid Concourse,28.6295,77.0778,0,st_jpw,1,L3
+st_jpw_gate_no_1,Gate No. 1,28.6295,77.0778,0,st_jpw,1,L5
+st_jpw_lift_no_4_magenta_line,Lift No. 4 (Magenta Line),28.6295,77.0778,0,st_jpw,1,L1
+st_jpw_lift_no_3_magenta_line,Lift No. 3 (Magenta Line),28.6295,77.0778,0,st_jpw,1,L5
+st_jpw_platform_3,Platform 3,28.6295,77.0778,0,st_jpw,1,L6
+st_jpw_lift_no_5_magenta_line,Lift No. 5 (Magenta Line),28.6295,77.0778,0,st_jpw,1,L1
+st_jpw_paid_concourse,Paid Concourse,28.6295,77.0778,0,st_jpw,1,L4
+st_jpw_gate_no_3,Gate No. 3,28.6295,77.0778,0,st_jpw,1,L1
+st_jpw_lift_no_4,Lift No. 4,28.6295,77.0778,0,st_jpw,1,L1
+st_shpk,SHASTRI PARK,28.668451,77.250404,1,,1,
+st_shpk_lift_no_2,Lift No. 2,28.6683,77.2503,0,st_shpk,1,L6
+st_shpk_gate_no_2,Gate No. 2,28.6683,77.2503,0,st_shpk,0,L1
+st_shpk_platform_1,Platform 1,28.668451,77.250404,0,st_shpk,1,L7
+st_shpk_lift_no_1,Lift No. 1,28.6683,77.2503,0,st_shpk,1,L6
+st_shpk_platform_2,Platform 2,28.668451,77.250404,0,st_shpk,1,L8
+st_shpk_unpaid_concourse,Unpaid Concourse,28.668451,77.250404,0,st_shpk,1,L3
+st_shpk_gate_no_1,Gate No. 1,28.6683,77.2503,0,st_shpk,1,L1
+st_shpk_lift_no_3,Lift No. 3,28.6683,77.2503,0,st_shpk,1,L1
+st_shpk_paid_concourse,Paid Concourse,28.668451,77.250404,0,st_shpk,1,L4
+st_shpk_lift_no_4,Lift No. 4,28.6683,77.2503,0,st_shpk,1,L1
+st_qm,QUTAB MINAR,28.512714,77.185791,1,,1,
+st_qm_lift_no_2,Lift No. 2,28.5129,77.1863,0,st_qm,1,L4
+st_qm_concourse,Concourse,28.512714,77.185791,0,st_qm,1,L5
+st_qm_gate_no_2,Gate No. 2,28.5129,77.1863,0,st_qm,1,L1
+st_qm_platform_1,Platform 1,28.512714,77.185791,0,st_qm,1,L7
+st_qm_lift_no_1,Lift No. 1,28.5129,77.1863,0,st_qm,1,L4
+st_qm_unpaid_concourse,Unpaid Concourse,28.512714,77.185791,0,st_qm,1,L3
+st_qm_gate_no_1,Gate No. 1,28.5129,77.1863,0,st_qm,1,L1
+st_qm_paid_concourse,Paid Concourse,28.512714,77.185791,0,st_qm,1,L4
+st_qm_platform_2,Platform 2,28.512714,77.185791,0,st_qm,1,L8
+st_ncbc,SANT SURDAS (SIHI),28.354666,77.316261,1,,1,
+st_ncbc_lift_no_2,Lift No. 2,28.354673,77.3140293,0,st_ncbc,1,L4
+st_ncbc_concourse,Concourse,28.354666,77.316261,0,st_ncbc,1,L5
+st_ncbc_gate_no_2,Gate No. 2,28.354673,77.3140293,0,st_ncbc,1,L1
+st_ncbc_platform_1,Platform 1,28.354666,77.316261,0,st_ncbc,1,L7
+st_ncbc_lift_no_1,Lift No. 1,28.354673,77.3140293,0,st_ncbc,1,L4
+st_ncbc_platform_2,Platform 2,28.354666,77.316261,0,st_ncbc,1,L8
+st_ncbc_unpaid_concourse,Unpaid Concourse,28.354666,77.316261,0,st_ncbc,1,L3
+st_ncbc_gate_no_1,Gate No. 1,28.354673,77.3140293,0,st_ncbc,1,L1
+st_ncbc_lift_no_3,Lift No. 3,28.354673,77.3140293,0,st_ncbc,1,L1
+st_ncbc_paid_concourse,Paid Concourse,28.354666,77.316261,0,st_ncbc,1,L4
+st_ncbc_gate_no_3,Gate No. 3,28.354673,77.3140293,0,st_ncbc,1,L1
+st_ncbc_lift_no_4,Lift No. 4,28.354673,77.3140293,0,st_ncbc,1,L1
+st_svmb,SIR M. VISHWESHWARAIAH MOTI BAGH,28.578504,77.1735373,1,,1,
+st_svmb_lift_no_2,Lift No. 2,28.578504,77.1735373,0,st_svmb,1,L5
+st_svmb_paid_concourse,Paid Concourse,28.578504,77.1735373,0,st_svmb,1,L4
+st_svmb_gate_no_2,Gate No. 2,28.578504,77.1735373,0,st_svmb,0,L1
+st_svmb_unpaid_concourse,Unpaid Concourse,28.578504,77.1735373,0,st_svmb,1,L3
+st_svmb_lift_no_1,Lift No. 1,28.578504,77.1735373,0,st_svmb,1,L5
+st_svmb_lift_no_5,Lift No. 5,28.578504,77.1735373,0,st_svmb,1,L0
+st_svmb_gate_no_1,Gate No. 1,28.578504,77.1735373,0,st_svmb,1,L1
+st_svmb_lift_no_3,Lift No. 3,28.578504,77.1735373,0,st_svmb,1,L3
+st_svmb_subway_gate_no_1,Subway (Gate No. 1 ),28.578504,77.1735373,0,st_svmb,1,L1
+st_svmb_lift_no_4,Lift No. 4,28.578504,77.1735373,0,st_svmb,1,L0
+st_mvpo,MAYUR VIHAR POCKET-1,28.6057944,77.2965148,1,,1,
+st_mvpo_lift_no_2,Lift No. 2,28.6057944,77.2965148,0,st_mvpo,1,L5
+st_mvpo_concourse,Concourse,28.6057944,77.2965148,0,st_mvpo,1,L5
+st_mvpo_gate_no_2,Gate No. 2,28.6057944,77.2965148,0,st_mvpo,1,L1
+st_mvpo_unpaid_concourse,Unpaid Concourse,28.6057944,77.2965148,0,st_mvpo,1,L3
+st_mvpo_lift_no_1,Lift No. 1,28.6057944,77.2965148,0,st_mvpo,1,L5
+st_mvpo_gate_no_1,Gate No. 1,28.6057944,77.2965148,0,st_mvpo,1,L1
+st_mvpo_lift_no_3,Lift No. 3,28.6057944,77.2965148,0,st_mvpo,1,L5
+st_mvpo_paid_concourse,Paid Concourse,28.6057944,77.2965148,0,st_mvpo,1,L4
+st_mvpo_lift_no_4,Lift No. 4,28.6057944,77.2965148,0,st_mvpo,1,L5
+st_azu,AZADPUR,28.707287,77.179863,1,,1,
+st_azu_lift_no_2a_pink_line,Lift No. 2A (Pink Line),28.707,77.1807,0,st_azu,1,L1
+st_azu_concourse,Concourse,28.707287,77.179863,0,st_azu,1,L5
+st_azu_lift_no_3a_pink_line,Lift No. 3A (Pink Line),28.707,77.1807,0,st_azu,1,L1
+st_azu_lift_no_1a_pink_line,Lift No. 1A (Pink Line),28.707,77.1807,0,st_azu,1,L6
+st_azu_gate_no_2,Gate No. 2,28.707,77.1807,0,st_azu,0,L1
+st_azu_paid_concourse,Paid Concourse,28.707287,77.179863,0,st_azu,1,L4
+st_azu_platform_1,Platform 1,28.707287,77.179863,0,st_azu,1,L7
+st_azu_unpaid_concourse,Unpaid Concourse,28.707287,77.179863,0,st_azu,1,L3
+st_azu_gate_no_4,Gate No. 4,28.707,77.1807,0,st_azu,1,L1
+st_azu_gate_no_1,Gate No. 1,28.707,77.1807,0,st_azu,1,L1
+st_azu_lift_no_3_yellow_line,Lift No. 3 (Yellow Line),28.707,77.1807,0,st_azu,1,L1
+st_azu_lift_no_1_yellow_line,Lift No. 1 (Yellow Line),28.707,77.1807,0,st_azu,1,L6
+st_azu_lift_no_2_yellow_line,Lift No. 2 (Yellow Line),28.707,77.1807,0,st_azu,1,L6
+st_azu_gate_no_3,Gate No. 3,28.707,77.1807,0,st_azu,1,L1
+st_azu_platform_2,Platform 2,28.707287,77.179863,0,st_azu,1,L8
+st_tklm,TIKRI KALAN,28.686899,76.977249,1,,1,
+st_tklm_lift_no_2,Lift No. 2,28.68688,76.9750813,0,st_tklm,1,L5
+st_tklm_gate_no_2,Gate No. 2,28.68688,76.9750813,0,st_tklm,1,L1
+st_tklm_unpaid_concourse,Unpaid Concourse,28.686899,76.977249,0,st_tklm,1,L3
+st_tklm_lift_no_1,Lift No. 1,28.68688,76.9750813,0,st_tklm,1,L5
+st_tklm_gate_no_1,Gate No. 1,28.68688,76.9750813,0,st_tklm,1,L1
+st_tklm_lift_no_3,Lift No. 3,28.68688,76.9750813,0,st_tklm,1,L1
+st_tklm_paid_concourse,Paid Concourse,28.686899,76.977249,0,st_tklm,1,L4
+st_tklm_lift_no_4,Lift No. 4,28.68688,76.9750813,0,st_tklm,1,L1
+st_miee,PANDIT SHREE RAM SHARMA,28.689213,76.951088,1,,1,
+st_miee_lift_no_2,Lift No. 2,28.6892418,76.9489583,0,st_miee,1,L5
+st_miee_gate_no_2,Gate No. 2,28.6892418,76.9489583,0,st_miee,1,L1
+st_miee_unpaid_concourse,Unpaid Concourse,28.689213,76.951088,0,st_miee,1,L3
+st_miee_lift_no_1,Lift No. 1,28.6892418,76.9489583,0,st_miee,1,L5
+st_miee_gate_no_1,Gate No. 1,28.6892418,76.9489583,0,st_miee,1,L1
+st_miee_lift_no_3,Lift No. 3,28.6892418,76.9489583,0,st_miee,1,L1
+st_miee_paid_concourse,Paid Concourse,28.689213,76.951088,0,st_miee,1,L4
+st_miee_lift_no_4,Lift No. 4,28.6892418,76.9489583,0,st_miee,1,L1
+st_dstn,DWARKA SECTOR - 13,28.59705,77.033043,1,,1,
+st_dstn_lift_no_2,Lift No. 2,28.5972,77.0333,0,st_dstn,1,L4
+st_dstn_gate_no_2,Gate No. 2,28.5972,77.0333,0,st_dstn,1,L1
+st_dstn_platform_1,Platform 1,28.59705,77.033043,0,st_dstn,1,L7
+st_dstn_lift_no_1,Lift No. 1,28.5972,77.0333,0,st_dstn,1,L4
+st_dstn_unpaid_concourse,Unpaid Concourse,28.59705,77.033043,0,st_dstn,1,L3
+st_dstn_gate_no_1,Gate No. 1,28.5972,77.0333,0,st_dstn,1,L1
+st_dstn_paid_concourse,Paid Concourse,28.59705,77.033043,0,st_dstn,1,L4
+st_dstn_platform_2,Platform 2,28.59705,77.033043,0,st_dstn,1,L8
+st_ifoc,IFFCO CHOWK,28.472137,77.072502,1,,1,
+st_ifoc_lift_no_2,Lift No. 2,28.4722,77.0724,0,st_ifoc,1,L4
+st_ifoc_concourse,Concourse,28.472137,77.072502,0,st_ifoc,1,L5
+st_ifoc_gate_no_2,Gate No. 2,28.4722,77.0724,0,st_ifoc,1,L1
+st_ifoc_platform_1,Platform 1,28.472137,77.072502,0,st_ifoc,1,L7
+st_ifoc_lift_no_1,Lift No. 1,28.4722,77.0724,0,st_ifoc,1,L4
+st_ifoc_platform_2,Platform 2,28.472137,77.072502,0,st_ifoc,1,L8
+st_ifoc_unpaid_concourse,Unpaid Concourse,28.472137,77.072502,0,st_ifoc,1,L3
+st_ifoc_gate_no_1,Gate No. 1,28.4722,77.0724,0,st_ifoc,0,L1
+st_ifoc_lift_no_3,Lift No. 3,28.4722,77.0724,0,st_ifoc,1,L1
+st_ifoc_paid_concourse,Paid Concourse,28.472137,77.072502,0,st_ifoc,1,L4
+st_ifoc_gate_no_3,Gate No. 3,28.4722,77.0724,0,st_ifoc,0,L1
+st_ifoc_lift_no_4,Lift No. 4,28.4722,77.0724,0,st_ifoc,1,L1
+st_soen,SOUTH EXTENSION,28.5686,77.219818,1,,1,
+st_soen_lift_no_2,Lift No. 2,28.5686386,77.2180074,0,st_soen,1,L3
+st_soen_concourse,Concourse,28.5686,77.219818,0,st_soen,1,L5
+st_soen_gate_no_2,Gate No. 2,28.5686386,77.2180074,0,st_soen,1,L1
+st_soen_unpaid_concourse,Unpaid Concourse,28.5686,77.219818,0,st_soen,1,L3
+st_soen_lift_no_1,Lift No. 1,28.5686386,77.2180074,0,st_soen,1,L4
+st_soen_gate_no_4,Gate No. 4,28.5686386,77.2180074,0,st_soen,1,L1
+st_soen_gate_no_1,Gate No. 1,28.5686386,77.2180074,0,st_soen,0,L1
+st_soen_lift_no_3,Lift No. 3,28.5686386,77.2180074,0,st_soen,1,L3
+st_soen_paid_concourse,Paid Concourse,28.5686,77.219818,0,st_soen,1,L4
+st_soen_gate_no_3,Gate No. 3,28.5686386,77.2180074,0,st_soen,0,L1
+st_buss,BAHADURGARH CITY,28.690784,76.935265,1,,1,
+st_buss_lift_no_2,Lift No. 2,28.6906885,76.9352146,0,st_buss,1,L5
+st_buss_gate_no_2,Gate No. 2,28.6906885,76.9352146,0,st_buss,1,L1
+st_buss_unpaid_concourse,Unpaid Concourse,28.690784,76.935265,0,st_buss,1,L3
+st_buss_lift_no_1,Lift No. 1,28.6906885,76.9352146,0,st_buss,1,L5
+st_buss_gate_no_1,Gate No. 1,28.6906885,76.9352146,0,st_buss,1,L1
+st_buss_lift_no_3,Lift no  3,28.6906885,76.9352146,0,st_buss,1,L1
+st_buss_paid_concourse,Paid Concourse,28.690784,76.935265,0,st_buss,1,L4
+st_buss_lift_no_4,Lift no. 4,28.6906885,76.9352146,0,st_buss,1,L1
+st_nbaa,SHAHEED STHAL ( NEW BUS ADDA),28.6705,77.4158,1,,1,
+st_nbaa_lift_no_2,Lift No. 2,28.6705,77.4158,0,st_nbaa,1,L5
+st_nbaa_gate_no_2,Gate No. 2,28.6705,77.4158,0,st_nbaa,1,L1
+st_nbaa_platform_1,Platform 1,28.6705,77.4158,0,st_nbaa,1,L7
+st_nbaa_lift_no_1,Lift No. 1,28.6705,77.4158,0,st_nbaa,1,L5
+st_nbaa_platform_2,Platform 2,28.6705,77.4158,0,st_nbaa,1,L8
+st_nbaa_unpaid_concourse,Unpaid Concourse,28.6705,77.4158,0,st_nbaa,1,L3
+st_nbaa_gate_no_1,Gate No. 1,28.6705,77.4158,0,st_nbaa,1,L1
+st_nbaa_lift_no_3,Lift No. 3,28.6705,77.4158,0,st_nbaa,1,L1
+st_nbaa_paid_concourse,Paid Concourse,28.6705,77.4158,0,st_nbaa,1,L4
+st_nbaa_lift_no_4,Lift No. 4,28.6705,77.4158,0,st_nbaa,1,L1
+st_vtvr,VASANT VIHAR,28.558378,77.160774,1,,1,
+st_vtvr_lift_no_2,Lift No. 2,28.5581039,77.1603043,0,st_vtvr,1,L1
+st_vtvr_concourse,Concourse,28.558378,77.160774,0,st_vtvr,1,L5
+st_vtvr_gate_no_2,Gate No. 2,28.5581039,77.1603043,0,st_vtvr,1,L1
+st_vtvr_unpaid_concourse,Unpaid Concourse,28.558378,77.160774,0,st_vtvr,1,L3
+st_vtvr_lift_no_1,Lift No. 1,28.5581039,77.1603043,0,st_vtvr,1,L4
+st_vtvr_gate_no_4,Gate No. 4,28.5581039,77.1603043,0,st_vtvr,1,L1
+st_vtvr_gate_no_1,Gate No. 1,28.5581039,77.1603043,0,st_vtvr,0,L1
+st_vtvr_lift_no_3,Lift No. 3,28.5581039,77.1603043,0,st_vtvr,1,L1
+st_vtvr_paid_concourse,Paid Concourse,28.558378,77.160774,0,st_vtvr,1,L4
+st_vtvr_gate_no_3,Gate No. 3,28.5581039,77.1603043,0,st_vtvr,0,L1
+st_dsn,DWARKA SECTOR - 9,28.574284,77.065086,1,,1,
+st_dsn_lift_no_2,Lift No. 2,28.5743,77.0653,0,st_dsn,1,L4
+st_dsn_gate_no_2,Gate No. 2,28.5743,77.0653,0,st_dsn,1,L1
+st_dsn_platform_1,Platform 1,28.574284,77.065086,0,st_dsn,1,L7
+st_dsn_lift_no_1,Lift No. 1,28.5743,77.0653,0,st_dsn,1,L4
+st_dsn_unpaid_concourse,Unpaid Concourse,28.574284,77.065086,0,st_dsn,1,L3
+st_dsn_gate_no_1,Gate No. 1,28.5743,77.0653,0,st_dsn,1,L1
+st_dsn_paid_concourse,Paid Concourse,28.574284,77.065086,0,st_dsn,1,L4
+st_dsn_platform_2,Platform 2,28.574284,77.065086,0,st_dsn,1,L8
+st_pagi,PEERAGARHI,28.6798828,77.0910404,1,,1,
+st_pagi_lift_no_2,Lift No. 2,28.6798828,77.0910404,0,st_pagi,1,L5
+st_pagi_gate_no_2,Gate No. 2,28.6798828,77.0910404,0,st_pagi,1,L1
+st_pagi_unpaid_concourse,Unpaid Concourse,28.6798828,77.0910404,0,st_pagi,1,L3
+st_pagi_lift_no_1,Lift No. 1,28.6798828,77.0910404,0,st_pagi,1,L5
+st_pagi_gate_no_1,Gate No. 1,28.6798828,77.0910404,0,st_pagi,1,L1
+st_pagi_lift_no_3,Lift No. 3,28.6798828,77.0910404,0,st_pagi,1,L1
+st_pagi_paid_concourse,Paid Concourse,28.6798828,77.0910404,0,st_pagi,1,L4
+st_pagi_lift_no_4,Lift No. 4,28.6798828,77.0910404,0,st_pagi,1,L1
+st_slap,SEELAMPUR,28.6699,77.2666,1,,1,
+st_slap_concourse,Concourse,28.6699,77.2666,0,st_slap,1,L5
+st_slap_platform_1,Platform 1,28.6699,77.2666,0,st_slap,1,L7
+st_slap_lift_no_1,Lift No. 1,28.6699,77.2666,0,st_slap,1,L5
+st_slap_unpaid_concourse,Unpaid Concourse,28.6699,77.2666,0,st_slap,1,L3
+st_slap_gate_no_1,Gate No. 1,28.6699,77.2666,0,st_slap,1,L1
+st_slap_paid_concourse,Paid Concourse,28.6699,77.2666,0,st_slap,1,L4
+st_slap_platform_2,Platform 2,28.6699,77.2666,0,st_slap,1,L8
+st_rdpk,RAJDHANI PARK,28.682217,77.043869,1,,1,
+st_rdpk_lift_no_2,Lift No. 2,28.6822794,77.0418183,0,st_rdpk,1,L5
+st_rdpk_gate_no_2,Gate No. 2,28.6822794,77.0418183,0,st_rdpk,0,L1
+st_rdpk_unpaid_concourse,Unpaid Concourse,28.682217,77.043869,0,st_rdpk,1,L3
+st_rdpk_lift_no_1,Lift No. 1,28.6822794,77.0418183,0,st_rdpk,1,L5
+st_rdpk_gate_no_1,Gate No. 1,28.6822794,77.0418183,0,st_rdpk,1,L1
+st_rdpk_lift_no_3,Lift No. 3,28.6822794,77.0418183,0,st_rdpk,1,L1
+st_rdpk_paid_concourse,Paid Concourse,28.682217,77.043869,0,st_rdpk,1,L4
+st_rdpk_lift_no_4,Lift No. 4,28.6822794,77.0418183,0,st_rdpk,1,L1
+st_mmjr,MEWALA MAHARAJPUR,28.4485,77.308098,1,,1,
+st_mmjr_lift_no_2,Lift No. 2,28.448587,77.308071,0,st_mmjr,1,L4
+st_mmjr_concourse,Concourse,28.4485,77.308098,0,st_mmjr,1,L5
+st_mmjr_gate_no_2,Gate No. 2,28.448587,77.308071,0,st_mmjr,0,L1
+st_mmjr_platform_1,Platform 1,28.4485,77.308098,0,st_mmjr,1,L7
+st_mmjr_lift_no_1,Lift No. 1,28.448587,77.308071,0,st_mmjr,1,L4
+st_mmjr_platform_2,Platform 2,28.4485,77.308098,0,st_mmjr,1,L8
+st_mmjr_unpaid_concourse,Unpaid Concourse,28.4485,77.308098,0,st_mmjr,1,L3
+st_mmjr_gate_no_1,Gate No. 1,28.448587,77.308071,0,st_mmjr,1,L1
+st_mmjr_lift_no_3,Lift No. 3,28.448587,77.308071,0,st_mmjr,1,L1
+st_mmjr_paid_concourse,Paid Concourse,28.4485,77.308098,0,st_mmjr,1,L4
+st_mmjr_gate_no_3,Gate No. 3,28.448587,77.308071,0,st_mmjr,1,L1
+st_mmjr_lift_no_4,Lift No. 4,28.448587,77.308071,0,st_mmjr,1,L1
+st_cipk,BRIG. HOSHIAR SINGH,28.6973662,76.9187353,1,,1,
+st_cipk_lift_no_2,Lift No. 2,28.6973662,76.9187353,0,st_cipk,1,L5
+st_cipk_concourse,Concourse,28.6973662,76.9187353,0,st_cipk,1,L5
+st_cipk_gate_no_2,Gate No. 2,28.6973662,76.9187353,0,st_cipk,1,L1
+st_cipk_platform_1,Platform 1,28.6973662,76.9187353,0,st_cipk,1,L7
+st_cipk_lift_no_1,Lift No. 1,28.6973662,76.9187353,0,st_cipk,1,L5
+st_cipk_platform_2,Platform 2,28.6973662,76.9187353,0,st_cipk,1,L8
+st_cipk_unpaid_concourse,Unpaid Concourse,28.6973662,76.9187353,0,st_cipk,1,L3
+st_cipk_gate_no_1,Gate No. 1,28.6973662,76.9187353,0,st_cipk,1,L1
+st_cipk_lift_no_3,Lift No. 3,28.6973662,76.9187353,0,st_cipk,1,L1
+st_cipk_paid_concourse,Paid Concourse,28.6973662,76.9187353,0,st_cipk,1,L4
+st_cipk_lift_no_4,Lift No. 4,28.6973662,76.9187353,0,st_cipk,1,L1
+st_ova,OKHLA VIHAR,28.561255,77.291916,1,,1,
+st_ova_lift_no_2,Lift No. 2,28.5614626,77.2919823,0,st_ova,1,L4
+st_ova_concourse,Concourse,28.561255,77.291916,0,st_ova,1,L5
+st_ova_gate_no_2,Gate No. 2,28.5614626,77.2919823,0,st_ova,1,L1
+st_ova_platform_1,Platform 1,28.561255,77.291916,0,st_ova,1,L7
+st_ova_lift_no_1,Lift No. 1,28.5614626,77.2919823,0,st_ova,1,L4
+st_ova_platform_2,Platform 2,28.561255,77.291916,0,st_ova,1,L8
+st_ova_unpaid_concourse,Unpaid Concourse,28.561255,77.291916,0,st_ova,1,L3
+st_ova_gate_no_1,Gate No. 1,28.5614626,77.2919823,0,st_ova,1,L1
+st_ova_lift_no_3,Lift No. 3,28.5614626,77.2919823,0,st_ova,1,L1
+st_ova_paid_concourse,Paid Concourse,28.561255,77.291916,0,st_ova,1,L4
+st_ova_gate_no_3,Gate No. 3,28.5614626,77.2919823,0,st_ova,0,L1
+st_ova_lift_no_4,Lift No. 4,28.5614626,77.2919823,0,st_ova,1,L1
+st_igda,TERMINAL 1-IGI AIRPORT,28.5647538,77.1221478,1,,1,
+st_igda_lift_no_2,Lift No. 2,28.5647538,77.1221478,0,st_igda,1,L4
+st_igda_concourse,Concourse,28.5647538,77.1221478,0,st_igda,1,L5
+st_igda_lift_no_8,Lift No. 8,28.5647538,77.1221478,0,st_igda,1,L1
+st_igda_lift_no_7,Lift No. 7,28.5647538,77.1221478,0,st_igda,1,L1
+st_igda_gate_no_1,Gate No. 1,28.5647538,77.1221478,0,st_igda,1,L1
+st_igda_paid_concourse,Paid Concourse,28.5647538,77.1221478,0,st_igda,1,L4
+st_igda_platform_1,Platform 1,28.5647538,77.1221478,0,st_igda,1,L7
+st_igda_lift_no_9,Lift No. 9,28.5647538,77.1221478,0,st_igda,1,L1
+st_igda_gate_no_4,Gate No. 4,28.5647538,77.1221478,0,st_igda,0,L1
+st_igda_lift_no_6,Lift No. 6,28.5647538,77.1221478,0,st_igda,1,L1
+st_igda_platform_2,Platform 2,28.5647538,77.1221478,0,st_igda,1,L8
+st_igda_lift_no_1,Lift No. 1,28.5647538,77.1221478,0,st_igda,1,L4
+st_igda_lift_no_10,Lift No. 10,28.5647538,77.1221478,0,st_igda,1,L1
+st_igda_gate_no_5,Gate No. 5,28.5647538,77.1221478,0,st_igda,0,L1
+st_igda_lift_no_3,Lift No. 3,28.5647538,77.1221478,0,st_igda,1,L4
+st_igda_lift_no_4,Lift No. 4,28.5647538,77.1221478,0,st_igda,1,L4
+st_igda_gate_no_2,Gate No. 2,28.5647538,77.1221478,0,st_igda,1,L1
+st_igda_lift_no_11,Lift No. 11,28.5647538,77.1221478,0,st_igda,1,L1
+st_igda_unpaid_concourse,Unpaid Concourse,28.5647538,77.1221478,0,st_igda,1,L3
+st_igda_lift_no_5,Lift No. 5,28.5647538,77.1221478,0,st_igda,1,L1
+st_igda_gate_no_3,Gate No. 3,28.5647538,77.1221478,0,st_igda,1,L1
+st_llqa,LAL QUILA,28.657576,77.236595,1,,1,
+st_llqa_lift_no_2,Lift No. 2,28.6569,77.2368,0,st_llqa,1,L1
+st_llqa_concourse,Concourse,28.657576,77.236595,0,st_llqa,1,L5
+st_llqa_gate_no_2,Gate No. 2,28.6569,77.2368,0,st_llqa,1,L1
+st_llqa_platform_1,Platform 1,28.657576,77.236595,0,st_llqa,1,L7
+st_llqa_lift_no_1,Lift No. 1,28.6569,77.2368,0,st_llqa,1,L4
+st_llqa_unpaid_concourse,Unpaid Concourse,28.657576,77.236595,0,st_llqa,1,L3
+st_llqa_gate_no_4,Gate No. 4,28.6569,77.2368,0,st_llqa,1,L1
+st_llqa_gate_no_1,Gate No. 1,28.6569,77.2368,0,st_llqa,1,L1
+st_llqa_lift_no_3,Lift No. 3,28.6569,77.2368,0,st_llqa,1,L1
+st_llqa_paid_concourse,Paid Concourse,28.657576,77.236595,0,st_llqa,1,L4
+st_llqa_gate_no_3,Gate No. 3,28.6569,77.2368,0,st_llqa,1,L1
+st_llqa_platform_2,Platform 2,28.657576,77.236595,0,st_llqa,1,L8
+st_avit,ANAND VIHAR ISBT,28.647,77.3159,1,,1,
+st_avit_lift_no_2a_pink_line,Lift No. 2A (Pink Line),28.647,77.3159,0,st_avit,1,L4
+st_avit_lift_no_2,Lift No. 2,28.647,77.3159,0,st_avit,1,L4
+st_avit_concourse,Concourse,28.647,77.3159,0,st_avit,1,L5
+st_avit_gate_no_1_pink_line,Gate No. 1 (Pink Line),28.647,77.3159,0,st_avit,1,L1
+st_avit_lift_no_3a_pink_line,Lift No. 3A (Pink Line),28.647,77.3159,0,st_avit,1,L1
+st_avit_lift_no_1a_pink_line,Lift No. 1A (Pink Line),28.647,77.3159,0,st_avit,1,L4
+st_avit_gate_no_2,Gate No. 2,28.647,77.3159,0,st_avit,0,L1
+st_avit_unpaid_concourse,Unpaid Concourse,28.647,77.3159,0,st_avit,1,L3
+st_avit_lift_no_1,Lift No. 1,28.647,77.3159,0,st_avit,1,L4
+st_avit_lift_no_4a_pink_line,Lift No. 4A (Pink Line),28.647,77.3159,0,st_avit,1,L1
+st_avit_paid_concourse,Paid Concourse,28.647,77.3159,0,st_avit,1,L4
+st_avit_gate_no_3,Gate No. 3,28.647,77.3159,0,st_avit,1,L1
+st_mdtw,MODEL TOWN,28.702833,77.193764,1,,1,
+st_mdtw_lift_no_2,Lift No. 2,28.429,77.1137,0,st_mdtw,1,L4
+st_mdtw_concourse,Concourse,28.702833,77.193764,0,st_mdtw,1,L5
+st_mdtw_gate_no_2,Gate No. 2,28.4211,77.1136,0,st_mdtw,1,L1
+st_mdtw_platform_1,Platform 1,28.702833,77.193764,0,st_mdtw,1,L7
+st_mdtw_lift_no_1,Lift No. 1,28.4211,77.1137,0,st_mdtw,1,L4
+st_mdtw_platform_2,Platform 2,28.702833,77.193764,0,st_mdtw,1,L8
+st_mdtw_gate_no_4,Gate No. 4,28.421,77.1135,0,st_mdtw,1,L1
+st_mdtw_unpaid_concourse,Unpaid Concourse,28.702833,77.193764,0,st_mdtw,1,L3
+st_mdtw_gate_no_1,Gate No. 1,28.4211,77.1136,0,st_mdtw,0,L1
+st_mdtw_lift_no_3,Lift No. 3,28.421,77.1135,0,st_mdtw,1,L1
+st_mdtw_paid_concourse,Paid Concourse,28.702833,77.193764,0,st_mdtw,1,L4
+st_mdtw_gate_no_3,Gate No. 3,28.421,77.1139,0,st_mdtw,0,L1
+st_mdtw_lift_no_4,Lift No. 4,28.4211,77.1136,0,st_mdtw,1,L1
+st_ajg,ARJAN GARH,28.48082,77.12587,1,,1,
+st_ajg_lift_no_2,Lift No. 2,28.4809,77.1259,0,st_ajg,1,L4
+st_ajg_concourse,Concourse,28.48082,77.12587,0,st_ajg,1,L5
+st_ajg_gate_no_2,Gate No. 2,28.4809,77.1259,0,st_ajg,1,L1
+st_ajg_platform_1,Platform 1,28.48082,77.12587,0,st_ajg,1,L7
+st_ajg_lift_no_1,Lift No. 1,28.4809,77.1259,0,st_ajg,1,L4
+st_ajg_platform_2,Platform 2,28.48082,77.12587,0,st_ajg,1,L8
+st_ajg_unpaid_concourse,Unpaid Concourse,28.48082,77.12587,0,st_ajg,1,L3
+st_ajg_gate_no_1,Gate No. 1,28.4809,77.1259,0,st_ajg,1,L1
+st_ajg_lift_no_3,Lift No. 3,28.4809,77.1259,0,st_ajg,1,L1
+st_ajg_paid_concourse,Paid Concourse,28.48082,77.12587,0,st_ajg,1,L4
+st_ajg_lift_no_4,Lift No. 4,28.4809,77.1259,0,st_ajg,1,L1
+st_gtni,GHITORNI,28.49383,77.149071,1,,1,
+st_gtni_lift_no_2,Lift No. 2,28.4938,77.1492,0,st_gtni,1,L4
+st_gtni_concourse,Concourse,28.49383,77.149071,0,st_gtni,1,L5
+st_gtni_gate_no_2,Gate No. 2,28.4938,77.1492,0,st_gtni,1,L1
+st_gtni_platform_1,Platform 1,28.49383,77.149071,0,st_gtni,1,L7
+st_gtni_lift_no_1,Lift No. 1,28.4938,77.1492,0,st_gtni,1,L4
+st_gtni_platform_2,Platform 2,28.49383,77.149071,0,st_gtni,1,L8
+st_gtni_unpaid_concourse,Unpaid Concourse,28.49383,77.149071,0,st_gtni,1,L3
+st_gtni_gate_no_1,Gate No. 1,28.4938,77.1492,0,st_gtni,1,L1
+st_gtni_lift_no_3,Lift No. 3,28.4938,77.1492,0,st_gtni,1,L1
+st_gtni_paid_concourse,Paid Concourse,28.49383,77.149071,0,st_gtni,1,L4
+st_gtni_lift_no_4,Lift No. 4,28.4938,77.1492,0,st_gtni,1,L1
+st_sakp,SHAKURPUR,28.685781,77.149651,1,,1,
+st_sakp_lift_no_2,Lift No. 2,28.6857703,77.1474327,0,st_sakp,1,L5
+st_sakp_concourse,Concourse,28.685781,77.149651,0,st_sakp,1,L5
+st_sakp_gate_no_2,Gate No. 2,28.6857703,77.1474327,0,st_sakp,0,L1
+st_sakp_unpaid_concourse,Unpaid Concourse,28.685781,77.149651,0,st_sakp,1,L3
+st_sakp_lift_no_1,Lift No. 1,28.6857703,77.1474327,0,st_sakp,1,L5
+st_sakp_gate_no_1,Gate No. 1,28.6857703,77.1474327,0,st_sakp,1,L1
+st_sakp_lift_no_3,Lift No. 3,28.6857703,77.1474327,0,st_sakp,1,L1
+st_sakp_paid_concourse,Paid Concourse,28.685781,77.149651,0,st_sakp,1,L4
+st_mvp1,MAYUR VIHAR -I,28.6042,77.2896,1,,1,
+st_mvp1_gate_no_4_pink_line,Gate No. 4 (Pink Line),28.6042,77.2896,0,st_mvp1,1,L1
+st_mvp1_lift_no_2a_pink_line,Lift No. 2A (Pink Line),28.6042,77.2896,0,st_mvp1,1,L4
+st_mvp1_concourse,Concourse,28.6042,77.2896,0,st_mvp1,1,L5
+st_mvp1_gate_no_3_pink_line,Gate No. 3 (Pink Line),28.6042,77.2896,0,st_mvp1,1,L1
+st_mvp1_lift_no_3a_pink_line,Lift No. 3A (Pink Line),28.6042,77.2896,0,st_mvp1,1,L2
+st_mvp1_lift_no_1a_pink_line,Lift No. 1A (Pink Line),28.6042,77.2896,0,st_mvp1,1,L4
+st_mvp1_gate_no_2,Gate No. 2,28.6042,77.2896,0,st_mvp1,1,L1
+st_mvp1_lift_no_6a_pink_line,Lift No. 6A (Pink Line),28.6042,77.2896,0,st_mvp1,1,L1
+st_mvp1_lift_no_2_blue_line,Lift No. 2 (Blue Line),28.6042,77.2896,0,st_mvp1,1,L1
+st_mvp1_unpaid_concourse,Unpaid Concourse,28.6042,77.2896,0,st_mvp1,1,L3
+st_mvp1_lift_no_4a_pink_line,Lift No. 4A (Pink Line),28.6042,77.2896,0,st_mvp1,1,L1
+st_mvp1_gate_no_4,Gate No 4,28.6042,77.2896,0,st_mvp1,0,
+st_mvp1_gate_no_1,Gate No. 1,28.6042,77.2896,0,st_mvp1,0,L1
+st_mvp1_paid_concourse,Paid Concourse,28.6042,77.2896,0,st_mvp1,1,L4
+st_mvp1_lift_no_1_blue_line,Lift No. 1(Blue Line),28.6042,77.2896,0,st_mvp1,1,L4
+st_mvp1_gate_no_3,Gate No 3,28.6042,77.2896,0,st_mvp1,0,
+st_mvp1_lift_no_5a_pink_line,Lift No. 5A (Pink Line),28.6042,77.2896,0,st_mvp1,1,L2
+st_une,UTTAM NAGAR EAST,28.624643,77.063126,1,,1,
+st_une_lift_no_2,Lift No. 2,28.6248,77.0653,0,st_une,1,L4
+st_une_gate_no_2,Gate No. 2,28.6248,77.0653,0,st_une,1,L1
+st_une_unpaid_concourse,Unpaid Concourse,28.624643,77.063126,0,st_une,1,L3
+st_une_lift_no_1,Lift No. 1,28.6248,77.0653,0,st_une,1,L4
+st_une_gate_no_1,Gate No. 1,28.6248,77.0653,0,st_une,1,L1
+st_une_lift_no_3,Lift No. 3,28.6248,77.0653,0,st_une,1,L1
+st_une_paid_concourse,Paid Concourse,28.624643,77.063126,0,st_une,1,L4
+st_une_gate_no_3,Gate No. 3,28.6248,77.0653,0,st_une,0,L1
+st_une_lift_no_4,Lift No. 4,28.6248,77.0653,0,st_une,1,L1
+st_ke,KOHAT ENCLAVE,28.697943,77.140465,1,,1,
+st_ke_lift_no_2,Lift No. 2,28.698,77.1405,0,st_ke,1,L5
+st_ke_gate_no_2,Gate No. 2,28.698,77.1405,0,st_ke,1,L1
+st_ke_platform_1,Platform 1,28.697943,77.140465,0,st_ke,1,L7
+st_ke_lift_no_1,Lift No. 1,28.698,77.1405,0,st_ke,1,L5
+st_ke_platform_2,Platform 2,28.697943,77.140465,0,st_ke,1,L8
+st_ke_unpaid_concourse,Unpaid Concourse,28.697943,77.140465,0,st_ke,1,L3
+st_ke_gate_no_1,Gate No. 1,28.698,77.1405,0,st_ke,1,L1
+st_ke_lift_no_3,Lift No. 3,28.698,77.1405,0,st_ke,1,L1
+st_ke_paid_concourse,Paid Concourse,28.697943,77.140465,0,st_ke,1,L4
+st_ke_gate_no_3,Gate No. 3,28.698,77.1405,0,st_ke,0,L1
+st_ke_lift_no_4,Lift No. 4,28.698,77.1405,0,st_ke,1,L1
+st_soji,SAROJINI NAGAR,28.570208,77.187866,1,,1,
+st_soji_lift_no_2,Lift No. 2,28.5757221,77.1955806,0,st_soji,1,L3
+st_soji_concourse,Concourse,28.570208,77.187866,0,st_soji,1,L5
+st_soji_unpaid_concourse,Unpaid Concourse,28.570208,77.187866,0,st_soji,1,L3
+st_soji_lift_no_1,Lift No. 1,28.5757221,77.1955806,0,st_soji,1,L4
+st_soji_gate_no_1,Gate No 1,28.570208,77.187866,0,st_soji,0,
+st_soji_gate_no_2_exit_only,Gate No. 2(Exit only),28.5757221,77.1955806,0,st_soji,0,L1
+st_soji_paid_concourse,Paid Concourse,28.570208,77.187866,0,st_soji,1,L4
+st_soji_gate_no_1_exit_only,Gate No. 1(Exit only),28.5757221,77.1955806,0,st_soji,1,L1
+st_hnok,HARKESH NAGAR OKHLA,28.543194,77.275955,1,,1,
+st_hnok_lift_no_2,Lift No. 2,28.542919,77.275075,0,st_hnok,1,L4
+st_hnok_concourse,Concourse,28.543194,77.275955,0,st_hnok,1,L5
+st_hnok_gate_no_2,Gate No. 2,28.542826,77.27562,0,st_hnok,1,L1
+st_hnok_platform_1,Platform 1,28.543194,77.275955,0,st_hnok,1,L7
+st_hnok_lift_no_1,Lift No. 1,28.543039,77.275408,0,st_hnok,1,L4
+st_hnok_platform_2,Platform 2,28.543194,77.275955,0,st_hnok,1,L8
+st_hnok_gate_no_4,Gate No. 4,28.542902,77.275218,0,st_hnok,1,L1
+st_hnok_unpaid_concourse,Unpaid Concourse,28.543194,77.275955,0,st_hnok,1,L3
+st_hnok_gate_no_1,Gate No. 1,28.542366,77.274555,0,st_hnok,1,L1
+st_hnok_lift_no_3,Lift No. 3,28.542915,77.275001,0,st_hnok,1,L1
+st_hnok_paid_concourse,Paid Concourse,28.543194,77.275955,0,st_hnok,1,L4
+st_hnok_gate_no_3,Gate No. 3,28.543185,77.275869,0,st_hnok,1,L1
+st_hnok_lift_no_4,Lift No. 4,28.542509,77.275109,0,st_hnok,1,L1
+st_okns,OKHLA NSIC,28.554575,77.26487,1,,1,
+st_okns_lift_no_2,Lift No. 2,28.5544365,77.2648578,0,st_okns,1,L4
+st_okns_gate_no_2,Gate No. 2,28.5544365,77.2648578,0,st_okns,1,L1
+st_okns_platform_1,Platform 1,28.554575,77.26487,0,st_okns,1,L7
+st_okns_lift_no_1,Lift No. 1,28.5544365,77.2648578,0,st_okns,1,L4
+st_okns_unpaid_concourse,Unpaid Concourse,28.554575,77.26487,0,st_okns,1,L3
+st_okns_gate_no_1,Gate No. 1,28.5544365,77.2648578,0,st_okns,0,L1
+st_okns_lift_no_3,Lift No. 3,28.5544365,77.2648578,0,st_okns,1,L1
+st_okns_paid_concourse,Paid Concourse,28.554575,77.26487,0,st_okns,1,L4
+st_okns_gate_no_3,Gate No. 3,28.5544365,77.2648578,0,st_okns,0,L1
+st_okns_platform_2,Platform 2,28.554575,77.26487,0,st_okns,1,L8
+st_tzi,TIS HAZARI,28.667137,77.216721,1,,1,
+st_tzi_lift_no_2,Lift No. 2,28.6671,77.2165,0,st_tzi,1,L5
+st_tzi_gate_no_2,Gate No. 2,28.6671,77.2165,0,st_tzi,1,L1
+st_tzi_platform_1,Platform 1,28.667137,77.216721,0,st_tzi,1,L7
+st_tzi_lift_no_1,Lift No. 1,28.6671,77.2165,0,st_tzi,1,L5
+st_tzi_unpaid_concourse,Unpaid Concourse,28.667137,77.216721,0,st_tzi,1,L3
+st_tzi_gate_no_1,Gate No. 1,28.6671,77.2165,0,st_tzi,1,L1
+st_tzi_lift_no_3,Lift No. 3,28.6671,77.2165,0,st_tzi,1,L1
+st_tzi_paid_concourse,Paid Concourse,28.667137,77.216721,0,st_tzi,1,L4
+st_tzi_gate_no_3,Gate No. 3,28.6671,77.2165,0,st_tzi,1,L1
+st_tzi_platform_2,Platform 2,28.667137,77.216721,0,st_tzi,1,L8
+st_chtp,CHHATARPUR,28.5068,77.175,1,,1,
+st_chtp_lift_no_2,Lift No. 2,28.5068,77.175,0,st_chtp,1,L4
+st_chtp_concourse,Concourse,28.5068,77.175,0,st_chtp,1,L5
+st_chtp_gate_no_2,Gate No. 2,28.5068,77.175,0,st_chtp,0,L1
+st_chtp_unpaid_concourse,Unpaid Concourse,28.5068,77.175,0,st_chtp,1,L3
+st_chtp_lift_no_1,Lift No. 1,28.5068,77.175,0,st_chtp,1,L4
+st_chtp_gate_no_1,Gate No. 1,28.5068,77.175,0,st_chtp,1,L1
+st_chtp_lift_no_3,Lift No. 3,28.5068,77.175,0,st_chtp,1,L1
+st_chtp_paid_concourse,Paid Concourse,28.5068,77.175,0,st_chtp,1,L4
+st_chtp_gate_no_3,Gate No. 3,28.5068,77.175,0,st_chtp,0,L1
+st_ilok,INDERLOK,28.673452,77.170235,1,,1,
+st_ilok_lift_no_2,Lift No. 2,28.6736,77.1703,0,st_ilok,1,L5
+st_ilok_platform_4,Platform 4,28.673452,77.170235,0,st_ilok,1,L6
+st_ilok_gate_no_2,Gate No. 2,28.6736,77.1703,0,st_ilok,0,L1
+st_ilok_gate_no_6,Gate No. 6,28.6736,77.1703,0,st_ilok,0,L1
+st_ilok_platform_1,Platform 1,28.673452,77.170235,0,st_ilok,1,L7
+st_ilok_lift_1a_line_5,Lift - 1A (Line 5),28.6736,77.1703,0,st_ilok,1,L5
+st_ilok_lift_no_1,Lift No. 1,28.6736,77.1703,0,st_ilok,1,L5
+st_ilok_gate_no_4,Gate No. 4,28.6736,77.1703,0,st_ilok,0,L1
+st_ilok_unpaid_concourse,Unpaid Concourse,28.673452,77.170235,0,st_ilok,1,L3
+st_ilok_gate_no_1,Gate No. 1,28.6736,77.1703,0,st_ilok,1,L1
+st_ilok_gate_no_5,Gate No. 5,28.6736,77.1703,0,st_ilok,1,L1
+st_ilok_platform_3,Platform 3,28.673452,77.170235,0,st_ilok,1,L6
+st_ilok_lift_no_3,Lift No. 3,28.6736,77.1703,0,st_ilok,1,L1
+st_ilok_paid_concourse,Paid Concourse,28.673452,77.170235,0,st_ilok,1,L4
+st_ilok_lift_2a_line_5,Lift - 2A (Line 5),28.6736,77.1703,0,st_ilok,1,L1
+st_ilok_gate_no_3,Gate No. 3,28.6736,77.1703,0,st_ilok,1,L1
+st_ilok_platform_2,Platform 2,28.673452,77.170235,0,st_ilok,1,L8
+st_cdli,CHIRAG DELHI,28.541229,77.229385,1,,1,
+st_cdli_lift_no_2,Lift No. 2,28.5410031,77.2304831,0,st_cdli,1,L1
+st_cdli_concourse,Concourse,28.541229,77.229385,0,st_cdli,1,L5
+st_cdli_gate_no_2,Gate No. 2,28.5410031,77.2304831,0,st_cdli,1,L1
+st_cdli_unpaid_concourse,Unpaid Concourse,28.541229,77.229385,0,st_cdli,1,L3
+st_cdli_lift_no_1,Lift No. 1,28.5410031,77.2304831,0,st_cdli,1,L4
+st_cdli_gate_no_4,Gate No. 4,28.5410031,77.2304831,0,st_cdli,0,L1
+st_cdli_gate_no_1,Gate No. 1,28.5410031,77.2304831,0,st_cdli,0,L1
+st_cdli_gate_no_5,Gate No. 5,28.5410031,77.2304831,0,st_cdli,1,L1
+st_cdli_lift_no_3,Lift No. 3,28.5410031,77.2304831,0,st_cdli,1,L1
+st_cdli_paid_concourse,Paid Concourse,28.541229,77.229385,0,st_cdli,1,L4
+st_cdli_gate_no_3,Gate No. 3,28.5410031,77.2304831,0,st_cdli,1,L1
+st_cdli_lift_no_4,Lift No. 4,28.5410031,77.2304831,0,st_cdli,1,L1
+st_mvnr,MALVIYA NAGAR,28.52817,77.205612,1,,1,
+st_mvnr_lift_no_2,Lift No. 2,28.529501,77.204815,0,st_mvnr,1,L1
+st_mvnr_platform_1,Platform 1,28.52817,77.205612,0,st_mvnr,1,L7
+st_mvnr_lift_no_1,Lift No. 1,28.528663,77.205092,0,st_mvnr,1,L4
+st_mvnr_unpaid_concourse,Unpaid Concourse,28.52817,77.205612,0,st_mvnr,1,L3
+st_mvnr_gate_no_4,Gate No. 4,28.527541,77.205515,0,st_mvnr,0,L1
+st_mvnr_gate_no_1,Gate No. 1,28.529611,77.4309,0,st_mvnr,1,L1
+st_mvnr_lift_no_3,Lift No. 3,28.528737,77.205063,0,st_mvnr,1,L1
+st_mvnr_paid_concourse,Paid Concourse,28.52817,77.205612,0,st_mvnr,1,L4
+st_mvnr_gate_no_3,Gate No. 3,28.528632,77.205305,0,st_mvnr,1,L1
+st_mvnr_platform_2,Platform 2,28.52817,77.205612,0,st_mvnr,1,L8
+st_rhw,ROHINI WEST,28.715008,77.115746,1,,1,
+st_rhw_lift_no_2,Lift No. 2,28.7149,77.1155,0,st_rhw,1,L5
+st_rhw_gate_no_2,Gate No. 2,28.7149,77.1155,0,st_rhw,0,L1
+st_rhw_platform_1,Platform 1,28.715008,77.115746,0,st_rhw,1,L7
+st_rhw_lift_no_1,Lift No. 1,28.7149,77.1155,0,st_rhw,1,L5
+st_rhw_unpaid_concourse,Unpaid Concourse,28.715008,77.115746,0,st_rhw,1,L3
+st_rhw_gate_no_1,Gate No. 1,28.7149,77.1155,0,st_rhw,0,L1
+st_rhw_lift_no_3,Lift No. 3,28.7149,77.1155,0,st_rhw,1,L1
+st_rhw_paid_concourse,Paid Concourse,28.715008,77.115746,0,st_rhw,1,L4
+st_rhw_gate_no_3,Gate No. 3,28.7149,77.1155,0,st_rhw,1,L1
+st_rhw_platform_2,Platform 2,28.715008,77.115746,0,st_rhw,1,L8
+st_pbgw,PUNJABI BAGH WEST,28.672747,77.139183,1,,1,
+st_pbgw_lift_no_2,Lift No. 2,28.6727751,77.136418,0,st_pbgw,1,L4
+st_pbgw_platform_4,Platform 4,28.672747,77.139183,0,st_pbgw,1,L6
+st_pbgw_lift_2a,Lift 2A,28.6727751,77.136418,0,st_pbgw,1,L2
+st_pbgw_gate_no_2,Gate No. 2,28.6727751,77.136418,0,st_pbgw,1,L1
+st_pbgw_platform_1,Platform 1,28.672747,77.139183,0,st_pbgw,1,L7
+st_pbgw_lift_no_1,Lift No. 1,28.6727751,77.136418,0,st_pbgw,1,L4
+st_pbgw_unpaid_concourse,Unpaid Concourse,28.672747,77.139183,0,st_pbgw,1,L3
+st_pbgw_lift_1a,Lift 1A,28.6727751,77.136418,0,st_pbgw,1,L2
+st_pbgw_gate_no_1,Gate No. 1,28.6727751,77.136418,0,st_pbgw,0,L1
+st_pbgw_platform_3,Platform 3,28.672747,77.139183,0,st_pbgw,1,L6
+st_pbgw_lift_no_3,Lift No. 3,28.6727751,77.136418,0,st_pbgw,1,L1
+st_pbgw_paid_concourse,Paid Concourse,28.672747,77.139183,0,st_pbgw,1,L4
+st_pbgw_platform_2,Platform 2,28.672747,77.139183,0,st_pbgw,1,L8
+st_kn,KANHAIYA NAGAR,28.682386,77.162552,1,,1,
+st_kn_lift_no_2,Lift No. 2,28.6824,77.1648,0,st_kn,1,L5
+st_kn_gate_no_2,Gate No. 2,28.6824,77.1648,0,st_kn,1,L1
+st_kn_platform_1,Platform 1,28.682386,77.162552,0,st_kn,1,L7
+st_kn_lift_no_1,Lift No. 1,28.6824,77.1648,0,st_kn,1,L5
+st_kn_platform_2,Platform 2,28.682386,77.162552,0,st_kn,1,L8
+st_kn_gate_no_4,Gate No. 4,28.6824,77.1648,0,st_kn,1,L1
+st_kn_unpaid_concourse,Unpaid Concourse,28.682386,77.162552,0,st_kn,1,L3
+st_kn_gate_no_1,Gate No. 1,28.6824,77.1648,0,st_kn,1,L1
+st_kn_lift_no_3,Lift No. 3,28.6824,77.1648,0,st_kn,1,L1
+st_kn_paid_concourse,Paid Concourse,28.682386,77.162552,0,st_kn,1,L4
+st_kn_gate_no_3,Gate No. 3,28.6824,77.1648,0,st_kn,0,L1
+st_kn_lift_no_4,Lift No. 4,28.6824,77.1648,0,st_kn,1,L1
+st_kjmd,KALKAJI MANDIR,28.549532,77.258789,1,,1,
+st_kjmd_lift_no_2,Lift No. 2,28.54945,77.2570313,0,st_kjmd,1,L4
+st_kjmd_concourse,Concourse,28.549532,77.258789,0,st_kjmd,1,L5
+st_kjmd_lift_no_3a,Lift No. 3A,28.54945,77.2570313,0,st_kjmd,1,L4
+st_kjmd_platform_4,Platform 4,28.549532,77.258789,0,st_kjmd,1,L6
+st_kjmd_gate_no_1,Gate No. 1,28.54945,77.2570313,0,st_kjmd,1,L1
+st_kjmd_lift_no_1a,Lift No. 1A,28.54945,77.2570313,0,st_kjmd,1,L4
+st_kjmd_paid_concourse,Paid Concourse,28.549532,77.258789,0,st_kjmd,1,L4
+st_kjmd_lift_no_5a,Lift No. 5A,28.54945,77.2570313,0,st_kjmd,1,L1
+st_kjmd_platform_1,Platform 1,28.549532,77.258789,0,st_kjmd,1,L7
+st_kjmd_gate_no_4,Gate No. 4,28.54945,77.2570313,0,st_kjmd,1,L1
+st_kjmd_platform_2,Platform 2,28.549532,77.258789,0,st_kjmd,1,L8
+st_kjmd_lift_no_1,Lift No. 1,28.54945,77.2570313,0,st_kjmd,1,L4
+st_kjmd_lift_no_4a,Lift No. 4A,28.54945,77.2570313,0,st_kjmd,1,L4
+st_kjmd_lift_no_2a,Lift No. 2A,28.54945,77.2570313,0,st_kjmd,1,L4
+st_kjmd_platform_3,Platform 3,28.549532,77.258789,0,st_kjmd,1,L6
+st_kjmd_lift_no_3,Lift No. 3,28.54945,77.2570313,0,st_kjmd,1,L1
+st_kjmd_gate_no_2,Gate No. 2,28.54945,77.2570313,0,st_kjmd,1,L1
+st_kjmd_unpaid_concourse,Unpaid Concourse,28.549532,77.258789,0,st_kjmd,1,L3
+st_kjmd_gate_no_3,Gate No. 3,28.54945,77.2570313,0,st_kjmd,0,L1
+st_dset,DWARKA SECTOR - 8,28.565706,77.064896,1,,1,
+st_dset_lift_no_2,Lift No. 2,28.5657,77.0671,0,st_dset,1,L4
+st_dset_platform_1,Platform 1,28.565706,77.064896,0,st_dset,1,L7
+st_dset_lift_no_1,Lift No. 1,28.5657,77.0671,0,st_dset,1,L4
+st_dset_unpaid_concourse,Unpaid Concourse,28.565706,77.064896,0,st_dset,1,L3
+st_dset_gate_no_1,Gate No. 1,28.5657,77.0671,0,st_dset,1,L1
+st_dset_paid_concourse,Paid Concourse,28.565706,77.064896,0,st_dset,1,L4
+st_dset_platform_2,Platform 2,28.565706,77.064896,0,st_dset,1,L8
+st_srsm,SATGURU RAM SINGH MARG,28.662188,77.157829,1,,1,
+st_srsm_lift_no_2,Lift No. 2,28.66213,77.1554713,0,st_srsm,1,L5
+st_srsm_unpaid_concourse,Unpaid Concourse,28.662188,77.157829,0,st_srsm,1,L3
+st_srsm_lift_no_1,Lift No. 1,28.66213,77.1554713,0,st_srsm,1,L5
+st_srsm_gate_no_1,Gate No. 1,28.66213,77.1554713,0,st_srsm,1,L1
+st_srsm_paid_concourse,Paid Concourse,28.662188,77.157829,0,st_srsm,1,L4
+st_ge,GURU DRONACHARYA,28.4819,77.1023,1,,1,
+st_ge_lift_no_2,Lift No. 2,28.4819,77.1023,0,st_ge,1,L4
+st_ge_concourse,Concourse,28.4819,77.1023,0,st_ge,1,L5
+st_ge_gate_no_2,Gate No. 2,28.4819,77.1023,0,st_ge,1,L1
+st_ge_platform_1,Platform 1,28.4819,77.1023,0,st_ge,1,L7
+st_ge_lift_no_1,Lift No. 1,28.4819,77.1023,0,st_ge,1,L4
+st_ge_platform_2,Platform 2,28.4819,77.1023,0,st_ge,1,L8
+st_ge_unpaid_concourse,Unpaid Concourse,28.4819,77.1023,0,st_ge,1,L3
+st_ge_gate_no_1,Gate No. 1,28.4819,77.1023,0,st_ge,1,L1
+st_ge_lift_no_3,Lift No. 3,28.4819,77.1023,0,st_ge,1,L1
+st_ge_paid_concourse,Paid Concourse,28.4819,77.1023,0,st_ge,1,L4
+st_ge_lift_no_4,Lift No. 4,28.4819,77.1023,0,st_ge,1,L1
+st_pvw,PASCHIM VIHAR WEST,28.678829,77.0994732,1,,1,
+st_pvw_lift_no_2,Lift No. 2,28.678829,77.0994732,0,st_pvw,1,L5
+st_pvw_concourse,Concourse,28.678829,77.0994732,0,st_pvw,1,L5
+st_pvw_gate_no_2,Gate No. 2,28.678829,77.0994732,0,st_pvw,0,L1
+st_pvw_platform_1,Platform 1,28.678829,77.0994732,0,st_pvw,1,L7
+st_pvw_lift_no_1,Lift No. 1,28.678829,77.0994732,0,st_pvw,1,L5
+st_pvw_platform_2,Platform 2,28.678829,77.0994732,0,st_pvw,1,L8
+st_pvw_unpaid_concourse,Unpaid Concourse,28.678829,77.0994732,0,st_pvw,1,L3
+st_pvw_gate_no_1,Gate No. 1,28.678829,77.0994732,0,st_pvw,1,L1
+st_pvw_lift_no_3,Lift No. 3,28.678829,77.0994732,0,st_pvw,1,L1
+st_pvw_paid_concourse,Paid Concourse,28.678829,77.0994732,0,st_pvw,1,L4
+st_pvw_lift_no_4,Lift No. 4,28.678829,77.0994732,0,st_pvw,1,L1
+st_ptp,PITAMPURA,28.70318,77.132355,1,,1,
+st_ptp_lift_no_2,Lift No. 2,28.7031,77.1325,0,st_ptp,1,L5
+st_ptp_gate_no_2,Gate No. 2,28.7031,77.1325,0,st_ptp,1,L1
+st_ptp_platform_1,Platform 1,28.70318,77.132355,0,st_ptp,1,L7
+st_ptp_lift_no_1,Lift No. 1,28.7031,77.1325,0,st_ptp,1,L5
+st_ptp_platform_2,Platform 2,28.70318,77.132355,0,st_ptp,1,L8
+st_ptp_gate_no_4,Gate No. 4,28.7031,77.1325,0,st_ptp,1,L1
+st_ptp_unpaid_concourse,Unpaid Concourse,28.70318,77.132355,0,st_ptp,1,L3
+st_ptp_gate_no_1,Gate No. 1,28.7031,77.1325,0,st_ptp,0,L1
+st_ptp_lift_no_3,Lift No. 3,28.7031,77.1325,0,st_ptp,1,L1
+st_ptp_paid_concourse,Paid Concourse,28.70318,77.132355,0,st_ptp,1,L4
+st_ptp_gate_no_3,Gate No. 3,28.7031,77.1325,0,st_ptp,1,L1
+st_ptp_lift_no_4,Lift No. 4,28.7031,77.1325,0,st_ptp,1,L1
+st_okbs,OKHLA BIRD SANCTUARY,28.552816,77.321564,1,,1,
+st_okbs_lift_no_2,Lift No. 2,28.5530441,77.3201621,0,st_okbs,1,L4
+st_okbs_gate_no_2,Gate No. 2,28.5530441,77.3201621,0,st_okbs,0,L1
+st_okbs_platform_1,Platform 1,28.552816,77.321564,0,st_okbs,1,L7
+st_okbs_lift_no_1,Lift No. 1,28.5530441,77.3201621,0,st_okbs,1,L4
+st_okbs_platform_2,Platform 2,28.552816,77.321564,0,st_okbs,1,L8
+st_okbs_unpaid_concourse,Unpaid Concourse,28.552816,77.321564,0,st_okbs,1,L3
+st_okbs_gate_no_1,Gate No. 1,28.5530441,77.3201621,0,st_okbs,1,L1
+st_okbs_lift_no_3,Lift No. 3,28.5530441,77.3201621,0,st_okbs,1,L1
+st_okbs_paid_concourse,Paid Concourse,28.552816,77.321564,0,st_okbs,1,L4
+st_okbs_gate_no_3,Gate No. 3,28.5530441,77.3201621,0,st_okbs,1,L1
+st_okbs_lift_no_4,Lift No. 4,28.5530441,77.3201621,0,st_okbs,1,L1
+st_mete,MOHAN ESTATE,28.51959,77.294518,1,,1,
+st_mete_lift_no_2,Lift No. 2,28.519608,77.294522,0,st_mete,1,L4
+st_mete_concourse,Concourse,28.51959,77.294518,0,st_mete,1,L5
+st_mete_gate_no_2,Gate No. 2,28.520273,77.29519,0,st_mete,1,L1
+st_mete_platform_1,Platform 1,28.51959,77.294518,0,st_mete,1,L7
+st_mete_lift_no_1,Lift No. 1,28.519613,77.294382,0,st_mete,1,L4
+st_mete_platform_2,Platform 2,28.51959,77.294518,0,st_mete,1,L8
+st_mete_unpaid_concourse,Unpaid Concourse,28.51959,77.294518,0,st_mete,1,L3
+st_mete_gate_no_1,Gate No. 1,28.519409,77.294126,0,st_mete,1,L1
+st_mete_lift_no_3,Lift No. 3,28.519791,77.294375,0,st_mete,1,L1
+st_mete_paid_concourse,Paid Concourse,28.51959,77.294518,0,st_mete,1,L4
+st_mete_lift_no_4,Lift No. 4,28.52007,77.29496,0,st_mete,1,L1
+st_np,NEHRU PLACE,28.551134,77.251511,1,,1,
+st_np_lift_no_2,Lift No. 2,28.5514171,77.2506607,0,st_np,1,L4
+st_np_concourse,Concourse,28.551134,77.251511,0,st_np,1,L5
+st_np_gate_no_2,Gate No. 2,28.5514171,77.2506607,0,st_np,1,L1
+st_np_platform_1,Platform 1,28.551134,77.251511,0,st_np,1,L7
+st_np_lift_no_1,Lift No. 1,28.5514171,77.2506607,0,st_np,1,L4
+st_np_unpaid_concourse,Unpaid Concourse,28.551134,77.251511,0,st_np,1,L3
+st_np_lift_no_3,Lift No. 3,28.5514171,77.2506607,0,st_np,1,L1
+st_np_paid_concourse,Paid Concourse,28.551134,77.251511,0,st_np,1,L4
+st_np_platform_2,Platform 2,28.551134,77.251511,0,st_np,1,L8
+st_bach,BATA CHOWK,28.386362,77.298782,1,,1,
+st_bach_lift_no_2,Lift No. 2,28.385109,77.3113603,0,st_bach,1,L4
+st_bach_concourse,Concourse,28.386362,77.298782,0,st_bach,1,L5
+st_bach_gate_no_2,Gate No. 2,28.385109,77.3113603,0,st_bach,0,L1
+st_bach_platform_1,Platform 1,28.386362,77.298782,0,st_bach,1,L7
+st_bach_lift_no_1,Lift No. 1,28.385109,77.3113603,0,st_bach,1,L4
+st_bach_platform_2,Platform 2,28.386362,77.298782,0,st_bach,1,L8
+st_bach_unpaid_concourse,Unpaid Concourse,28.386362,77.298782,0,st_bach,1,L3
+st_bach_gate_no_1,Gate No. 1,28.385109,77.3113603,0,st_bach,1,L1
+st_bach_lift_no_3,Lift No. 3,28.385109,77.3113603,0,st_bach,1,L1
+st_bach_paid_concourse,Paid Concourse,28.386362,77.298782,0,st_bach,1,L4
+st_bach_gate_no_3,Gate No. 3,28.385109,77.3113603,0,st_bach,1,L1
+st_bach_lift_no_4,Lift No. 4,28.385109,77.3113603,0,st_bach,1,L1
+st_dsw,DWARKA SECTOR - 12,28.592234,77.040558,1,,1,
+st_dsw_lift_no_2,Lift No. 2,28.5955,77.0417,0,st_dsw,1,L4
+st_dsw_gate_no_2,Gate No. 2,28.5955,77.0417,0,st_dsw,1,L1
+st_dsw_platform_1,Platform 1,28.592234,77.040558,0,st_dsw,1,L7
+st_dsw_lift_no_1,Lift No. 1,28.5955,77.0417,0,st_dsw,1,L4
+st_dsw_unpaid_concourse,Unpaid Concourse,28.592234,77.040558,0,st_dsw,1,L3
+st_dsw_gate_no_1,Gate No. 1,28.5955,77.0417,0,st_dsw,1,L1
+st_dsw_paid_concourse,Paid Concourse,28.592234,77.040558,0,st_dsw,1,L4
+st_dsw_platform_2,Platform 2,28.592234,77.040558,0,st_dsw,1,L8
+st_rkpm,R.K.PURAM,28.5503497,77.1851486,1,,1,
+st_rkpm_lift_no_2,Lift NO. 2,28.5503497,77.1851486,0,st_rkpm,1,L1
+st_rkpm_gate_no_2,Gate No. 2,28.5503497,77.1851486,0,st_rkpm,1,L1
+st_rkpm_platform_1,Platform 1,28.5503497,77.1851486,0,st_rkpm,1,L7
+st_rkpm_lift_no_1,Lift NO. 1,28.5503497,77.1851486,0,st_rkpm,1,L4
+st_rkpm_platform_2,Platform 2,28.5503497,77.1851486,0,st_rkpm,1,L8
+st_rkpm_gate_no_4,Gate No. 4,28.5503497,77.1851486,0,st_rkpm,0,L1
+st_rkpm_unpaid_concourse,Unpaid Concourse,28.5503497,77.1851486,0,st_rkpm,1,L3
+st_rkpm_lift_no_5,Lift NO. 5,28.5503497,77.1851486,0,st_rkpm,1,L1
+st_rkpm_gate_no_1,Gate No. 1,28.5503497,77.1851486,0,st_rkpm,1,L1
+st_rkpm_gate_no_5,Gate No. 5,28.5503497,77.1851486,0,st_rkpm,1,L1
+st_rkpm_lift_no_3,Lift NO. 3,28.5503497,77.1851486,0,st_rkpm,1,L1
+st_rkpm_paid_concourse,Paid Concourse,28.5503497,77.1851486,0,st_rkpm,1,L4
+st_rkpm_gate_no_3,Gate No. 3,28.5503497,77.1851486,0,st_rkpm,1,L1
+st_rkpm_lift_no_4,Lift NO. 4,28.5503497,77.1851486,0,st_rkpm,1,L1
+st_dw,DWARKA,28.614899,77.022629,1,,1,
+st_dw_platform_5,Platform 5,28.614899,77.022629,0,st_dw,1,L6
+st_dw_lift_no_2,Lift No. 2,28.6148,77.0227,0,st_dw,1,L4
+st_dw_platform_4,Platform 4,28.614899,77.022629,0,st_dw,1,L6
+st_dw_gate_no_2,Gate No. 2,28.6149,77.0227,0,st_dw,1,L1
+st_dw_lift_no_2a_grey_line,Lift No. 2A (Grey Line),28.6156,77.0231,0,st_dw,1,L4
+st_dw_lift_no_1a_grey_line,Lift No. 1A (Grey Line),28.6157,77.0224,0,st_dw,1,L4
+st_dw_lift_no_1,Lift No. 1,28.6147,77.0226,0,st_dw,1,L4
+st_dw_platform_1,Platform 1,28.614899,77.022629,0,st_dw,1,L7
+st_dw_gate_no_4,Gate No. 4,28.615627,77.023153,0,st_dw,0,L1
+st_dw_unpaid_concourse,Unpaid Concourse,28.614899,77.022629,0,st_dw,1,L3
+st_dw_gate_no_1,Gate No. 1,28.6149,77.0227,0,st_dw,1,L1
+st_dw_paid_concourse,Paid Concourse,28.614899,77.022629,0,st_dw,1,L4
+st_dw_gate_no_3,Gate No. 3,28.61603,77.023482,0,st_dw,1,L1
+st_dw_platform_2,Platform 2,28.614899,77.022629,0,st_dw,1,L8
+st_ahnr,ADARSH NAGAR,28.696377,77.208809,1,,1,
+st_ahnr_lift_no_2,Lift No. 2,28.7154,77.171,0,st_ahnr,1,L4
+st_ahnr_concourse,Concourse,28.696377,77.208809,0,st_ahnr,1,L5
+st_ahnr_gate_no_2,Gate No. 2,28.7169,77.1702,0,st_ahnr,1,L1
+st_ahnr_platform_1,Platform 1,28.696377,77.208809,0,st_ahnr,1,L7
+st_ahnr_lift_no_1,Lift No. 1,28.7172,77.17,0,st_ahnr,1,L4
+st_ahnr_platform_2,Platform 2,28.696377,77.208809,0,st_ahnr,1,L8
+st_ahnr_gate_no_4,Gate No. 4,28.7169,77.1698,0,st_ahnr,1,L1
+st_ahnr_unpaid_concourse,Unpaid Concourse,28.696377,77.208809,0,st_ahnr,1,L3
+st_ahnr_gate_no_1,Gate No. 1,28.7169,77.1704,0,st_ahnr,0,L1
+st_ahnr_lift_no_3,Lift No. 3,28.7169,77.1698,0,st_ahnr,1,L1
+st_ahnr_paid_concourse,Paid Concourse,28.696377,77.208809,0,st_ahnr,1,L4
+st_ahnr_gate_no_3,Gate No. 3,28.7161,77.1706,0,st_ahnr,0,L1
+st_ahnr_lift_no_4,Lift No. 4,28.7169,77.1702,0,st_ahnr,1,L1
+st_udb,UDYOG BHAWAN,28.611525,77.210052,1,,1,
+st_udb_lift_no_2,Lift No. 2,28.611,77.2122,0,st_udb,1,L1
+st_udb_concourse,Concourse,28.611525,77.210052,0,st_udb,1,L5
+st_udb_gate_no_2,Gate No. 2,28.611,77.2122,0,st_udb,1,L1
+st_udb_platform_1,Platform 1,28.611525,77.210052,0,st_udb,1,L7
+st_udb_lift_no_1,Lift No. 1,28.611,77.2122,0,st_udb,1,L4
+st_udb_unpaid_concourse,Unpaid Concourse,28.611525,77.210052,0,st_udb,1,L3
+st_udb_gate_no_4,Gate No. 4,28.611,77.2122,0,st_udb,1,L1
+st_udb_gate_no_1,Gate No. 1,28.611,77.2122,0,st_udb,1,L1
+st_udb_lift_no_3,Lift No. 3,28.611,77.2122,0,st_udb,1,L1
+st_udb_paid_concourse,Paid Concourse,28.611525,77.210052,0,st_udb,1,L4
+st_udb_gate_no_3,Gate No. 3,28.611,77.2122,0,st_udb,0,L1
+st_udb_platform_2,Platform 2,28.611525,77.210052,0,st_udb,1,L8
+st_stta,SECTOR-28,28.440586,77.305992,1,,1,
+st_stta_lift_no_2,Lift No. 2,28.43838,77.3067493,0,st_stta,1,L4
+st_stta_concourse,Concourse,28.440586,77.305992,0,st_stta,1,L5
+st_stta_gate_no_2,Gate No. 2,28.43838,77.3067493,0,st_stta,1,L1
+st_stta_platform_1,Platform 1,28.440586,77.305992,0,st_stta,1,L7
+st_stta_lift_no_1,Lift No. 1,28.43838,77.3067493,0,st_stta,1,L4
+st_stta_platform_2,Platform 2,28.440586,77.305992,0,st_stta,1,L8
+st_stta_unpaid_concourse,Unpaid Concourse,28.440586,77.305992,0,st_stta,1,L3
+st_stta_gate_no_1,Gate No. 1,28.43838,77.3067493,0,st_stta,1,L1
+st_stta_lift_no_3,Lift No. 3,28.43838,77.3067493,0,st_stta,1,L1
+st_stta_paid_concourse,Paid Concourse,28.440586,77.305992,0,st_stta,1,L4
+st_stta_gate_no_3,Gate No. 3,28.43838,77.3067493,0,st_stta,0,L1
+st_stta_lift_no_4,Lift No. 4,28.43838,77.3067493,0,st_stta,1,L1
+st_rcc,LOK KALYAN MARG,28.597519,77.209122,1,,1,
+st_rcc_concourse,Concourse,28.597519,77.209122,0,st_rcc,1,L5
+st_rcc_lift_no_2,Lift No.2,28.5977,77.2112,0,st_rcc,1,L1
+st_rcc_gate_no_2,Gate No. 2,28.5977,77.2112,0,st_rcc,1,L1
+st_rcc_platform_1,Platform 1,28.597519,77.209122,0,st_rcc,1,L7
+st_rcc_lift_no_1,Lift No. 1,28.5977,77.2112,0,st_rcc,1,L4
+st_rcc_unpaid_concourse,Unpaid Concourse,28.597519,77.209122,0,st_rcc,1,L3
+st_rcc_gate_no_1,Gate No. 1,28.5977,77.2112,0,st_rcc,0,L1
+st_rcc_paid_concourse,Paid Concourse,28.597519,77.209122,0,st_rcc,1,L4
+st_rcc_platform_2,Platform 2,28.597519,77.209122,0,st_rcc,1,L8
+st_jla8,JASOLA VIHAR SHAHEEN BAGH,28.546005,77.296715,1,,1,
+st_jla8_lift_no_2,Lift No. 2,28.5462285,77.2943212,0,st_jla8,1,L4
+st_jla8_concourse,Concourse,28.546005,77.296715,0,st_jla8,1,L5
+st_jla8_gate_no_2,Gate No. 2,28.5462285,77.2943212,0,st_jla8,0,L1
+st_jla8_platform_1,Platform 1,28.546005,77.296715,0,st_jla8,1,L7
+st_jla8_lift_no_1,Lift No. 1,28.5462285,77.2943212,0,st_jla8,1,L4
+st_jla8_platform_2,Platform 2,28.546005,77.296715,0,st_jla8,1,L8
+st_jla8_gate_no_4,Gate No. 4,28.5462285,77.2943212,0,st_jla8,0,L1
+st_jla8_unpaid_concourse,Unpaid Concourse,28.546005,77.296715,0,st_jla8,1,L3
+st_jla8_gate_no_1,Gate No. 1,28.5462285,77.2943212,0,st_jla8,0,L1
+st_jla8_gate_no_5,Gate No. 5,28.5462285,77.2943212,0,st_jla8,0,L1
+st_jla8_lift_no_3,Lift No. 3,28.5462285,77.2943212,0,st_jla8,1,L1
+st_jla8_paid_concourse,Paid Concourse,28.546005,77.296715,0,st_jla8,1,L4
+st_jla8_gate_no_3,Gate No. 3,28.5462285,77.2943212,0,st_jla8,0,L1
+st_jla8_lift_no_4,Lift No. 4,28.5462285,77.2943212,0,st_jla8,1,L1
+st_mve,MAYUR VIHAR EXTENSION,28.5928,77.2947,1,,1,
+st_mve_concourse,Concourse,28.5928,77.2947,0,st_mve,1,L5
+st_mve_lift_no_2,Lift No. 2,28.5928,77.2947,0,st_mve,1,L1
+st_mve_gate_no_2,Gate No. 2,28.5928,77.2947,0,st_mve,1,L1
+st_mve_platform_1,Platform 1,28.5928,77.2947,0,st_mve,1,L7
+st_mve_lift_no_1,Lift No. 1,28.5928,77.2947,0,st_mve,1,L4
+st_mve_unpaid_concourse,Unpaid Concourse,28.5928,77.2947,0,st_mve,1,L3
+st_mve_gate_no_1,Gate No. 1,28.5928,77.2947,0,st_mve,0,L1
+st_mve_paid_concourse,Paid Concourse,28.5928,77.2947,0,st_mve,1,L4
+st_mve_platform_2,Platform 2,28.5928,77.2947,0,st_mve,1,L8
+st_mkpr,MAJLIS PARK,28.724157,77.182068,1,,1,
+st_mkpr_lift_no_2,Lift No. 2,28.724167,77.1805273,0,st_mkpr,1,L5
+st_mkpr_concourse,Concourse,28.724157,77.182068,0,st_mkpr,1,L5
+st_mkpr_gate_no_2,Gate No. 2,28.724167,77.1805273,0,st_mkpr,1,L1
+st_mkpr_unpaid_concourse,Unpaid Concourse,28.724157,77.182068,0,st_mkpr,1,L3
+st_mkpr_lift_no_1,Lift No. 1,28.724167,77.1805273,0,st_mkpr,1,L5
+st_mkpr_gate_no_1,Gate No. 1,28.724167,77.1805273,0,st_mkpr,1,L1
+st_mkpr_lift_no_3,Lift No. 3,28.724167,77.1805273,0,st_mkpr,1,L1
+st_mkpr_paid_concourse,Paid Concourse,28.724157,77.182068,0,st_mkpr,1,L4
+st_mkpr_lift_no_4,Lift No. 4,28.724167,77.1805273,0,st_mkpr,1,L1
+st_mirk,MUNIRKA,28.557821,77.174026,1,,1,
+st_mirk_lift_no_2,Lift No. 2,28.5567549,77.1719806,0,st_mirk,1,L1
+st_mirk_subway,Subway,28.557821,77.174026,0,st_mirk,0,
+st_mirk_gate_no_2,Gate No. 2,28.5567549,77.1719806,0,st_mirk,0,L1
+st_mirk_unpaid_concourse,Unpaid Concourse,28.557821,77.174026,0,st_mirk,1,L3
+st_mirk_lift_no_1,Lift No. 1,28.5567549,77.1719806,0,st_mirk,1,L4
+st_mirk_gate_no_1,Gate No. 1,28.5567549,77.1719806,0,st_mirk,1,L1
+st_mirk_lift_no_3,Lift No. 3,28.5567549,77.1719806,0,st_mirk,1,L1
+st_mirk_paid_concourse,Paid Concourse,28.557821,77.174026,0,st_mirk,1,L4
+st_mirk_gate_no_3,Gate No. 3,28.5567549,77.1719806,0,st_mirk,1,L1
+st_mirk_platform_2,Platform 2,28.557821,77.174026,0,st_mirk,1,L8
+st_mypi,MAYAPURI,28.637098,77.129738,1,,1,
+st_mypi_lift_no_2,Lift No. 2,28.637099,77.1275523,0,st_mypi,1,L4
+st_mypi_concourse,Concourse,28.637098,77.129738,0,st_mypi,1,L5
+st_mypi_gate_no_2,Gate No. 2,28.637099,77.1275523,0,st_mypi,1,L1
+st_mypi_unpaid_concourse,Unpaid Concourse,28.637098,77.129738,0,st_mypi,1,L3
+st_mypi_lift_no_1,Lift No. 1,28.637099,77.1275523,0,st_mypi,1,L4
+st_mypi_gate_no_1,Gate No. 1,28.637099,77.1275523,0,st_mypi,1,L1
+st_mypi_lift_no_3,Lift No. 3,28.637099,77.1275523,0,st_mypi,1,L1
+st_mypi_paid_concourse,Paid Concourse,28.637098,77.129738,0,st_mypi,1,L4
+st_mypi_lift_no_4,Lift No. 4,28.637099,77.1275523,0,st_mypi,1,L1
+st_navr,NARAINA VIHAR,28.624121,77.136482,1,,1,
+st_navr_concourse,Concourse,28.624121,77.136482,0,st_navr,1,L5
+st_navr_lift_no_2,Lift No. 2,28.624125,77.1342993,0,st_navr,1,L1
+st_navr_gate_no_2,Gate No. 2,28.624125,77.1342993,0,st_navr,1,L1
+st_navr_platform_1,Platform 1,28.624121,77.136482,0,st_navr,1,L7
+st_navr_lift_no_1,Lift No. 1,28.624125,77.1342993,0,st_navr,1,L4
+st_navr_unpaid_concourse,Unpaid Concourse,28.624121,77.136482,0,st_navr,1,L3
+st_navr_gate_no_1,Gate No. 1,28.624125,77.1342993,0,st_navr,0,L1
+st_navr_paid_concourse,Paid Concourse,28.624121,77.136482,0,st_navr,1,L4
+st_navr_platform_2,Platform 2,28.624121,77.136482,0,st_navr,1,L8
+st_dse,DWARKA SECTOR - 11,28.58642,77.049255,1,,1,
+st_dse_lift_no_2,Lift No. 2,28.5864,77.0497,0,st_dse,1,L4
+st_dse_gate_no_2,Gate No. 2,28.5864,77.0497,0,st_dse,1,L1
+st_dse_platform_1,Platform 1,28.58642,77.049255,0,st_dse,1,L7
+st_dse_lift_no_1,Lift No. 1,28.5864,77.0497,0,st_dse,1,L4
+st_dse_unpaid_concourse,Unpaid Concourse,28.58642,77.049255,0,st_dse,1,L3
+st_dse_gate_no_1,Gate No. 1,28.5864,77.0497,0,st_dse,1,L1
+st_dse_paid_concourse,Paid Concourse,28.58642,77.049255,0,st_dse,1,L4
+st_dse_platform_2,Platform 2,28.58642,77.049255,0,st_dse,1,L8
+st_shdn,SHAHEED NAGAR,28.676615,77.333809,1,,1,
+st_shdn_lift_no_2,Lift No. 2,28.6766,77.3338,0,st_shdn,1,L5
+st_shdn_gate_no_2,Gate No. 2,28.6766,77.3338,0,st_shdn,1,L1
+st_shdn_platform_1,Platform 1,28.676615,77.333809,0,st_shdn,1,L7
+st_shdn_lift_no_1,Lift No. 1,28.6766,77.3338,0,st_shdn,1,L5
+st_shdn_platform_2,Platform 2,28.676615,77.333809,0,st_shdn,1,L8
+st_shdn_unpaid_concourse,Unpaid Concourse,28.676615,77.333809,0,st_shdn,1,L3
+st_shdn_lift_no_5,Lift No. 5,28.6766,77.3338,0,st_shdn,1,L1
+st_shdn_gate_no_1,Gate No. 1,28.6766,77.3338,0,st_shdn,1,L1
+st_shdn_lift_no_3,Lift No. 3,28.6766,77.3338,0,st_shdn,1,L1
+st_shdn_paid_concourse,Paid Concourse,28.676615,77.333809,0,st_shdn,1,L4
+st_shdn_lift_no_4,Lift No. 4,28.6766,77.3338,0,st_shdn,1,L1
+st_sn,SUBHASH NAGAR,28.6404,77.1049,1,,1,
+st_sn_lift_no_2,Lift No. 2,28.6404,77.1049,0,st_sn,1,L4
+st_sn_gate_no_2,Gate No. 2,28.6404,77.1049,0,st_sn,1,L1
+st_sn_platform_1,Platform 1,28.6404,77.1049,0,st_sn,1,L7
+st_sn_lift_no_1,Lift No. 1,28.6404,77.1049,0,st_sn,1,L4
+st_sn_platform_2,Platform 2,28.6404,77.1049,0,st_sn,1,L8
+st_sn_gate_no_4,Gate No. 4,28.6404,77.1049,0,st_sn,1,L1
+st_sn_unpaid_concourse,Unpaid Concourse,28.6404,77.1049,0,st_sn,1,L3
+st_sn_gate_no_1,Gate No. 1,28.6404,77.1049,0,st_sn,1,L1
+st_sn_lift_no_3,Lift No. 3,28.6404,77.1049,0,st_sn,1,L1
+st_sn_paid_concourse,Paid Concourse,28.6404,77.1049,0,st_sn,1,L4
+st_sn_gate_no_3,Gate No. 3,28.6404,77.1049,0,st_sn,1,L1
+st_sn_lift_no_4,Lift No. 4,28.6404,77.1049,0,st_sn,1,L1
+st_tn,TILAK NAGAR,28.636568,77.096336,1,,1,
+st_tn_lift_no_2,LIft No.2,28.6366,77.0965,0,st_tn,1,L1
+st_tn_concourse,Concourse,28.636568,77.096336,0,st_tn,1,L5
+st_tn_gate_no_2,Gate No. 2,28.6366,77.0965,0,st_tn,0,L1
+st_tn_platform_1,Platform 1,28.636568,77.096336,0,st_tn,1,L7
+st_tn_lift_no_1,Lift No. 1,28.6366,77.0965,0,st_tn,1,L1
+st_tn_platform_2,Platform 2,28.636568,77.096336,0,st_tn,1,L8
+st_tn_gate_no_4,Gate No. 4,28.6366,77.0965,0,st_tn,0,L1
+st_tn_unpaid_concourse,Unpaid Concourse,28.636568,77.096336,0,st_tn,1,L3
+st_tn_gate_no_1,Gate No. 1,28.6366,77.0965,0,st_tn,0,L1
+st_tn_lift_no_3,Lift No. 3,28.6366,77.0965,0,st_tn,1,L0
+st_tn_paid_concourse,Paid Concourse,28.636568,77.096336,0,st_tn,1,L4
+st_tn_gate_no_3,Gate No. 3,28.6366,77.0965,0,st_tn,1,L1
+st_tn_lift_no_4,Lift No. 4,28.6366,77.0965,0,st_tn,1,L0
+st_pve,PASCHIM VIHAR EAST,28.6773312,77.1101289,1,,1,
+st_pve_lift_no_2,Lift No. 2,28.6773312,77.1101289,0,st_pve,1,L5
+st_pve_concourse,Concourse,28.6773312,77.1101289,0,st_pve,1,L5
+st_pve_gate_no_2,Gate No. 2,28.6773312,77.1101289,0,st_pve,1,L1
+st_pve_platform_1,Platform 1,28.6773312,77.1101289,0,st_pve,1,L7
+st_pve_lift_no_1,Lift No. 1,28.6773312,77.1101289,0,st_pve,1,L5
+st_pve_platform_2,Platform 2,28.6773312,77.1101289,0,st_pve,1,L8
+st_pve_unpaid_concourse,Unpaid Concourse,28.6773312,77.1101289,0,st_pve,1,L3
+st_pve_gate_no_1,Gate No. 1,28.6773312,77.1101289,0,st_pve,1,L1
+st_pve_lift_no_3,Lift No. 3,28.6773312,77.1101289,0,st_pve,1,L1
+st_pve_paid_concourse,Paid Concourse,28.6773312,77.1101289,0,st_pve,1,L4
+st_pve_lift_no_4,Lift No. 4,28.6773312,77.1101289,0,st_pve,1,L1
+st_kp,KESHAV PURAM,28.688944,77.161774,1,,1,
+st_kp_lift_no_2,Lift No. 2,28.6876,77.1625,0,st_kp,1,L5
+st_kp_gate_no_2,Gate No. 2,28.6876,77.1625,0,st_kp,0,L1
+st_kp_platform_1,Platform 1,28.688944,77.161774,0,st_kp,1,L7
+st_kp_lift_no_1,Lift No. 1,28.6876,77.1625,0,st_kp,1,L5
+st_kp_platform_2,Platform 2,28.688944,77.161774,0,st_kp,1,L8
+st_kp_gate_no_4,Gate No. 4,28.6876,77.1625,0,st_kp,0,L1
+st_kp_unpaid_concourse,Unpaid Concourse,28.688944,77.161774,0,st_kp,1,L3
+st_kp_gate_no_1,Gate No. 1,28.6876,77.1625,0,st_kp,1,L1
+st_kp_lift_no_3,Lift No. 3,28.6876,77.1625,0,st_kp,1,L1
+st_kp_paid_concourse,Paid Concourse,28.688944,77.161774,0,st_kp,1,L4
+st_kp_gate_no_3,Gate No. 3,28.6876,77.1625,0,st_kp,1,L1
+st_kp_lift_no_4,Lift No. 4,28.6876,77.1625,0,st_kp,1,L1
+st_esih,ESI-BASAIDARAPUR,28.6582712,77.1252019,1,,1,
+st_esih_lift_no_2,Lift No. 2,28.6582712,77.1252019,0,st_esih,1,L4
+st_esih_concourse,Concourse,28.6582712,77.1252019,0,st_esih,1,L5
+st_esih_gate_no_2,Gate No. 2,28.6582712,77.1252019,0,st_esih,0,L1
+st_esih_unpaid_concourse,Unpaid Concourse,28.6582712,77.1252019,0,st_esih,1,L3
+st_esih_lift_no_1,Lift No. 1,28.6582712,77.1252019,0,st_esih,1,L4
+st_esih_gate_no_1,Gate No. 1,28.6582712,77.1252019,0,st_esih,1,L1
+st_esih_lift_no_3,Lift No. 3,28.6582712,77.1252019,0,st_esih,1,L1
+st_esih_paid_concourse,Paid Concourse,28.6582712,77.1252019,0,st_esih,1,L4
+st_rkam,RAMAKRISHNA ASHRAM MARG,28.6392,77.2086,1,,1,
+st_rkam_lift_no_2,Lift No. 2,28.6392,77.2086,0,st_rkam,1,L4
+st_rkam_gate_no_2,Gate No. 2,28.6392,77.2086,0,st_rkam,0,L1
+st_rkam_platform_1,Platform 1,28.6392,77.2086,0,st_rkam,1,L7
+st_rkam_lift_no_1,Lift No. 1,28.6392,77.2086,0,st_rkam,1,L4
+st_rkam_platform_2,Platform 2,28.6392,77.2086,0,st_rkam,1,L8
+st_rkam_gate_no_4,Gate No. 4,28.6392,77.2086,0,st_rkam,0,L1
+st_rkam_unpaid_concourse,Unpaid Concourse,28.6392,77.2086,0,st_rkam,1,L3
+st_rkam_gate_no_5,Gate No. 5,28.6392,77.2086,0,st_rkam,0,L1
+st_rkam_lift_no_3,Lift No. 3,28.6392,77.2086,0,st_rkam,1,L1
+st_rkam_paid_concourse,Paid Concourse,28.6392,77.2086,0,st_rkam,1,L4
+st_rkam_gate_no_3,Gate No. 3,28.6392,77.2086,0,st_rkam,0,L1
+st_rkam_lift_no_4,Lift No. 4,28.6392,77.2086,0,st_rkam,1,L1
+st_mpk,MANSAROVAR PARK,28.6756,77.3001,1,,1,
+st_mpk_lift_no_2,Lift No. 2,28.6756,77.3001,0,st_mpk,1,L5
+st_mpk_gate_no_2,Gate No. 2,28.6756,77.3001,0,st_mpk,1,L1
+st_mpk_platform_1,Platform 1,28.6756,77.3001,0,st_mpk,1,L7
+st_mpk_lift_no_1,Lift No. 1,28.6756,77.3001,0,st_mpk,1,L5
+st_mpk_unpaid_concourse,Unpaid Concourse,28.6756,77.3001,0,st_mpk,1,L3
+st_mpk_gate_no_1,Gate No. 1,28.6756,77.3001,0,st_mpk,1,L1
+st_mpk_lift_no_3,Lift No. 3,28.6756,77.3001,0,st_mpk,1,L1
+st_mpk_paid_concourse,Paid Concourse,28.6756,77.3001,0,st_mpk,1,L4
+st_mpk_platform_2,Platform 2,28.6756,77.3001,0,st_mpk,1,L8
+st_jla,JASOLA-APOLLO,28.538084,77.285538,1,,1,
+st_jla_lift_no_2,Lift No. 2,28.538015,77.283388,0,st_jla,1,L4
+st_jla_concourse,Concourse,28.538084,77.285538,0,st_jla,1,L5
+st_jla_gate_no_2,Gate No. 2,28.537836,77.28309,0,st_jla,1,L1
+st_jla_platform_1,Platform 1,28.538084,77.285538,0,st_jla,1,L7
+st_jla_lift_no_1,Lift No. 1,28.538018,77.283451,0,st_jla,1,L4
+st_jla_platform_2,Platform 2,28.538084,77.285538,0,st_jla,1,L8
+st_jla_unpaid_concourse,Unpaid Concourse,28.538084,77.285538,0,st_jla,1,L3
+st_jla_gate_no_1,Gate No. 1,28.5382917,77.283378,0,st_jla,1,L1
+st_jla_lift_no_3,Lift No. 3,28.538219,77.283013,0,st_jla,1,L1
+st_jla_paid_concourse,Paid Concourse,28.538084,77.285538,0,st_jla,1,L4
+st_jla_lift_no_4,Lift No. 4,28.538667,77.283788,0,st_jla,1,L1
+st_ptmd,SUPREME COURT,28.623438,77.2425,1,,1,
+st_ptmd_lift_no_2,Lift No. 2,28.6233,77.2427,0,st_ptmd,1,L4
+st_ptmd_gate_no_2,Gate No. 2,28.6233,77.2427,0,st_ptmd,1,L1
+st_ptmd_platform_1,Platform 1,28.623438,77.2425,0,st_ptmd,1,L7
+st_ptmd_lift_no_1,Lift No. 1,28.6233,77.2427,0,st_ptmd,1,L4
+st_ptmd_unpaid_concourse,Unpaid Concourse,28.623438,77.2425,0,st_ptmd,1,L3
+st_ptmd_gate_no_4,Gate No. 4,28.6233,77.2427,0,st_ptmd,1,L1
+st_ptmd_gate_no_1,Gate No. 1,28.6233,77.2427,0,st_ptmd,0,L1
+st_ptmd_lift_no_3,Lift No. 3,28.6233,77.2427,0,st_ptmd,1,L1
+st_ptmd_paid_concourse,Paid Concourse,28.623438,77.2425,0,st_ptmd,1,L4
+st_ptmd_gate_no_3,Gate No. 3,28.6233,77.2427,0,st_ptmd,0,L1
+st_ptmd_platform_2,Platform 2,28.623438,77.2425,0,st_ptmd,1,L8
+st_vs,VIDHAN SABHA,28.687845,77.221626,1,,1,
+st_vs_lift_no_2,Lift No. 2,28.6878,77.2216,0,st_vs,1,L4
+st_vs_concourse,Concourse,28.687845,77.221626,0,st_vs,1,L5
+st_vs_gate_no_2,Gate No. 2,28.6878,77.2216,0,st_vs,0,L1
+st_vs_platform_1,Platform 1,28.687845,77.221626,0,st_vs,1,L7
+st_vs_lift_no_1,Lift No. 1,28.6878,77.2216,0,st_vs,1,L4
+st_vs_unpaid_concourse,Unpaid Concourse,28.687845,77.221626,0,st_vs,1,L3
+st_vs_gate_no_1,Gate No. 1,28.6878,77.2216,0,st_vs,1,L1
+st_vs_lift_no_3,Lift No. 3,28.6878,77.2216,0,st_vs,1,L1
+st_vs_paid_concourse,Paid Concourse,28.687845,77.221626,0,st_vs,1,L4
+st_vs_gate_no_3,Gate No. 3,28.6878,77.2216,0,st_vs,0,L1
+st_vs_platform_2,Platform 2,28.687845,77.221626,0,st_vs,1,L8
+st_vent,EAST VINOD NAGAR-MAYUR VIHAR -II,28.620363,77.3023292,1,,1,
+st_vent_lift_no_2,Lift No. 2,28.620363,77.3023292,0,st_vent,1,L5
+st_vent_concourse,Concourse,28.620363,77.3023292,0,st_vent,1,L5
+st_vent_gate_no_2,Gate No. 2,28.620363,77.3023292,0,st_vent,1,L1
+st_vent_unpaid_concourse,Unpaid Concourse,28.620363,77.3023292,0,st_vent,1,L3
+st_vent_lift_no_1,Lift No. 1,28.620363,77.3023292,0,st_vent,1,L5
+st_vent_gate_no_1,Gate No. 1,28.620363,77.3023292,0,st_vent,1,L1
+st_vent_lift_no_3,Lift No. 3,28.620363,77.3023292,0,st_vent,1,L5
+st_vent_paid_concourse,Paid Concourse,28.620363,77.3023292,0,st_vent,1,L4
+st_vent_lift_no_4,Lift No. 4,28.620363,77.3023292,0,st_vent,1,L5
+st_khna,KRISHNA NAGAR,28.65782,77.290306,1,,1,
+st_khna_lift_no_2,Lift No. 2,28.6575316,77.2885172,0,st_khna,1,L5
+st_khna_concourse,Concourse,28.65782,77.290306,0,st_khna,1,L5
+st_khna_gate_no_2,Gate No. 2,28.6575316,77.2885172,0,st_khna,1,L1
+st_khna_unpaid_concourse,Unpaid Concourse,28.65782,77.290306,0,st_khna,1,L3
+st_khna_lift_no_1,Lift No. 1,28.6575316,77.2885172,0,st_khna,1,L5
+st_khna_gate_no_1,Gate No. 1,28.6575316,77.2885172,0,st_khna,1,L1
+st_khna_lift_no_3,Lift No. 3,28.6575316,77.2885172,0,st_khna,1,L5
+st_khna_paid_concourse,Paid Concourse,28.65782,77.290306,0,st_khna,1,L4
+st_khna_lift_no_4,Lift No. 4,28.6575316,77.2885172,0,st_khna,1,L5
+st_gkei,GREATER KAILASH,28.541836,77.238243,1,,1,
+st_gkei_lift_no_2,Lift No. 2,28.5430994,77.2410711,0,st_gkei,1,L1
+st_gkei_gate_no_2,Gate No. 2,28.5430994,77.2410711,0,st_gkei,1,L1
+st_gkei_platform_1,Platform 1,28.541836,77.238243,0,st_gkei,1,L7
+st_gkei_lift_no_1,Lift No. 1,28.5430994,77.2410711,0,st_gkei,1,L4
+st_gkei_platform_2,Platform 2,28.541836,77.238243,0,st_gkei,1,L8
+st_gkei_unpaid_concourse,Unpaid Concourse,28.541836,77.238243,0,st_gkei,1,L3
+st_gkei_gate_no_1,Gate No. 1,28.5430994,77.2410711,0,st_gkei,0,L1
+st_gkei_lift_no_3,Lift No. 3,28.5430994,77.2410711,0,st_gkei,1,L1
+st_gkei_paid_concourse,Paid Concourse,28.541836,77.238243,0,st_gkei,1,L4
+st_gkei_gate_no_3,Gate No. 3,28.5430994,77.2410711,0,st_gkei,1,L1
+st_gkei_lift_no_4,Lift No. 4,28.5430994,77.2410711,0,st_gkei,1,L1
+st_sson,SECTOR - 61 NOIDA,28.5976,77.3701,1,,1,
+st_sson_lift_no_2,Lift No. 2,28.5976,77.3701,0,st_sson,1,L4
+st_sson_concourse,Concourse,28.5976,77.3701,0,st_sson,1,L5
+st_sson_gate_no_2,Gate No. 2,28.5976,77.3701,0,st_sson,1,L1
+st_sson_platform_1,Platform 1,28.5976,77.3701,0,st_sson,1,L7
+st_sson_lift_no_1,Lift No. 1,28.5976,77.3701,0,st_sson,1,L4
+st_sson_platform_2,Platform 2,28.5976,77.3701,0,st_sson,1,L8
+st_sson_unpaid_concourse,Unpaid Concourse,28.5976,77.3701,0,st_sson,1,L3
+st_sson_gate_no_1,Gate No. 1,28.5976,77.3701,0,st_sson,1,L1
+st_sson_lift_no_3,Lift No. 3,28.5976,77.3701,0,st_sson,1,L1
+st_sson_paid_concourse,Paid Concourse,28.5976,77.3701,0,st_sson,1,L4
+st_sson_lift_no_4,Lift No. 4,28.5976,77.3701,0,st_sson,1,L1
+st_iwnr,SUKHDEV VIHAR,28.559887,77.275116,1,,1,
+st_iwnr_lift_no_2,Lift No. 2,28.5596435,77.2733625,0,st_iwnr,1,L4
+st_iwnr_gate_no_2,Gate No. 2,28.5596435,77.2733625,0,st_iwnr,1,L1
+st_iwnr_platform_1,Platform 1,28.559887,77.275116,0,st_iwnr,1,L7
+st_iwnr_lift_no_1,Lift No. 1,28.5596435,77.2733625,0,st_iwnr,1,L4
+st_iwnr_platform_2,Platform 2,28.559887,77.275116,0,st_iwnr,1,L8
+st_iwnr_gate_no_4,Gate No. 4,28.5596435,77.2733625,0,st_iwnr,0,L1
+st_iwnr_unpaid_concourse,Unpaid Concourse,28.559887,77.275116,0,st_iwnr,1,L3
+st_iwnr_gate_no_1,Gate No. 1,28.5596435,77.2733625,0,st_iwnr,1,L1
+st_iwnr_lift_no_3,Lift No. 3,28.5596435,77.2733625,0,st_iwnr,1,L1
+st_iwnr_paid_concourse,Paid Concourse,28.559887,77.275116,0,st_iwnr,1,L4
+st_iwnr_gate_no_3,Gate No. 3,28.5596435,77.2733625,0,st_iwnr,0,L1
+st_iwnr_lift_no_4,Lift No. 4,28.5596435,77.2733625,0,st_iwnr,1,L1
+st_stfn,SECTOR - 34 NOIDA,28.5801,77.3635,1,,1,
+st_stfn_lift_no_2,Lift No. 2,28.5801,77.3635,0,st_stfn,1,L4
+st_stfn_gate_no_2,Gate No. 2,28.5801,77.3635,0,st_stfn,1,L1
+st_stfn_platform_1,Platform 1,28.5801,77.3635,0,st_stfn,1,L7
+st_stfn_lift_no_1,Lift No. 1,28.5801,77.3635,0,st_stfn,1,L4
+st_stfn_platform_2,Platform 2,28.5801,77.3635,0,st_stfn,1,L8
+st_stfn_unpaid_concourse,Unpaid Concourse,28.5801,77.3635,0,st_stfn,1,L3
+st_stfn_gate_no_1,Gate No. 1,28.5801,77.3635,0,st_stfn,1,L1
+st_stfn_lift_no_3,Lift No. 3,28.5801,77.3635,0,st_stfn,1,L1
+st_stfn_paid_concourse,Paid Concourse,28.5801,77.3635,0,st_stfn,1,L4
+st_stfn_lift_no_4,Lift No. 4,28.5801,77.3635,0,st_stfn,1,L1
+st_skvr,SHANKAR VIHAR,28.560787,77.140442,1,,1,
+st_skvr_lift_no_2,Lift No. 2,28.5608173,77.1381563,0,st_skvr,1,L1
+st_skvr_gate_no_2,Gate No. 2,28.5608173,77.1381563,0,st_skvr,1,L1
+st_skvr_platform_1,Platform 1,28.560787,77.140442,0,st_skvr,1,L7
+st_skvr_lift_no_1,Lift No. 1,28.5608173,77.1381563,0,st_skvr,1,L1
+st_skvr_unpaid_concourse,Unpaid Concourse,28.560787,77.140442,0,st_skvr,1,L3
+st_skvr_gate_no_1,Gate No. 1,28.5608173,77.1381563,0,st_skvr,1,L1
+st_skvr_paid_concourse,Paid Concourse,28.560787,77.140442,0,st_skvr,1,L4
+st_skvr_platform_2,Platform 2,28.560787,77.140442,0,st_skvr,1,L8
+st_pbga,PUNJABI BAGH,28.672943,77.146011,1,,1,
+st_pbga_lift_no_2,Lift No. 2,28.6729291,77.1438705,0,st_pbga,1,L5
+st_pbga_gate_no_2,Gate No. 2,28.6729291,77.1438705,0,st_pbga,1,L1
+st_pbga_unpaid_concourse,Unpaid Concourse,28.672943,77.146011,0,st_pbga,1,L3
+st_pbga_lift_no_1,Lift No. 1,28.6729291,77.1438705,0,st_pbga,1,L5
+st_pbga_gate_no_1,Gate No. 1,28.6729291,77.1438705,0,st_pbga,1,L1
+st_pbga_lift_no_3,Lift No. 3,28.6729291,77.1438705,0,st_pbga,1,L1
+st_pbga_paid_concourse,Paid Concourse,28.672943,77.146011,0,st_pbga,1,L4
+st_pbga_lift_no_4,Lift No. 4,28.6729291,77.1438705,0,st_pbga,1,L1
+st_palm,PALAM,28.589067,77.082954,1,,1,
+st_palm_lift_no_2,Lift No. 2,28.5889555,77.0806434,0,st_palm,1,L1
+st_palm_gate_no_2,Gate No. 2,28.5889555,77.0806434,0,st_palm,1,L1
+st_palm_platform_1,Platform 1,28.589067,77.082954,0,st_palm,1,L7
+st_palm_lift_no_1,Lift No. 1,28.5889555,77.0806434,0,st_palm,1,L4
+st_palm_unpaid_concourse,Unpaid Concourse,28.589067,77.082954,0,st_palm,1,L3
+st_palm_gate_no_1,Gate No. 1,28.5889555,77.0806434,0,st_palm,0,L1
+st_palm_lift_no_3,Lift No. 3,28.5889555,77.0806434,0,st_palm,1,L1
+st_palm_paid_concourse,Paid Concourse,28.589067,77.082954,0,st_palm,1,L4
+st_palm_gate_no_3,Gate No. 3,28.5889555,77.0806434,0,st_palm,1,L1
+st_palm_platform_2,Platform 2,28.589067,77.082954,0,st_palm,1,L8
+st_asdm,AKSHARDHAM,28.618364,77.279816,1,,1,
+st_asdm_lift_no_2,Lift No. 2,28.618,77.2794,0,st_asdm,1,L4
+st_asdm_concourse,Concourse,28.618364,77.279816,0,st_asdm,1,L5
+st_asdm_gate_no_2,Gate No. 2,28.618,77.2794,0,st_asdm,1,L1
+st_asdm_unpaid_concourse,Unpaid Concourse,28.618364,77.279816,0,st_asdm,1,L3
+st_asdm_lift_no_1,Lift No. 1,28.618,77.2794,0,st_asdm,1,L4
+st_asdm_gate_no_1,Gate No. 1,28.618,77.2794,0,st_asdm,1,L1
+st_asdm_lift_no_3,Lift No. 3,28.618,77.2794,0,st_asdm,1,L1
+st_asdm_paid_concourse,Paid Concourse,28.618364,77.279816,0,st_asdm,1,L4
+st_asdm_gate_no_3,Gate No. 3,28.618,77.2794,0,st_asdm,0,L1
+st_asdm_lift_no_4,Lift No. 4,28.618,77.2794,0,st_asdm,1,L1
+st_pn,PATEL NAGAR,28.645037,77.167046,1,,1,
+st_pn_lift_no_2,Lift No. 2,28.645,77.1693,0,st_pn,1,L4
+st_pn_gate_no_2,Gate No. 2,28.645,77.1693,0,st_pn,1,L1
+st_pn_gate_no_6,Gate No. 6,28.645,77.1693,0,st_pn,0,L1
+st_pn_platform_1,Platform 1,28.645037,77.167046,0,st_pn,1,L7
+st_pn_lift_no_1,Lift No. 1,28.645,77.1693,0,st_pn,1,L4
+st_pn_platform_2,Platform 2,28.645037,77.167046,0,st_pn,1,L8
+st_pn_gate_no_4,Gate No. 4,28.645,77.1693,0,st_pn,0,L1
+st_pn_unpaid_concourse,Unpaid Concourse,28.645037,77.167046,0,st_pn,1,L3
+st_pn_gate_no_1,Gate No. 1,28.645,77.1693,0,st_pn,0,L1
+st_pn_gate_no_5,Gate No. 5,28.645,77.1693,0,st_pn,1,L1
+st_pn_lift_no_3,Lift No. 3,28.645,77.1693,0,st_pn,1,L1
+st_pn_paid_concourse,Paid Concourse,28.645037,77.167046,0,st_pn,1,L4
+st_pn_gate_no_3,Gate No. 3,28.645,77.1693,0,st_pn,0,L1
+st_pn_lift_no_4,Lift No. 4,28.645,77.1693,0,st_pn,1,L1
+st_dlig,DELHI GATE,28.640488,77.240303,1,,1,
+st_dlig_lift_no_2,Lift No. 2,28.640061,77.2386843,0,st_dlig,1,L1
+st_dlig_gate_no_2,Gate No. 2,28.640061,77.2386843,0,st_dlig,1,L1
+st_dlig_unpaid_concourse,Unpaid Concourse,28.640488,77.240303,0,st_dlig,1,L3
+st_dlig_lift_no_1,Lift No. 1,28.640061,77.2386843,0,st_dlig,1,L4
+st_dlig_gate_no_4,Gate No. 4,28.640061,77.2386843,0,st_dlig,1,L1
+st_dlig_gate_no_1,Gate No. 1,28.640061,77.2386843,0,st_dlig,0,L1
+st_dlig_gate_no_5,Gate No. 5,28.640061,77.2386843,0,st_dlig,1,L1
+st_dlig_lift_no_3,Lift No. 3,28.640061,77.2386843,0,st_dlig,1,L1
+st_dlig_paid_concourse,Paid Concourse,28.640488,77.240303,0,st_dlig,1,L4
+st_dlig_gate_no_3,Gate No. 3,28.640061,77.2386843,0,st_dlig,0,L1
+st_ncc,NOIDA CITY CENTRE,28.574593,77.356117,1,,1,
+st_ncc_lift_no_2,Lift No. 2,28.5747,77.356,0,st_ncc,1,L4
+st_ncc_concourse,Concourse,28.574593,77.356117,0,st_ncc,1,L5
+st_ncc_gate_no_2,Gate No. 2,28.5747,77.356,0,st_ncc,1,L1
+st_ncc_platform_1,Platform 1,28.574593,77.356117,0,st_ncc,1,L7
+st_ncc_lift_no_1,Lift No. 1,28.5747,77.356,0,st_ncc,1,L4
+st_ncc_platform_2,Platform 2,28.574593,77.356117,0,st_ncc,1,L8
+st_ncc_gate_no_4,Gate No. 4,28.5747,77.356,0,st_ncc,0,L1
+st_ncc_unpaid_concourse,Unpaid Concourse,28.574593,77.356117,0,st_ncc,1,L3
+st_ncc_gate_no_1,Gate No. 1,28.5747,77.356,0,st_ncc,1,L1
+st_ncc_lift_no_3,Lift No. 3,28.5747,77.356,0,st_ncc,1,L1
+st_ncc_paid_concourse,Paid Concourse,28.574593,77.356117,0,st_ncc,1,L4
+st_ncc_gate_no_3,Gate No. 3,28.5747,77.356,0,st_ncc,0,L1
+st_ncc_lift_no_4,Lift No. 4,28.5747,77.356,0,st_ncc,1,L1
+st_km,KHAN MARKET,28.602682,77.228096,1,,1,
+st_km_lift_no_2,Lift No. 2,28.6009531,77.2252085,0,st_km,1,L1
+st_km_concourse,Concourse,28.602682,77.228096,0,st_km,1,L5
+st_km_gate_no_2,Gate No. 2,28.6009531,77.2252085,0,st_km,1,L1
+st_km_platform_1,Platform 1,28.602682,77.228096,0,st_km,1,L7
+st_km_lift_no_1,Lift No. 1,28.6009531,77.2252085,0,st_km,1,L4
+st_km_unpaid_concourse,Unpaid Concourse,28.602682,77.228096,0,st_km,1,L3
+st_km_gate_no_4,Gate No. 4,28.6009531,77.2252085,0,st_km,1,L1
+st_km_gate_no_1,Gate No. 1,28.6009531,77.2252085,0,st_km,0,L1
+st_km_lift_no_3,Lift No. 3,28.6009531,77.2252085,0,st_km,1,L1
+st_km_paid_concourse,Paid Concourse,28.602682,77.228096,0,st_km,1,L4
+st_km_gate_no_3,Gate No. 3,28.6009531,77.2252085,0,st_km,0,L1
+st_km_platform_2,Platform 2,28.602682,77.228096,0,st_km,1,L8
+st_jlml,JHILMIL,28.675648,77.312393,1,,1,
+st_jlml_lift_no_2,Lift No. 2,28.6758,77.3124,0,st_jlml,1,L5
+st_jlml_gate_no_2,Gate No. 2,28.6758,77.3124,0,st_jlml,1,L1
+st_jlml_platform_1,Platform 1,28.675648,77.312393,0,st_jlml,1,L7
+st_jlml_lift_no_1,Lift No. 1,28.6758,77.3124,0,st_jlml,1,L5
+st_jlml_unpaid_concourse,Unpaid Concourse,28.675648,77.312393,0,st_jlml,1,L3
+st_jlml_gate_no_1,Gate No. 1,28.6758,77.3124,0,st_jlml,1,L1
+st_jlml_lift_no_3,Lift No.3,28.6758,77.3124,0,st_jlml,1,L1
+st_jlml_paid_concourse,Paid Concourse,28.675648,77.312393,0,st_jlml,1,L4
+st_jlml_platform_2,Platform 2,28.675648,77.312393,0,st_jlml,1,L8
+st_jlns,JLN STADIUM,28.587146,77.2310163,1,,1,
+st_jlns_lift_no_2,Lift No. 2,28.587146,77.2310163,0,st_jlns,1,L1
+st_jlns_concourse,Concourse,28.587146,77.2310163,0,st_jlns,1,L5
+st_jlns_gate_no_2,Gate No. 2,28.587146,77.2310163,0,st_jlns,0,L1
+st_jlns_platform_1,Platform 1,28.587146,77.2310163,0,st_jlns,1,L7
+st_jlns_lift_no_1,Lift No. 1,28.587146,77.2310163,0,st_jlns,1,L4
+st_jlns_unpaid_concourse,Unpaid Concourse,28.587146,77.2310163,0,st_jlns,1,L3
+st_jlns_gate_no_4,Gate No. 4,28.587146,77.2310163,0,st_jlns,1,L1
+st_jlns_gate_no_1,Gate No. 1,28.587146,77.2310163,0,st_jlns,1,L1
+st_jlns_gate_no_5,Gate No. 5,28.587146,77.2310163,0,st_jlns,0,L1
+st_jlns_lift_no_3,Lift No.3,28.587146,77.2310163,0,st_jlns,1,L1
+st_jlns_paid_concourse,Paid Concourse,28.587146,77.2310163,0,st_jlns,1,L4
+st_jlns_gate_no_3,Gate No. 3,28.587146,77.2310163,0,st_jlns,0,L1
+st_jlns_platform_2,Platform 2,28.587146,77.2310163,0,st_jlns,1,L8
+st_rhe,ROHINI EAST,28.707941,77.125732,1,,1,
+st_rhe_lift_no_2,Lift No. 2,28.7077,77.1259,0,st_rhe,1,L5
+st_rhe_gate_no_2,Gate No. 2,28.7077,77.1259,0,st_rhe,1,L1
+st_rhe_platform_1,Platform 1,28.707941,77.125732,0,st_rhe,1,L7
+st_rhe_lift_no_1,Lift No. 1,28.7077,77.1259,0,st_rhe,1,L5
+st_rhe_platform_2,Platform 2,28.707941,77.125732,0,st_rhe,1,L8
+st_rhe_unpaid_concourse,Unpaid Concourse,28.707941,77.125732,0,st_rhe,1,L3
+st_rhe_gate_no_1,Gate No. 1,28.7077,77.1259,0,st_rhe,1,L1
+st_rhe_lift_no_3,Lift No. 3,28.7077,77.1259,0,st_rhe,1,L1
+st_rhe_paid_concourse,Paid Concourse,28.707941,77.125732,0,st_rhe,1,L4
+st_rhe_gate_no_3,Gate No. 3,28.7077,77.1259,0,st_rhe,1,L1
+st_rhe_lift_no_4,Lift No. 4,28.7077,77.1259,0,st_rhe,1,L1
+st_rp,RAJENDRA PLACE,28.64241,77.191833,1,,1,
+st_rp_lift_no_2,Lift No. 2,28.6425,77.1782,0,st_rp,1,L4
+st_rp_gate_no_2,Gate No. 2,28.6425,77.1782,0,st_rp,0,L1
+st_rp_platform_1,Platform 1,28.64241,77.191833,0,st_rp,1,L7
+st_rp_lift_no_1,Lift No. 1,28.6425,77.1782,0,st_rp,1,L4
+st_rp_unpaid_concourse,Unpaid Concourse,28.64241,77.191833,0,st_rp,1,L3
+st_rp_gate_no_4,Gate No. 4,28.6425,77.1782,0,st_rp,0,L1
+st_rp_gate_no_1,Gate No. 1,28.6425,77.1782,0,st_rp,0,L1
+st_rp_lift_no_3,Lift No. 3,28.6425,77.1782,0,st_rp,1,L1
+st_rp_paid_concourse,Paid Concourse,28.64241,77.191833,0,st_rp,1,L4
+st_rp_gate_no_3,Gate No. 3,28.6425,77.1782,0,st_rp,0,L1
+st_rp_platform_2,Platform 2,28.64241,77.191833,0,st_rp,1,L8
+st_ahrm,ASHRAM,28.576065,77.25753,1,,1,
+st_ahrm_lift_no_2,Lift No. 2,28.5727649,77.258494,0,st_ahrm,1,L4
+st_ahrm_concourse,Concourse,28.576065,77.25753,0,st_ahrm,1,L5
+st_ahrm_gate_no_2,Gate No. 2,28.57324,77.25902,0,st_ahrm,1,L1
+st_ahrm_platform_1,Platform 1,28.576065,77.25753,0,st_ahrm,1,L7
+st_ahrm_lift_no_1,Lift No. 1,28.5727649,77.258494,0,st_ahrm,1,L5
+st_ahrm_platform_2,Platform 2,28.576065,77.25753,0,st_ahrm,1,L8
+st_ahrm_unpaid_concourse,Unpaid Concourse,28.576065,77.25753,0,st_ahrm,1,L3
+st_ahrm_lift_no_5,Lift No. 5,28.5727649,77.258494,0,st_ahrm,1,L1
+st_ahrm_gate_no_1,Gate No. 1,28.57235,77.25764,0,st_ahrm,0,L1
+st_ahrm_lift_no_3,Lift No. 3,28.5727649,77.258494,0,st_ahrm,1,L1
+st_ahrm_paid_concourse,Paid Concourse,28.576065,77.25753,0,st_ahrm,1,L4
+st_ahrm_gate_no_3,Gate No. 3,28.5724,77.2588,0,st_ahrm,1,L1
+st_ahrm_lift_no_4,Lift No. 4,28.5727649,77.258494,0,st_ahrm,1,L1
+st_ncaj,NEELAM CHOWK AJRONDA,28.400707,77.309105,1,,1,
+st_ncaj_lift_no_2,Lift No. 2,28.3976537,77.3101607,0,st_ncaj,1,L4
+st_ncaj_concourse,Concourse,28.400707,77.309105,0,st_ncaj,1,L5
+st_ncaj_gate_no_2,Gate No. 2,28.3976537,77.3101607,0,st_ncaj,1,L1
+st_ncaj_platform_1,Platform 1,28.400707,77.309105,0,st_ncaj,1,L7
+st_ncaj_lift_no_1,Lift No. 1,28.3976537,77.3101607,0,st_ncaj,1,L4
+st_ncaj_platform_2,Platform 2,28.400707,77.309105,0,st_ncaj,1,L8
+st_ncaj_unpaid_concourse,Unpaid Concourse,28.400707,77.309105,0,st_ncaj,1,L3
+st_ncaj_gate_no_1,Gate No. 1,28.3976537,77.3101607,0,st_ncaj,0,L1
+st_ncaj_lift_no_3,Lift No. 3,28.3976537,77.3101607,0,st_ncaj,1,L1
+st_ncaj_paid_concourse,Paid Concourse,28.400707,77.309105,0,st_ncaj,1,L4
+st_ncaj_gate_no_3,Gate No. 3,28.3976537,77.3101607,0,st_ncaj,1,L1
+st_ncaj_lift_no_4,Lift No. 4,28.3976537,77.3101607,0,st_ncaj,1,L1
+st_rise,"ROHINI SECTOR - 18, 19",28.4419,77.8229,1,,1,
+st_rise_lift_no_2,Lift No. 2,28.4418,77.8234,0,st_rise,1,L4
+st_rise_concourse,Concourse,28.4419,77.8229,0,st_rise,1,L5
+st_rise_gate_no_2,Gate No. 2,28.4419,77.8229,0,st_rise,1,L1
+st_rise_platform_1,Platform 1,28.4419,77.8229,0,st_rise,1,L7
+st_rise_lift_no_1,Lift No. 1,28.4418,77.8232,0,st_rise,1,L4
+st_rise_platform_2,Platform 2,28.4419,77.8229,0,st_rise,1,L8
+st_rise_unpaid_concourse,Unpaid Concourse,28.4419,77.8229,0,st_rise,1,L3
+st_rise_gate_no_1,Gate No. 1,28.4419,77.8233,0,st_rise,1,L1
+st_rise_lift_no_3,Lift No. 3,28.4419,77.8245,0,st_rise,1,L1
+st_rise_paid_concourse,Paid Concourse,28.4419,77.8229,0,st_rise,1,L4
+st_rise_lift_no_4,Lift No. 4,28.4418,77.8238,0,st_rise,1,L1
+st_bapb,BADARPUR BORDER,28.4932,77.30085,1,,1,
+st_bapb_lift_no_2,Lift No. 2,28.49325,77.3007813,0,st_bapb,1,L4
+st_bapb_concourse,Concourse,28.4932,77.30085,0,st_bapb,1,L5
+st_bapb_gate_no_2,Gate No. 2,28.49325,77.3007813,0,st_bapb,1,L1
+st_bapb_platform_1,Platform 1,28.4932,77.30085,0,st_bapb,1,L7
+st_bapb_lift_no_1,Lift No. 1,28.49325,77.3007813,0,st_bapb,1,L4
+st_bapb_unpaid_concourse,Unpaid Concourse,28.4932,77.30085,0,st_bapb,1,L3
+st_bapb_gate_no_1,Gate No. 1,28.49325,77.3007813,0,st_bapb,1,L1
+st_bapb_lift_no_3,Lift No. 3,28.49325,77.3007813,0,st_bapb,1,L1
+st_bapb_paid_concourse,Paid Concourse,28.4932,77.30085,0,st_bapb,1,L4
+st_bapb_platform_2,Platform 2,28.4932,77.30085,0,st_bapb,1,L8
+st_gdpi,GOVIND PURI,28.544413,77.264259,1,,1,
+st_gdpi_lift_no_2,Lift No. 2,28.5446117,77.261992,0,st_gdpi,1,L4
+st_gdpi_concourse,Concourse,28.544413,77.264259,0,st_gdpi,1,L5
+st_gdpi_gate_no_2,Gate No. 2,28.5446117,77.261992,0,st_gdpi,1,L1
+st_gdpi_platform_1,Platform 1,28.544413,77.264259,0,st_gdpi,1,L7
+st_gdpi_lift_no_1,Lift No. 1,28.5446117,77.261992,0,st_gdpi,1,L4
+st_gdpi_platform_2,Platform 2,28.544413,77.264259,0,st_gdpi,1,L8
+st_gdpi_unpaid_concourse,Unpaid Concourse,28.544413,77.264259,0,st_gdpi,1,L3
+st_gdpi_gate_no_1,Gate No. 1,28.5446117,77.261992,0,st_gdpi,1,L1
+st_gdpi_lift_no_3,Lift No. 3,28.5446117,77.261992,0,st_gdpi,1,L1
+st_gdpi_paid_concourse,Paid Concourse,28.544413,77.264259,0,st_gdpi,1,L4
+st_gdpi_lift_no_4,Lift No. 4,28.5446117,77.261992,0,st_gdpi,1,L1
+st_dshp,DASHRATHPURI,28.6024422,77.0803213,1,,1,
+st_dshp_lift_no_2,Lift No. 2,28.6024422,77.0803213,0,st_dshp,1,L1
+st_dshp_concourse,Concourse,28.6024422,77.0803213,0,st_dshp,1,L5
+st_dshp_gate_no_2,Gate No. 2,28.6024422,77.0803213,0,st_dshp,0,L1
+st_dshp_platform_1,Platform 1,28.6024422,77.0803213,0,st_dshp,1,L7
+st_dshp_lift_no_1,Lift No. 1,28.6024422,77.0803213,0,st_dshp,1,L4
+st_dshp_unpaid_concourse,Unpaid Concourse,28.6024422,77.0803213,0,st_dshp,1,L3
+st_dshp_gate_no_1,Gate No. 1,28.6024422,77.0803213,0,st_dshp,1,L1
+st_dshp_lift_no_3,Lift No. 3,28.6024422,77.0803213,0,st_dshp,1,L1
+st_dshp_paid_concourse,Paid Concourse,28.6024422,77.0803213,0,st_dshp,1,L4
+st_dshp_gate_no_3,Gate No. 3,28.6024422,77.0803213,0,st_dshp,1,L1
+st_dshp_platform_2,Platform 2,28.6024422,77.0803213,0,st_dshp,1,L8
+st_kkdc,KARKARDUMA COURT,28.649473,77.295341,1,,1,
+st_kkdc_lift_no_2,Lift No. 2,28.6450398,77.3042615,0,st_kkdc,1,L5
+st_kkdc_gate_no_2,Gate No. 2,28.6450398,77.3042615,0,st_kkdc,1,L1
+st_kkdc_unpaid_concourse,Unpaid Concourse,28.649473,77.295341,0,st_kkdc,1,L3
+st_kkdc_lift_no_1,Lift No. 1,28.6450398,77.3042615,0,st_kkdc,1,L5
+st_kkdc_gate_no_1,Gate No. 1,28.6450398,77.3042615,0,st_kkdc,1,L1
+st_kkdc_lift_no_3,Lift No. 3,28.6450398,77.3042615,0,st_kkdc,1,L5
+st_kkdc_paid_concourse,Paid Concourse,28.649473,77.295341,0,st_kkdc,1,L4
+st_kkdc_lift_no_4,Lift No. 4,28.6450398,77.3042615,0,st_kkdc,1,L5
+st_ln,LAXMI NAGAR,28.629843,77.276428,1,,1,
+st_ln_lift_no_2,Lift No. 2,28.6305,77.2773,0,st_ln,1,L4
+st_ln_gate_no_2,Gate No. 2,28.6305,77.2773,0,st_ln,1,L1
+st_ln_platform_1,Platform 1,28.629843,77.276428,0,st_ln,1,L7
+st_ln_lift_no_1,Lift No. 1,28.6305,77.2773,0,st_ln,1,L4
+st_ln_unpaid_concourse,Unpaid Concourse,28.629843,77.276428,0,st_ln,1,L3
+st_ln_gate_no_4,Gate No. 4,28.6305,77.2773,0,st_ln,0,L1
+st_ln_gate_no_1,Gate No. 1,28.6305,77.2773,0,st_ln,1,L1
+st_ln_gate_no_5,Gate No. 5,28.6305,77.2773,0,st_ln,0,L1
+st_ln_lift_no_3,Lift No. 3,28.6305,77.2773,0,st_ln,1,L1
+st_ln_paid_concourse,Paid Concourse,28.629843,77.276428,0,st_ln,1,L4
+st_ln_gate_no_3,Gate No. 3,28.6305,77.2773,0,st_ln,0,L1
+st_ln_platform_2,Platform 2,28.629843,77.276428,0,st_ln,1,L8
+st_unw,UTTAM NAGAR WEST,28.621672,77.055664,1,,1,
+st_unw_lift_no_2,Lift No. 2,28.3718,77.0322,0,st_unw,1,L4
+st_unw_lift_no_04,LIFT NO. 04,28.6218,77.0558,0,st_unw,1,L1
+st_unw_gate_no_2,Gate No. 2,28.6218,77.0558,0,st_unw,1,L1
+st_unw_unpaid_concourse,Unpaid Concourse,28.621672,77.055664,0,st_unw,1,L3
+st_unw_lift_no_1,Lift No. 1,28.6218,77.0558,0,st_unw,1,L4
+st_unw_gate_no_4,Gate No. 4,28.6218,77.0558,0,st_unw,1,L1
+st_unw_gate_no_1,Gate No. 1,28.6218,77.0562,0,st_unw,1,L1
+st_unw_lift_no_3,Lift No. 3,28.6218,77.0558,0,st_unw,1,L1
+st_unw_paid_concourse,Paid Concourse,28.621672,77.055664,0,st_unw,1,L4
+st_unw_gate_no_3,Gate No. 3,28.6218,77.0558,0,st_unw,1,L1
+st_jpe,JANAKPURI EAST,28.6328,77.0862,1,,1,
+st_jpe_lift_no_2,Lift No. 2,28.6328,77.0862,0,st_jpe,1,L4
+st_jpe_concourse,Concourse,28.6328,77.0862,0,st_jpe,1,L5
+st_jpe_gate_no_2,Gate No. 2,28.6328,77.0862,0,st_jpe,1,L1
+st_jpe_platform_1,Platform 1,28.6328,77.0862,0,st_jpe,1,L7
+st_jpe_lift_no_1,Lift No. 1,28.6328,77.0862,0,st_jpe,1,L4
+st_jpe_unpaid_concourse,Unpaid Concourse,28.6328,77.0862,0,st_jpe,1,L3
+st_jpe_gate_no_1,Gate No. 1,28.6328,77.0862,0,st_jpe,1,L1
+st_jpe_lift_no_3,Lift No. 3,28.6328,77.0862,0,st_jpe,1,L1
+st_jpe_paid_concourse,Paid Concourse,28.6328,77.0862,0,st_jpe,1,L4
+st_jpe_gate_no_3,Gate No. 3,28.6328,77.0862,0,st_jpe,0,L1
+st_jpe_platform_2,Platform 2,28.6328,77.0862,0,st_jpe,1,L8
+st_smbg,SHALIMAR BAGH,28.70182,77.165184,1,,1,
+st_smbg_lift_no_2,Lift No. 2,28.702018,77.1625815,0,st_smbg,1,L1
+st_smbg_concourse,Concourse,28.70182,77.165184,0,st_smbg,1,L5
+st_smbg_gate_no_2,Gate No. 2,28.702018,77.1625815,0,st_smbg,1,L1
+st_smbg_unpaid_concourse,Unpaid Concourse,28.70182,77.165184,0,st_smbg,1,L3
+st_smbg_lift_no_1,Lift No. 1,28.702018,77.1625815,0,st_smbg,1,L5
+st_smbg_gate_no_4,Gate No. 4,28.702018,77.1625815,0,st_smbg,1,L1
+st_smbg_gate_no_1,Gate No. 1,28.702018,77.1625815,0,st_smbg,1,L1
+st_smbg_gate_no_5,Gate No. 5,28.702018,77.1625815,0,st_smbg,0,L1
+st_smbg_lift_no_3,Lift No. 3,28.702018,77.1625815,0,st_smbg,1,L1
+st_smbg_paid_concourse,Paid Concourse,28.70182,77.165184,0,st_smbg,1,L4
+st_smbg_gate_no_3,Gate No. 3,28.702018,77.1625815,0,st_smbg,0,L1
+st_sstn,SECTOR - 62 NOIDA,28.617,77.3736,1,,1,
+st_sstn_lift_no_2,Lift No. 2,28.617,77.3736,0,st_sstn,1,L4
+st_sstn_gate_no_2,Gate No. 2,28.617,77.3736,0,st_sstn,1,L1
+st_sstn_platform_1,Platform 1,28.617,77.3736,0,st_sstn,1,L7
+st_sstn_lift_no_1,Lift No. 1,28.617,77.3736,0,st_sstn,1,L4
+st_sstn_platform_2,Platform 2,28.617,77.3736,0,st_sstn,1,L8
+st_sstn_unpaid_concourse,Unpaid Concourse,28.617,77.3736,0,st_sstn,1,L3
+st_sstn_gate_no_1,Gate No. 1,28.617,77.3736,0,st_sstn,1,L1
+st_sstn_lift_no_3,Lift No. 3,28.617,77.3736,0,st_sstn,1,L1
+st_sstn_paid_concourse,Paid Concourse,28.617,77.3736,0,st_sstn,1,L4
+st_sstn_lift_no_4,Lift No. 4,28.617,77.3736,0,st_sstn,1,L1
+st_sabr,SADAR BAZAR CANTONMENT,28.5764632,77.1114814,1,,1,
+st_sabr_lift_no_2,Lift No. 2,28.5764632,77.1114814,0,st_sabr,1,L4
+st_sabr_gate_no_2,Gate No. 2,28.5764632,77.1114814,0,st_sabr,0,L1
+st_sabr_platform_1,Platform 1,28.5764632,77.1114814,0,st_sabr,1,L7
+st_sabr_lift_no_1,Lift No. 1,28.5764632,77.1114814,0,st_sabr,1,L4
+st_sabr_platform_2,Platform 2,28.5764632,77.1114814,0,st_sabr,1,L8
+st_sabr_unpaid_concourse,Unpaid Concourse,28.5764632,77.1114814,0,st_sabr,1,L3
+st_sabr_gate_no_1,Gate No. 1,28.5764632,77.1114814,0,st_sabr,1,L1
+st_sabr_lift_no_3,Lift No. 3,28.5764632,77.1114814,0,st_sabr,1,L1
+st_sabr_paid_concourse,Paid Concourse,28.5764632,77.1114814,0,st_sabr,1,L4
+st_sabr_lift_no_4,Lift No. 4,28.5764632,77.1114814,0,st_sabr,1,L1
+st_shvp,SHIVAJI PARK,28.674965,77.128258,1,,1,
+st_shvp_lift_no_2,Lift No. 2,28.674939,77.1283933,0,st_shvp,1,L5
+st_shvp_gate_no_2,Gate No. 2,28.674939,77.1283933,0,st_shvp,1,L1
+st_shvp_unpaid_concourse,Unpaid Concourse,28.674965,77.128258,0,st_shvp,1,L3
+st_shvp_lift_no_1,Lift No. 1,28.674939,77.1283933,0,st_shvp,1,L5
+st_shvp_gate_no_1,Gate No. 1,28.674939,77.1283933,0,st_shvp,1,L1
+st_shvp_lift_no_3,Lift No. 3,28.674939,77.1283933,0,st_shvp,1,L1
+st_shvp_paid_concourse,Paid Concourse,28.674965,77.128258,0,st_shvp,1,L4
+st_shvp_lift_no_4,Lift No. 4,28.674939,77.1283933,0,st_shvp,1,L1
+st_nizm,SARAI KALE KHAN - NIZAMUDDIN,28.5889,77.253189,1,,1,
+st_nizm_lift_no_2,Lift No. 2,28.58936,77.2549413,0,st_nizm,1,L5
+st_nizm_concourse,Concourse,28.5889,77.253189,0,st_nizm,1,L5
+st_nizm_gate_no_2,Gate No. 2,28.58936,77.2549413,0,st_nizm,1,L1
+st_nizm_unpaid_concourse,Unpaid Concourse,28.5889,77.253189,0,st_nizm,1,L3
+st_nizm_lift_no_1,Lift No. 1,28.58936,77.2549413,0,st_nizm,1,L5
+st_nizm_gate_no_1,Gate No. 1,28.58936,77.2549413,0,st_nizm,0,L1
+st_nizm_lift_no_3,Lift No. 3,28.58936,77.2549413,0,st_nizm,1,L5
+st_nizm_paid_concourse,Paid Concourse,28.5889,77.253189,0,st_nizm,1,L4
+st_nizm_gate_no_3,Gate No. 3,28.58936,77.2549413,0,st_nizm,1,L1
+st_tg,TAGORE GARDEN,28.643795,77.112747,1,,1,
+st_tg_lift_no_2,Lift No. 2,28.6438,77.1129,0,st_tg,1,L4
+st_tg_gate_no_2,Gate No. 2,28.6438,77.1129,0,st_tg,0,L1
+st_tg_platform_1,Platform 1,28.643795,77.112747,0,st_tg,1,L7
+st_tg_lift_no_1,Lift No. 1,28.6438,77.1129,0,st_tg,1,L4
+st_tg_platform_2,Platform 2,28.643795,77.112747,0,st_tg,1,L8
+st_tg_gate_no_4,Gate No. 4,28.6438,77.1129,0,st_tg,1,L1
+st_tg_unpaid_concourse,Unpaid Concourse,28.643795,77.112747,0,st_tg,1,L3
+st_tg_gate_no_1,Gate No. 1,28.6438,77.1129,0,st_tg,0,L1
+st_tg_lift_no_3,Lift No. 3,28.6438,77.1129,0,st_tg,1,L1
+st_tg_paid_concourse,Paid Concourse,28.643795,77.112747,0,st_tg,1,L4
+st_tg_gate_no_3,Gate No. 3,28.6438,77.1129,0,st_tg,1,L1
+st_tg_lift_no_4,Lift No. 4,28.6438,77.1129,0,st_tg,1,L1
+st_nnoi,NANGLOI,28.682356,77.064728,1,,1,
+st_nnoi_lift_no_2,Lift No. 2,28.681984,77.0616903,0,st_nnoi,1,L5
+st_nnoi_gate_no_2,Gate No. 2,28.681984,77.0616903,0,st_nnoi,0,L1
+st_nnoi_unpaid_concourse,Unpaid Concourse,28.682356,77.064728,0,st_nnoi,1,L3
+st_nnoi_lift_no_1,Lift No. 1,28.681984,77.0616903,0,st_nnoi,1,L5
+st_nnoi_gate_no_1,Gate No. 1,28.681984,77.0616903,0,st_nnoi,1,L1
+st_nnoi_lift_no_3,Lift No. 3,28.681984,77.0616903,0,st_nnoi,1,L1
+st_nnoi_paid_concourse,Paid Concourse,28.682356,77.064728,0,st_nnoi,1,L4
+st_khcy,KAILASH COLONY,28.554617,77.239738,1,,1,
+st_khcy_lift_no_2,Lift No. 2,28.55554,77.2394585,0,st_khcy,1,L4
+st_khcy_concourse,Concourse,28.554617,77.239738,0,st_khcy,1,L5
+st_khcy_gate_no_2,Gate No. 2,28.55554,77.2394585,0,st_khcy,1,L1
+st_khcy_platform_1,Platform 1,28.554617,77.239738,0,st_khcy,1,L7
+st_khcy_lift_no_1,Lift No. 1,28.55554,77.2394585,0,st_khcy,1,L4
+st_khcy_platform_2,Platform 2,28.554617,77.239738,0,st_khcy,1,L8
+st_khcy_unpaid_concourse,Unpaid Concourse,28.554617,77.239738,0,st_khcy,1,L3
+st_khcy_gate_no_1,Gate No. 1,28.55554,77.2394585,0,st_khcy,1,L1
+st_khcy_paid_concourse,Paid Concourse,28.554617,77.239738,0,st_khcy,1,L4
+st_khcy_lift_no_4,Lift No. 4,28.55554,77.2394585,0,st_khcy,1,L1
+st_pra,PRATAP NAGAR,28.666632,77.196869,1,,1,
+st_pra_lift_no_2,Lift No. 2,28.6666,77.1989,0,st_pra,1,L5
+st_pra_gate_no_2,Gate No. 2,28.6666,77.1989,0,st_pra,1,L1
+st_pra_platform_1,Platform 1,28.666632,77.196869,0,st_pra,1,L7
+st_pra_lift_no_1,Lift No. 1,28.6666,77.1989,0,st_pra,1,L5
+st_pra_platform_2,Platform 2,28.666632,77.196869,0,st_pra,1,L8
+st_pra_unpaid_concourse,Unpaid Concourse,28.666632,77.196869,0,st_pra,1,L3
+st_pra_gate_no_1,Gate No. 1,28.6666,77.1989,0,st_pra,1,L1
+st_pra_lift_no_3,Lift No. 3,28.6666,77.1989,0,st_pra,1,L1
+st_pra_paid_concourse,Paid Concourse,28.666632,77.196869,0,st_pra,1,L4
+st_pra_lift_no_4,Lift No. 4,28.6666,77.1989,0,st_pra,1,L1
+st_idpt,INDRAPRASTHA,28.620272,77.250076,1,,1,
+st_idpt_lift_no_2,Lift No. 2,28.6206,77.25,0,st_idpt,1,L4
+st_idpt_gate_no_2,Gate No. 2,28.6206,77.25,0,st_idpt,0,L1
+st_idpt_platform_1,Platform 1,28.620272,77.250076,0,st_idpt,1,L7
+st_idpt_lift_no_1,Lift No. 1,28.6206,77.25,0,st_idpt,1,L4
+st_idpt_unpaid_concourse,Unpaid Concourse,28.620272,77.250076,0,st_idpt,1,L3
+st_idpt_gate_no_1,Gate No. 1,28.6206,77.25,0,st_idpt,1,L1
+st_idpt_lift_no_3,Lift No. 3,28.6206,77.25,0,st_idpt,1,L1
+st_idpt_paid_concourse,Paid Concourse,28.620272,77.250076,0,st_idpt,1,L4
+st_idpt_platform_2,Platform 2,28.620272,77.250076,0,st_idpt,1,L8
+st_shd,SHAHDARA,28.673531,77.28727,1,,1,
+st_shd_lift_no_2,Lift No. 2,28.6735,77.2899,0,st_shd,1,L5
+st_shd_concourse,Concourse,28.673531,77.28727,0,st_shd,1,L5
+st_shd_gate_no_2,Gate No. 2,28.6735,77.2899,0,st_shd,1,L1
+st_shd_platform_1,Platform 1,28.673531,77.28727,0,st_shd,1,L7
+st_shd_lift_no_1,Lift No. 1,28.6735,77.2899,0,st_shd,1,L5
+st_shd_unpaid_concourse,Unpaid Concourse,28.673531,77.28727,0,st_shd,1,L3
+st_shd_gate_no_1,Gate No. 1,28.6735,77.2899,0,st_shd,1,L1
+st_shd_lift_no_3,Lift No. 3,28.6735,77.2899,0,st_shd,1,L5
+st_shd_paid_concourse,Paid Concourse,28.673531,77.28727,0,st_shd,1,L4
+st_shd_platform_2,Platform 2,28.673531,77.28727,0,st_shd,1,L8
+st_nwd,NAWADA,28.620222,77.044991,1,,1,
+st_nwd_lift_no_2,Lift No. 2,28.6203,77.3397,0,st_nwd,1,L4
+st_nwd_concourse,Concourse,28.620222,77.044991,0,st_nwd,1,L5
+st_nwd_gate_no_2,Gate No. 2,28.6203,77.0453,0,st_nwd,0,L1
+st_nwd_unpaid_concourse,Unpaid Concourse,28.620222,77.044991,0,st_nwd,1,L3
+st_nwd_lift_no_1,Lift No. 1,28.6203,77.3397,0,st_nwd,1,L4
+st_nwd_gate_no_4,Gate No. 4,28.6203,77.0453,0,st_nwd,0,L1
+st_nwd_gate_no_1,Gate No. 1,28.6203,77.0453,0,st_nwd,1,L1
+st_nwd_lift_no_3,Lift No. 3,28.6203,77.3397,0,st_nwd,1,L1
+st_nwd_gate_no_5_temporary_closed,Gate No. 5               TEMPORARY CLOSED,28.6203,77.0453,0,st_nwd,0,L1
+st_nwd_paid_concourse,Paid Concourse,28.620222,77.044991,0,st_nwd,1,L4
+st_nwd_gate_no_3,Gate No. 3,28.6203,77.0453,0,st_nwd,0,L1
+st_nwd_lift_no_4,Lift No. 4,28.6203,77.3397,0,st_nwd,1,L1
+st_dst,DWARKA SECTOR - 10,28.581108,77.05719,1,,1,
+st_dst_lift_no_2,Lift No. 2,28.5811,77.0575,0,st_dst,1,L4
+st_dst_gate_no_4_exit,Gate No. 4 (Exit),28.5811,77.0575,0,st_dst,0,L1
+st_dst_platform_1,Platform 1,28.581108,77.05719,0,st_dst,1,L7
+st_dst_lift_no_1,Lift No. 1,28.5811,77.0575,0,st_dst,1,L4
+st_dst_unpaid_concourse,Unpaid Concourse,28.581108,77.05719,0,st_dst,1,L3
+st_dst_gate_no_1_entry,Gate No. 1 (Entry),28.5811,77.0575,0,st_dst,1,L1
+st_dst_paid_concourse,Paid Concourse,28.581108,77.05719,0,st_dst,1,L4
+st_dst_gate_no_3_exit,Gate No. 3 (Exit),28.5811,77.0575,0,st_dst,0,L1
+st_dst_gate_no_2_entry,Gate No. 2 (Entry),28.5811,77.0575,0,st_dst,1,L1
+st_dst_platform_2,Platform 2,28.581108,77.05719,0,st_dst,1,L8
+st_pspk,PANCHSHEEL PARK,28.542339,77.220512,1,,1,
+st_pspk_lift_no_2,Lift No. 2,28.5422964,77.2185052,0,st_pspk,1,L1
+st_pspk_gate_no_2,Gate No. 2,28.5422964,77.2185052,0,st_pspk,1,L1
+st_pspk_platform_1,Platform 1,28.542339,77.220512,0,st_pspk,1,L7
+st_pspk_lift_no_1,Lift No. 1,28.5422964,77.2185052,0,st_pspk,1,L4
+st_pspk_unpaid_concourse,Unpaid Concourse,28.542339,77.220512,0,st_pspk,1,L3
+st_pspk_gate_no_1,Gate No. 1,28.5422964,77.2185052,0,st_pspk,1,L1
+st_pspk_lift_no_3,Lift No. 3,28.5422964,77.2185052,0,st_pspk,1,L1
+st_pspk_paid_concourse,Paid Concourse,28.542339,77.220512,0,st_pspk,1,L4
+st_pspk_gate_no_3,Gate No. 3,28.5422964,77.2185052,0,st_pspk,0,L1
+st_pspk_platform_2,Platform 2,28.542339,77.220512,0,st_pspk,1,L8
+st_wc,WELCOME,28.671986,77.277931,1,,1,
+st_wc_lift_no_2a_pink_line,Lift No. 2A (Pink Line),28.6718,77.2777,0,st_wc,1,L5
+st_wc_concourse,Concourse,28.671986,77.277931,0,st_wc,1,L5
+st_wc_platform_4,Platform 4,28.671986,77.277931,0,st_wc,1,L6
+st_wc_lift_no_3a_pink_line,Lift No. 3A (Pink Line),28.6718,77.2777,0,st_wc,1,L5
+st_wc_lift_no_1a_pink_line,Lift No. 1A (Pink Line),28.6718,77.2777,0,st_wc,1,L5
+st_wc_platform_1,Platform 1,28.671986,77.277931,0,st_wc,1,L7
+st_wc_lift_no_1,Lift No. 1,28.6718,77.2777,0,st_wc,1,L5
+st_wc_unpaid_concourse,Unpaid Concourse,28.671986,77.277931,0,st_wc,1,L3
+st_wc_lift_no_4a_pink_line,Lift No. 4A (Pink Line),28.6718,77.2777,0,st_wc,1,L1
+st_wc_gate_no_2_pink_line,Gate No. 2 (Pink Line),28.6718,77.2777,0,st_wc,1,L1
+st_wc_gate_no_1,Gate No. 1,28.6718,77.2777,0,st_wc,1,L1
+st_wc_platform_3,Platform 3,28.671986,77.277931,0,st_wc,1,L6
+st_wc_paid_concourse,Paid Concourse,28.671986,77.277931,0,st_wc,1,L4
+st_sakt,SAKET,28.520638,77.199379,1,,1,
+st_sakt_lift_no_2,Lift No. 2,28.5211,77.2022,0,st_sakt,1,L1
+st_sakt_concourse,Concourse,28.520638,77.199379,0,st_sakt,1,L5
+st_sakt_gate_no_2,Gate No. 2,28.5211,77.2022,0,st_sakt,1,L1
+st_sakt_platform_1,Platform 1,28.520638,77.199379,0,st_sakt,1,L7
+st_sakt_lift_no_1,Lift No. 1,28.5211,77.2022,0,st_sakt,1,L4
+st_sakt_unpaid_concourse,Unpaid Concourse,28.520638,77.199379,0,st_sakt,1,L3
+st_sakt_gate_no_1,Gate No. 1,28.5211,77.2022,0,st_sakt,1,L1
+st_sakt_lift_no_3,Lift No.3,28.5211,77.2022,0,st_sakt,1,L1
+st_sakt_paid_concourse,Paid Concourse,28.520638,77.199379,0,st_sakt,1,L4
+st_sakt_gate_no_3,Gate No. 3,28.5211,77.2022,0,st_sakt,0,L1
+st_sakt_platform_2,Platform 2,28.520638,77.199379,0,st_sakt,1,L8
+st_tkbr,TIKRI BORDER,28.687876,76.963783,1,,1,
+st_tkbr_lift_no_2,Lift No. 2,28.688233,76.9620993,0,st_tkbr,1,L5
+st_tkbr_concourse,Concourse,28.687876,76.963783,0,st_tkbr,1,L5
+st_tkbr_gate_no_2,Gate No. 2,28.688233,76.9620993,0,st_tkbr,1,L1
+st_tkbr_platform_1,Platform 1,28.687876,76.963783,0,st_tkbr,1,L7
+st_tkbr_lift_no_1,Lift No. 1,28.688233,76.9620993,0,st_tkbr,1,L5
+st_tkbr_platform_2,Platform 2,28.687876,76.963783,0,st_tkbr,1,L8
+st_tkbr_unpaid_concourse,Unpaid Concourse,28.687876,76.963783,0,st_tkbr,1,L3
+st_tkbr_gate_no_1,Gate No. 1,28.688233,76.9620993,0,st_tkbr,1,L1
+st_tkbr_lift_no_3,lift No. 3,28.688233,76.9620993,0,st_tkbr,1,L1
+st_tkbr_paid_concourse,Paid Concourse,28.687876,76.963783,0,st_tkbr,1,L4
+st_tkbr_lift_no_4,Lift No. 4,28.688233,76.9620993,0,st_tkbr,1,L1
+st_sp,SHADIPUR,28.65143,77.156021,1,,1,
+st_sp_gate_no_7,Gate No. 7,28.6516,77.1582,0,st_sp,0,L1
+st_sp_lift_no_2,Lift No. 2,28.6516,77.1582,0,st_sp,1,L4
+st_sp_gate_no_2,Gate No. 2,28.6516,77.1582,0,st_sp,1,L1
+st_sp_gate_no_6,Gate No. 6,28.6516,77.1582,0,st_sp,0,L1
+st_sp_platform_1,Platform 1,28.65143,77.156021,0,st_sp,1,L7
+st_sp_lift_no_1,Lift No. 1,28.6516,77.1582,0,st_sp,1,L4
+st_sp_unpaid_concourse,Unpaid Concourse,28.65143,77.156021,0,st_sp,1,L3
+st_sp_gate_no_4,Gate No. 4,28.6516,77.1582,0,st_sp,1,L1
+st_sp_gate_no_1,Gate No. 1,28.6516,77.1582,0,st_sp,1,L1
+st_sp_gate_no_5,Gate No. 5,28.6516,77.1582,0,st_sp,0,L1
+st_sp_lift_no_3,Lift No. 3,28.6516,77.1582,0,st_sp,1,L1
+st_sp_paid_concourse,Paid Concourse,28.65143,77.156021,0,st_sp,1,L4
+st_sp_gate_no_3,Gate No. 3,28.6516,77.1582,0,st_sp,1,L1
+st_sp_platform_2,Platform 2,28.65143,77.156021,0,st_sp,1,L8
+st_atha,ARTHALA,28.6772,77.391876,1,,1,
+st_atha_lift_no_2,Lift No. 2,28.6729,77.3917,0,st_atha,1,L5
+st_atha_concourse,Concourse,28.6772,77.391876,0,st_atha,1,L5
+st_atha_gate_no_2,Gate No. 2,28.6729,77.3917,0,st_atha,1,L1
+st_atha_platform_1,Platform 1,28.6772,77.391876,0,st_atha,1,L7
+st_atha_lift_no_1,Lift No. 1,28.6729,77.3917,0,st_atha,1,L5
+st_atha_platform_2,Platform 2,28.6772,77.391876,0,st_atha,1,L8
+st_atha_unpaid_concourse,Unpaid Concourse,28.6772,77.391876,0,st_atha,1,L3
+st_atha_gate_no_1,Gate No. 1,28.6729,77.3917,0,st_atha,1,L1
+st_atha_lift_no_3,Lift No. 3,28.6729,77.3917,0,st_atha,1,L1
+st_atha_paid_concourse,Paid Concourse,28.6772,77.391876,0,st_atha,1,L4
+st_atha_lift_no_4,Lift No. 4,28.6729,77.3917,0,st_atha,1,L1
+st_rjbh,RAJ BAGH,28.677122,77.346466,1,,1,
+st_rjbh_lift_no_2,Lift No. 2,28.6808,77.3439,0,st_rjbh,1,L5
+st_rjbh_gate_no_2,Gate No. 2,28.6808,77.3439,0,st_rjbh,1,L1
+st_rjbh_platform_1,Platform 1,28.677122,77.346466,0,st_rjbh,1,L7
+st_rjbh_lift_no_1,Lift No. 1,28.6808,77.3439,0,st_rjbh,1,L5
+st_rjbh_platform_2,Platform 2,28.677122,77.346466,0,st_rjbh,1,L8
+st_rjbh_unpaid_concourse,Unpaid Concourse,28.677122,77.346466,0,st_rjbh,1,L3
+st_rjbh_gate_no_1,Gate No. 1,28.6808,77.3439,0,st_rjbh,1,L1
+st_rjbh_lift_no_3,Lift No. 3,28.6808,77.3439,0,st_rjbh,1,L1
+st_rjbh_paid_concourse,Paid Concourse,28.677122,77.346466,0,st_rjbh,1,L4
+st_rjbh_lift_no_4,Lift No. 4,28.6808,77.3439,0,st_rjbh,1,L1
+st_unrg,UDYOG NAGAR,28.681047,77.078674,1,,1,
+st_unrg_lift_no_2,Lift No. 2,28.6810606,77.0787957,0,st_unrg,1,L5
+st_unrg_gate_no_2,Gate No. 2,28.6810606,77.0787957,0,st_unrg,1,L1
+st_unrg_unpaid_concourse,Unpaid Concourse,28.681047,77.078674,0,st_unrg,1,L3
+st_unrg_lift_no_1,Lift No. 1,28.6810606,77.0787957,0,st_unrg,1,L5
+st_unrg_gate_no_1,Gate No. 1,28.6810606,77.0787957,0,st_unrg,1,L1
+st_unrg_lift_no_3,Lift No. 3,28.6810606,77.0787957,0,st_unrg,1,L1
+st_unrg_paid_concourse,Paid Concourse,28.681047,77.078674,0,st_unrg,1,L4
+st_unrg_lift_no_4,Lift No. 4,28.6810606,77.0787957,0,st_unrg,1,L1
+st_mn,MOTI NAGAR,28.657803,77.140488,1,,1,
+st_mn_lift_no_2,Lift No. 2,28.6579,77.1427,0,st_mn,1,L4
+st_mn_gate_no_2,Gate No. 2,28.6579,77.1427,0,st_mn,1,L1
+st_mn_platform_1,Platform 1,28.657803,77.140488,0,st_mn,1,L7
+st_mn_lift_no_1,Lift No. 1,28.6579,77.1427,0,st_mn,1,L4
+st_mn_platform_2,Platform 2,28.657803,77.140488,0,st_mn,1,L8
+st_mn_gate_no_4,Gate No. 4,28.6579,77.1427,0,st_mn,0,L1
+st_mn_unpaid_concourse,Unpaid Concourse,28.657803,77.140488,0,st_mn,1,L3
+st_mn_gate_no_1,Gate No. 1,28.6579,77.1427,0,st_mn,1,L1
+st_mn_lift_no_3,Lift No. 3,28.6579,77.1427,0,st_mn,1,L1
+st_mn_paid_concourse,Paid Concourse,28.657803,77.140488,0,st_mn,1,L4
+st_mn_gate_no_3,Gate No. 3,28.6579,77.1427,0,st_mn,0,L1
+st_mn_lift_no_4,Lift No. 4,28.6579,77.1427,0,st_mn,1,L1
+st_nshp,NETAJI SUBHASH PLACE,28.696,77.1526,1,,1,
+st_nshp_lift_no_2,Lift No. 2,28.696,77.1526,0,st_nshp,1,L5
+st_nshp_platform_4,Platform 4,28.696,77.1526,0,st_nshp,1,L6
+st_nshp_lift_no_1a_pink_line,Lift No. 1A (Pink Line),28.696,77.1526,0,st_nshp,1,L5
+st_nshp_gate_no_2_pink_line,Gate No. 2 (Pink Line),28.696,77.1526,0,st_nshp,1,L1
+st_nshp_gate_no_1,Gate No. 1,28.696,77.1526,0,st_nshp,1,L1
+st_nshp_paid_concourse,Paid Concourse,28.696,77.1526,0,st_nshp,1,L4
+st_nshp_lift_no_5a_pink_line,Lift No. 5A (Pink Line),28.696,77.1526,0,st_nshp,1,L1
+st_nshp_platform_1,Platform 1,28.696,77.1526,0,st_nshp,1,L7
+st_nshp_lift_no_4a_pink_line,Lift No. 4A (Pink Line),28.696,77.1526,0,st_nshp,1,L1
+st_nshp_platform_2,Platform 2,28.696,77.1526,0,st_nshp,1,L8
+st_nshp_lift_no_1,Lift No. 1,28.696,77.1526,0,st_nshp,1,L5
+st_nshp_platform_3,Platform 3,28.696,77.1526,0,st_nshp,1,L6
+st_nshp_lift_no_3,Lift No. 3,28.696,77.1526,0,st_nshp,1,L1
+st_nshp_lift_no_2a_pink_line,Lift No. 2A (Pink Line),28.696,77.1526,0,st_nshp,1,L5
+st_nshp_gate_no_1_pink_line,Gate No. 1 (Pink Line),28.696,77.1526,0,st_nshp,1,L1
+st_nshp_lift_no_3a_pink_line,Lift No. 3A (Pink Line),28.696,77.1526,0,st_nshp,1,L4
+st_nshp_gate_no_2,Gate No. 2,28.696,77.1526,0,st_nshp,1,L1
+st_nshp_unpaid_concourse,Unpaid Concourse,28.696,77.1526,0,st_nshp,1,L3
+st_nshp_gate_no_3,Gate No. 3,28.696,77.1526,0,st_nshp,0,L1
+st_kikj,KALINDI KUNJ,28.542835,77.310173,1,,1,
+st_kikj_lift_no_2,Lift No. 2,28.543,77.30968,0,st_kikj,1,L4
+st_kikj_platform_1,Platform 1,28.542835,77.310173,0,st_kikj,1,L7
+st_kikj_lift_no_1,Lift No. 1,28.543,77.30968,0,st_kikj,1,L4
+st_kikj_unpaid_concourse,Unpaid Concourse,28.542835,77.310173,0,st_kikj,1,L3
+st_kikj_gate_no_1,Gate No. 1,28.543,77.30968,0,st_kikj,0,L1
+st_kikj_lift_no_3,Lift No. 3,28.543,77.30968,0,st_kikj,1,L0
+st_kikj_paid_concourse,Paid Concourse,28.542835,77.310173,0,st_kikj,1,L4
+st_kikj_platform_2,Platform 2,28.542835,77.310173,0,st_kikj,1,L8
+st_pbgh,PULBANGASH,28.6664,77.2074,1,,1,
+st_pbgh_lift_no_2,Lift No. 2,28.6664,77.2074,0,st_pbgh,1,L5
+st_pbgh_platform_1,Platform 1,28.6664,77.2074,0,st_pbgh,1,L7
+st_pbgh_lift_no_1,Lift No. 1,28.6664,77.2074,0,st_pbgh,1,L5
+st_pbgh_unpaid_concourse,Unpaid Concourse,28.6664,77.2074,0,st_pbgh,1,L3
+st_pbgh_gate_no_1,Gate No. 1,28.6664,77.2074,0,st_pbgh,1,L1
+st_pbgh_lift_no_3,Lift No.3,28.6664,77.2074,0,st_pbgh,1,L1
+st_pbgh_paid_concourse,Paid Concourse,28.6664,77.2074,0,st_pbgh,1,L4
+st_pbgh_platform_2,Platform 2,28.6664,77.2074,0,st_pbgh,1,L8
+st_vw,VISHWAVIDYALAYA,28.694765,77.212418,1,,1,
+st_vw_lift_no_2,Lift No. 2,28.6952,77.2145,0,st_vw,1,L6
+st_vw_gate_no_2,Gate No. 2,28.6952,77.2145,0,st_vw,1,L1
+st_vw_platform_1,Platform 1,28.694765,77.212418,0,st_vw,1,L7
+st_vw_lift_no_1,Lift No. 1,28.6952,77.2145,0,st_vw,1,L6
+st_vw_unpaid_concourse,Unpaid Concourse,28.694765,77.212418,0,st_vw,1,L3
+st_vw_gate_no_4,Gate No. 4,28.6952,77.2145,0,st_vw,1,L1
+st_vw_gate_no_1,Gate No. 1,28.6952,77.2145,0,st_vw,1,L1
+st_vw_north_subway,North Subway,28.694765,77.212418,0,st_vw,0,
+st_vw_lift_no_3,Lift No. 3,28.6952,77.2145,0,st_vw,1,L4
+st_vw_paid_concourse,Paid Concourse,28.694765,77.212418,0,st_vw,1,L4
+st_vw_gate_no_3,Gate No. 3,28.6952,77.2145,0,st_vw,1,L1
+st_vw_platform_2,Platform 2,28.694765,77.212418,0,st_vw,1,L8
+st_bkmr,BADKAL MOR,28.422707,77.310234,1,,1,
+st_bkmr_lift_no_2,Lift No. 2,28.4228115,77.3079462,0,st_bkmr,1,L4
+st_bkmr_concourse,Concourse,28.422707,77.310234,0,st_bkmr,1,L5
+st_bkmr_gate_no_2,Gate No. 2,28.4228115,77.3079462,0,st_bkmr,1,L1
+st_bkmr_platform_1,Platform 1,28.422707,77.310234,0,st_bkmr,1,L7
+st_bkmr_lift_no_1,Lift No. 1,28.4228115,77.3079462,0,st_bkmr,1,L4
+st_bkmr_platform_2,Platform 2,28.422707,77.310234,0,st_bkmr,1,L8
+st_bkmr_unpaid_concourse,Unpaid Concourse,28.422707,77.310234,0,st_bkmr,1,L3
+st_bkmr_gate_no_1,Gate No. 1,28.4228115,77.3079462,0,st_bkmr,1,L1
+st_bkmr_lift_no_3,Lift No. 3,28.4228115,77.3079462,0,st_bkmr,1,L1
+st_bkmr_paid_concourse,Paid Concourse,28.422707,77.310234,0,st_bkmr,1,L4
+st_bkmr_gate_no_3,Gate No. 3,28.4228115,77.3079462,0,st_bkmr,0,L1
+st_bkmr_lift_no_4,Lift No. 4,28.4228115,77.3079462,0,st_bkmr,1,L1
+st_tkds,TUGHLAKABAD STATION,28.502232,77.29866,1,,1,
+st_tkds_concourse,Concourse,28.502232,77.29866,0,st_tkds,1,L5
+st_tkds_lift_no_2,Lift No. 2,28.502664,77.299347,0,st_tkds,1,L4
+st_tkds_platform_1,Platform 1,28.502232,77.29866,0,st_tkds,1,L7
+st_tkds_lift_no_1,Lift No. 1,28.502482,77.299285,0,st_tkds,1,L4
+st_tkds_unpaid_concourse,Unpaid Concourse,28.502232,77.29866,0,st_tkds,1,L3
+st_tkds_gate_no_1,Gate No. 1,28.502482,77.299285,0,st_tkds,1,L1
+st_tkds_lift_no_3,Lift No. 3,28.503068,77.299549,0,st_tkds,1,L1
+st_tkds_paid_concourse,Paid Concourse,28.502232,77.29866,0,st_tkds,1,L4
+st_tkds_platform_2,Platform 2,28.502232,77.29866,0,st_tkds,1,L8
+st_rjnm,MAJOR MOHIT SHARMA RAJENDRA NAGAR,28.6776,77.3581,1,,1,
+st_rjnm_lift_no_2,Lift No. 2,28.6776,77.3581,0,st_rjnm,1,L5
+st_rjnm_gate_no_2,Gate No. 2,28.6776,77.3581,0,st_rjnm,1,L1
+st_rjnm_platform_1,Platform 1,28.6776,77.3581,0,st_rjnm,1,L7
+st_rjnm_lift_no_1,Lift No. 1,28.6776,77.3581,0,st_rjnm,1,L5
+st_rjnm_platform_2,Platform 2,28.6776,77.3581,0,st_rjnm,1,L8
+st_rjnm_unpaid_concourse,Unpaid Concourse,28.6776,77.3581,0,st_rjnm,1,L3
+st_rjnm_gate_no_1,Gate No. 1,28.6776,77.3581,0,st_rjnm,1,L1
+st_rjnm_lift_no_3,Lift No. 3,28.6776,77.3581,0,st_rjnm,1,L1
+st_rjnm_paid_concourse,Paid Concourse,28.6776,77.3581,0,st_rjnm,1,L4
+st_rjnm_lift_no_4,Lift No. 4,28.6776,77.3581,0,st_rjnm,1,L1
+st_mdhs,MANDI HOUSE,28.625816,77.234726,1,,1,
+st_mdhs_lift_no_2,Lift No. 2,28.6259,77.2343,0,st_mdhs,1,L4
+st_mdhs_platform_4,Platform 4,28.625816,77.234726,0,st_mdhs,1,L6
+st_mdhs_gate_no_2,Gate No. 2,28.6259,77.2343,0,st_mdhs,1,L1
+st_mdhs_platform_1,Platform 1,28.625816,77.234726,0,st_mdhs,1,L7
+st_mdhs_lift_no_1,Lift No. 1,28.6259,77.2343,0,st_mdhs,1,L4
+st_mdhs_unpaid_concourse,Unpaid Concourse,28.625816,77.234726,0,st_mdhs,1,L3
+st_mdhs_gate_no_4,Gate No. 4,28.6259,77.2343,0,st_mdhs,1,L1
+st_mdhs_gate_no_1,Gate No. 1,28.6259,77.2343,0,st_mdhs,0,L1
+st_mdhs_lift_no_2a,Lift No. 2A,28.6259,77.2343,0,st_mdhs,1,L1
+st_mdhs_platform_3,Platform 3,28.625816,77.234726,0,st_mdhs,1,L6
+st_mdhs_lift_no_3,Lift No. 3,28.6259,77.2343,0,st_mdhs,1,L1
+st_mdhs_lift_no_1a_violet_line,Lift No. 1A (Violet Line),28.6259,77.2343,0,st_mdhs,1,L4
+st_mdhs_paid_concourse,Paid Concourse,28.625816,77.234726,0,st_mdhs,1,L4
+st_mdhs_gate_no_3,Gate No. 3,28.6259,77.2343,0,st_mdhs,1,L1
+st_mdhs_platform_2,Platform 2,28.625816,77.234726,0,st_mdhs,1,L8
+st_jfrb,JAFRABAD,28.682943,77.27507,1,,1,
+st_jfrb_lift_no_2,Lift No. 2,28.6827585,77.2725587,0,st_jfrb,1,L5
+st_jfrb_concourse,Concourse,28.682943,77.27507,0,st_jfrb,1,L5
+st_jfrb_gate_no_2,Gate No. 2,28.6827585,77.2725587,0,st_jfrb,1,L1
+st_jfrb_unpaid_concourse,Unpaid Concourse,28.682943,77.27507,0,st_jfrb,1,L3
+st_jfrb_lift_no_1,Lift No. 1,28.6827585,77.2725587,0,st_jfrb,1,L5
+st_jfrb_gate_no_1,Gate No. 1,28.6827585,77.2725587,0,st_jfrb,1,L1
+st_jfrb_lift_no_3,Lift No. 3,28.6827585,77.2725587,0,st_jfrb,1,L1
+st_jfrb_paid_concourse,Paid Concourse,28.682943,77.27507,0,st_jfrb,1,L4
+st_jfrb_lift_no_4,Lift No. 4,28.6827585,77.2725587,0,st_jfrb,1,L1
+st_spbi,SAMAYPUR BADLI,28.742872,77.146545,1,,1,
+st_spbi_lift_no_2,Lift No. 2,28.7452,77.1377,0,st_spbi,1,L4
+st_spbi_concourse,Concourse,28.742872,77.146545,0,st_spbi,1,L5
+st_spbi_platform_1,Platform 1,28.742872,77.146545,0,st_spbi,1,L7
+st_spbi_lift_no_1,Lift No. 1,28.7452,77.1377,0,st_spbi,1,L4
+st_spbi_platform_2,Platform 2,28.742872,77.146545,0,st_spbi,1,L8
+st_spbi_unpaid_concourse,Unpaid Concourse,28.742872,77.146545,0,st_spbi,1,L3
+st_spbi_gate_no_1,Gate No. 1,28.7452,77.1377,0,st_spbi,1,L1
+st_spbi_lift_no_3,Lift No. 3,28.7452,77.1377,0,st_spbi,1,L1
+st_spbi_paid_concourse,Paid Concourse,28.742872,77.146545,0,st_spbi,1,L4
+st_spbi_gate_no_3,Gate No. 3,28.7452,77.1377,0,st_spbi,1,L1
+st_spbi_lift_no_4,Lift No. 4,28.7452,77.1377,0,st_spbi,1,L1
+st_dbmr,DABRI MOR - JANAKPURI SOUTH,28.615904,77.085258,1,,1,
+st_dbmr_lift_no_2,Lift No. 2,28.6155363,77.0825158,0,st_dbmr,1,L1
+st_dbmr_gate_no_2,Gate No. 2,28.6155363,77.0825158,0,st_dbmr,0,L1
+st_dbmr_platform_1,Platform 1,28.615904,77.085258,0,st_dbmr,1,L7
+st_dbmr_lift_no_1,Lift No. 1,28.6155363,77.0825158,0,st_dbmr,1,L4
+st_dbmr_unpaid_concourse,Unpaid Concourse,28.615904,77.085258,0,st_dbmr,1,L3
+st_dbmr_gate_no_1,Gate No. 1,28.6155363,77.0825158,0,st_dbmr,0,L1
+st_dbmr_lift_no_3,Lift No. 3,28.6155363,77.0825158,0,st_dbmr,1,L1
+st_dbmr_paid_concourse,Paid Concourse,28.615904,77.085258,0,st_dbmr,1,L4
+st_dbmr_gate_no_3,Gate No. 3,28.6155363,77.0825158,0,st_dbmr,0,L1
+st_dbmr_platform_2,Platform 2,28.615904,77.085258,0,st_dbmr,1,L8
+st_sltp,SULTANPUR,28.499214,77.161362,1,,1,
+st_sltp_lift_no_2,Lift No. 2,28.4991,77.1612,0,st_sltp,1,L4
+st_sltp_concourse,Concourse,28.499214,77.161362,0,st_sltp,1,L5
+st_sltp_gate_no_2,Gate No. 2,28.4991,77.1612,0,st_sltp,1,L1
+st_sltp_unpaid_concourse,Unpaid Concourse,28.499214,77.161362,0,st_sltp,1,L3
+st_sltp_lift_no_1,Lift No. 1,28.4991,77.1612,0,st_sltp,1,L4
+st_sltp_gate_no_1,Gate No. 1,28.4991,77.1612,0,st_sltp,1,L1
+st_sltp_lift_no_3,Lift No. 3,28.4991,77.1612,0,st_sltp,1,L1
+st_sltp_paid_concourse,Paid Concourse,28.499214,77.161362,0,st_sltp,1,L4
+st_sltp_lift_no_4,Lift No. 4,28.4991,77.1612,0,st_sltp,1,L1
+st_sfnn,SEC-59 NOIDA,,,1,,1,
+st_sfnn_paid_concourse,Paid Concourse,,,0,st_sfnn,1,L4
+st_sfnn_unpaid_concourse,Unpaid Concourse,,,0,st_sfnn,1,L3
+st_kshi,KAUSHAMBI,28.645428,77.322273,1,,1,
+st_kshi_lift_no_2,Lift No. 2,28.6455,77.3244,0,st_kshi,1,L4
+st_kshi_concourse,Concourse,28.645428,77.322273,0,st_kshi,1,L5
+st_kshi_gate_no_2,Gate No. 2,28.6455,77.3244,0,st_kshi,0,L1
+st_kshi_platform_1,Platform 1,28.645428,77.322273,0,st_kshi,1,L7
+st_kshi_lift_no_1,Lift No. 1,28.6455,77.3244,0,st_kshi,1,L4
+st_kshi_unpaid_concourse,Unpaid Concourse,28.645428,77.322273,0,st_kshi,1,L3
+st_kshi_gate_no_1,Gate No. 1,28.6455,77.3244,0,st_kshi,1,L1
+st_kshi_lift_no_3,Lift No. 3,28.6455,77.3244,0,st_kshi,1,L1
+st_kshi_paid_concourse,Paid Concourse,28.645428,77.322273,0,st_kshi,1,L4
+st_kshi_gate_no_3,Gate No. 3,28.6455,77.3244,0,st_kshi,0,L1
+st_kshi_platform_2,Platform 2,28.645428,77.322273,0,st_kshi,1,L8
+st_nsft,NOIDA SECTOR-15,28.5851,77.3116,1,,1,
+st_nsft_lift_no_2,Lift No. 2,28.5851,77.3116,0,st_nsft,1,L4
+st_nsft_concourse,Concourse,28.5851,77.3116,0,st_nsft,1,L5
+st_nsft_gate_no_2,Gate No. 2,28.5851,77.3116,0,st_nsft,1,L1
+st_nsft_platform_1,Platform 1,28.5851,77.3116,0,st_nsft,1,L7
+st_nsft_lift_no_1,Lift No. 1,28.5851,77.3116,0,st_nsft,1,L4
+st_nsft_platform_2,Platform 2,28.5851,77.3116,0,st_nsft,1,L8
+st_nsft_gate_no_4,Gate No. 4,28.5851,77.3116,0,st_nsft,0,L1
+st_nsft_unpaid_concourse,Unpaid Concourse,28.5851,77.3116,0,st_nsft,1,L3
+st_nsft_gate_no_1,Gate No. 1,28.5851,77.3116,0,st_nsft,1,L1
+st_nsft_lift_no_3,Lift No. 3,28.5851,77.3116,0,st_nsft,1,L1
+st_nsft_paid_concourse,Paid Concourse,28.5851,77.3116,0,st_nsft,1,L4
+st_nsft_gate_no_3,Gate No. 3,28.5851,77.3116,0,st_nsft,0,L1
+st_nsft_lift_no_4,Lift No. 4,28.5851,77.3116,0,st_nsft,1,L1
+st_bcgn,BOTANICAL GARDEN,28.564198,77.334656,1,,1,
+st_bcgn_lift_no_6a,Lift No. 6A,28.564,77.3343,0,st_bcgn,1,L1
+st_bcgn_lift_no_3a,Lift No. 3A,28.564,77.3343,0,st_bcgn,1,L4
+st_bcgn_platform_4,Platform 4,28.564198,77.334656,0,st_bcgn,1,L6
+st_bcgn_lift_no_5a,Lift No. 5A,28.564,77.3343,0,st_bcgn,1,L1
+st_bcgn_gate_no_2,Gate No. 2,28.564,77.3343,0,st_bcgn,1,L1
+st_bcgn_platform_1,Platform 1,28.564198,77.334656,0,st_bcgn,1,L7
+st_bcgn_lift_no_1,Lift No. 1,28.564,77.3343,0,st_bcgn,1,L4
+st_bcgn_lift_no_4a,Lift No. 4A,28.564,77.3343,0,st_bcgn,1,L1
+st_bcgn_gate_no_4,Gate No. 4,28.564,77.3343,0,st_bcgn,1,L1
+st_bcgn_unpaid_concourse,Unpaid Concourse,28.564198,77.334656,0,st_bcgn,1,L3
+st_bcgn_gate_no_1,Gate No. 1,28.564,77.3343,0,st_bcgn,1,L1
+st_bcgn_lift_no_2a,Lift No. 2A,28.564,77.3343,0,st_bcgn,1,L4
+st_bcgn_platform_3,Platform 3,28.564198,77.334656,0,st_bcgn,1,L6
+st_bcgn_lift_no_3,Lift No. 3,28.564,77.3343,0,st_bcgn,1,L1
+st_bcgn_lift_no_1a,Lift No. 1A,28.564,77.3343,0,st_bcgn,1,L4
+st_bcgn_paid_concourse,Paid Concourse,28.564198,77.334656,0,st_bcgn,1,L4
+st_bcgn_gate_no_3,Gate No. 3,28.564,77.3343,0,st_bcgn,1,L1
+st_bcgn_platform_2,Platform 2,28.564198,77.334656,0,st_bcgn,1,L8
+st_gnpk,GREEN PARK,28.559853,77.206902,1,,1,
+st_gnpk_lift_no_2,Lift No. 2,28.5598,77.2068,0,st_gnpk,1,L1
+st_gnpk_concourse,Concourse,28.559853,77.206902,0,st_gnpk,1,L5
+st_gnpk_gate_no_2,Gate No. 2,28.5598,77.2068,0,st_gnpk,1,L1
+st_gnpk_platform_1,Platform 1,28.559853,77.206902,0,st_gnpk,1,L7
+st_gnpk_lift_no_1,Lift No. 1,28.5598,77.2068,0,st_gnpk,1,L4
+st_gnpk_platform_2,Platform 2,28.559853,77.206902,0,st_gnpk,1,L8
+st_gnpk_gate_no_4,Gate No. 4,28.5598,77.2068,0,st_gnpk,0,L1
+st_gnpk_unpaid_concourse,Unpaid Concourse,28.559853,77.206902,0,st_gnpk,1,L3
+st_gnpk_gate_no_1,Gate No. 1,28.5598,77.2068,0,st_gnpk,0,L1
+st_gnpk_lift_no_3,Lift No. 3,28.5598,77.2068,0,st_gnpk,1,L1
+st_gnpk_paid_concourse,Paid Concourse,28.559853,77.206902,0,st_gnpk,1,L4
+st_gnpk_gate_no_3,Gate No. 3,28.5598,77.2068,0,st_gnpk,1,L1
+st_gnpk_lift_no_4,Lift No. 4,28.5598,77.2068,0,st_gnpk,1,L1
+st_kkda,KARKARDUMA,28.648653,77.304581,1,,1,
+st_kkda_lift_no_2,Lift No.2,28.6485,77.3056,0,st_kkda,1,L4
+st_kkda_concourse,Concourse,28.648653,77.304581,0,st_kkda,1,L5
+st_kkda_platform_4,Platform 4,28.648653,77.304581,0,st_kkda,1,L6
+st_kkda_lift_no_1a_pink_line,Lift No.1A (Pink Line),28.6485,77.3056,0,st_kkda,1,L4
+st_kkda_gate_no_1,Gate No. 1,28.6485,77.3056,0,st_kkda,1,L1
+st_kkda_paid_concourse,Paid Concourse,28.648653,77.304581,0,st_kkda,1,L4
+st_kkda_lift_no_5a_pink_line,Lift No.5A (Pink Line),28.6485,77.3056,0,st_kkda,1,L1
+st_kkda_platform_1,Platform 1,28.648653,77.304581,0,st_kkda,1,L7
+st_kkda_lift_no_4a_pink_line,Lift No.4A (Pink Line),28.6485,77.3056,0,st_kkda,1,L2
+st_kkda_platform_2,Platform 2,28.648653,77.304581,0,st_kkda,1,L8
+st_kkda_gate_no_4_pink_line,Gate No. 4 (Pink Line),28.6485,77.3056,0,st_kkda,0,L1
+st_kkda_gate_no_3_pink_line,Gate No. 3 (Pink Line),28.6485,77.3056,0,st_kkda,1,L1
+st_kkda_lift_no_1,Lift No.1,28.6485,77.3056,0,st_kkda,1,L4
+st_kkda_platform_3,Platform 3,28.648653,77.304581,0,st_kkda,1,L6
+st_kkda_lift_no_3,Lift No.3,28.6485,77.3056,0,st_kkda,1,L0
+st_kkda_lift_no_2a_pink_line,Lift No.2A (Pink Line),28.6485,77.3056,0,st_kkda,1,L4
+st_kkda_lift_no_3a_pink_line,Lift No.3A (Pink Line),28.6485,77.3056,0,st_kkda,1,L5
+st_kkda_gate_no_2,Gate No. 2,28.6485,77.3056,0,st_kkda,1,L1
+st_kkda_unpaid_concourse,Unpaid Concourse,28.648653,77.304581,0,st_kkda,1,L3
+st_janr,JAMIA MILLIA ISLAMIA,28.562944,77.286209,1,,1,
+st_janr_lift_no_2,Lift NO.2,28.5627144,77.2857862,0,st_janr,1,L4
+st_janr_gate_no_2,Gate No. 2,28.5627144,77.2857862,0,st_janr,0,L1
+st_janr_platform_1,Platform 1,28.562944,77.286209,0,st_janr,1,L7
+st_janr_lift_no_1,Lift No. 1,28.5627144,77.2857862,0,st_janr,1,L4
+st_janr_platform_2,Platform 2,28.562944,77.286209,0,st_janr,1,L8
+st_janr_unpaid_concourse,Unpaid Concourse,28.562944,77.286209,0,st_janr,1,L3
+st_janr_gate_no_1,Gate No. 1,28.5627144,77.2857862,0,st_janr,1,L1
+st_janr_lift_no_3,Lift NO.3,28.5627144,77.2857862,0,st_janr,1,L1
+st_janr_paid_concourse,Paid Concourse,28.562944,77.286209,0,st_janr,1,L4
+st_janr_gate_no_3,Gate No. 3,28.5627144,77.2857862,0,st_janr,1,L1
+st_janr_lift_no_4,Lift NO.4,28.5627144,77.2857862,0,st_janr,1,L1
+st_jb,JOR BAGH,28.5859,77.2125,1,,1,
+st_jb_lift_no_2,Lift No. 2,28.5859,77.2125,0,st_jb,1,L1
+st_jb_concourse,Concourse,28.5859,77.2125,0,st_jb,1,L5
+st_jb_gate_no_2,Gate No. 2,28.5859,77.2125,0,st_jb,1,L1
+st_jb_platform_1,Platform 1,28.5859,77.2125,0,st_jb,1,L7
+st_jb_lift_no_1,Lift No. 1,28.5859,77.2125,0,st_jb,1,L4
+st_jb_unpaid_concourse,Unpaid Concourse,28.5859,77.2125,0,st_jb,1,L3
+st_jb_gate_no_1,Gate No. 1,28.5859,77.2125,0,st_jb,1,L1
+st_jb_lift_no_3,Lift No. 3,28.5859,77.2125,0,st_jb,1,L1
+st_jb_paid_concourse,Paid Concourse,28.5859,77.2125,0,st_jb,1,L4
+st_jb_gate_no_3,Gate No. 3,28.5859,77.2125,0,st_jb,0,L1
+st_jb_platform_2,Platform 2,28.5859,77.2125,0,st_jb,1,L8
+st_gkpr,GOKULPURI,28.703009,77.286301,1,,1,
+st_gkpr_lift_no_2,Lift No. 2,28.7025224,77.2861548,0,st_gkpr,1,L5
+st_gkpr_concourse,Concourse,28.703009,77.286301,0,st_gkpr,1,L5
+st_gkpr_gate_no_2,Gate No. 2,28.7025224,77.2861548,0,st_gkpr,1,L1
+st_gkpr_unpaid_concourse,Unpaid Concourse,28.703009,77.286301,0,st_gkpr,1,L3
+st_gkpr_lift_no_1,Lift No. 1,28.7025224,77.2861548,0,st_gkpr,1,L5
+st_gkpr_gate_no_1,Gate No. 1,28.7025224,77.2861548,0,st_gkpr,1,L1
+st_gkpr_lift_no_3,Lift No. 3,28.7025224,77.2861548,0,st_gkpr,1,L1
+st_gkpr_paid_concourse,Paid Concourse,28.703009,77.286301,0,st_gkpr,1,L4
+st_gkpr_lift_no_4,Lift No. 4,28.7025224,77.2861548,0,st_gkpr,1,L1
+st_brkr,BARAKHAMBA ROAD,28.6299,77.2245,1,,1,
+st_brkr_lift_no_2,Lift No. 2,28.6299,77.2245,0,st_brkr,1,L4
+st_brkr_gate_no_2,Gate No. 2,28.6299,77.2245,0,st_brkr,1,L1
+st_brkr_gate_no_6,Gate No. 6,28.6299,77.2245,0,st_brkr,0,L1
+st_brkr_platform_1,Platform 1,28.6299,77.2245,0,st_brkr,1,L7
+st_brkr_lift_no_1,Lift No. 1,28.6299,77.2245,0,st_brkr,1,L4
+st_brkr_unpaid_concourse,Unpaid Concourse,28.6299,77.2245,0,st_brkr,1,L3
+st_brkr_gate_no_4,Gate No. 4,28.6299,77.2245,0,st_brkr,0,L1
+st_brkr_gate_no_1,Gate No. 1,28.6299,77.2245,0,st_brkr,1,L1
+st_brkr_gate_no_5,Gate No. 5,28.6299,77.2245,0,st_brkr,0,L1
+st_brkr_lift_no_3,Lift No. 3,28.6299,77.2245,0,st_brkr,1,L1
+st_brkr_paid_concourse,Paid Concourse,28.6299,77.2245,0,st_brkr,1,L4
+st_brkr_gate_no_3,Gate No. 3,28.6299,77.2245,0,st_brkr,0,L1
+st_brkr_platform_2,Platform 2,28.6299,77.2245,0,st_brkr,1,L8
+st_bkcp,BHIKAJI CAMA PLACE,28.570208,77.187866,1,,1,
+st_bkcp_lift_no_2,Lift No. 2,28.5703764,77.1843847,0,st_bkcp,1,L3
+st_bkcp_concourse,Concourse,28.570208,77.187866,0,st_bkcp,1,L5
+st_bkcp_gate_no_2,Gate No. 2,28.5703764,77.1843847,0,st_bkcp,0,L1
+st_bkcp_unpaid_concourse,Unpaid Concourse,28.570208,77.187866,0,st_bkcp,1,L3
+st_bkcp_lift_no_1,Lift No. 1,28.5703764,77.1843847,0,st_bkcp,1,L5
+st_bkcp_gate_no_1,Gate No. 1,28.5703764,77.1843847,0,st_bkcp,0,L1
+st_bkcp_lift_no_3,Lift No. 3,28.5703764,77.1843847,0,st_bkcp,1,L3
+st_bkcp_paid_concourse,Paid Concourse,28.570208,77.187866,0,st_bkcp,1,L4
+st_bkcp_gate_no_3,Gate No. 3,28.5703764,77.1843847,0,st_bkcp,1,L1
+st_mgro,M.G. ROAD,28.4796,77.0801,1,,1,
+st_mgro_lift_no_2,Lift No. 2,28.4796,77.0801,0,st_mgro,1,L4
+st_mgro_concourse,Concourse,28.4796,77.0801,0,st_mgro,1,L5
+st_mgro_gate_no_2,Gate No. 2,28.4796,77.0801,0,st_mgro,1,L1
+st_mgro_unpaid_concourse,Unpaid Concourse,28.4796,77.0801,0,st_mgro,1,L3
+st_mgro_lift_no_1,Lift No. 1,28.4796,77.0801,0,st_mgro,1,L4
+st_mgro_platform_no_2,Platform No 2,28.4796,77.0801,0,st_mgro,1,L6
+st_mgro_gate_no_1,Gate No. 1,28.4796,77.0801,0,st_mgro,1,L1
+st_mgro_lift_no_3,Lift No. 3,28.4796,77.0801,0,st_mgro,1,L1
+st_mgro_paid_concourse,Paid Concourse,28.4796,77.0801,0,st_mgro,1,L4
+st_mgro_platform_no_1,Platform No 1,28.4796,77.0801,0,st_mgro,1,L6
+st_mgro_lift_no_4,Lift No. 4,28.4796,77.0801,0,st_mgro,1,L1
+st_ljpn,LAJPAT NAGAR,28.570705,77.233124,1,,1,
+st_ljpn_lift_no_2a_pink_line,Lift No. 2A (Pink Line),28.5706249,77.2342561,0,st_ljpn,1,L1
+st_ljpn_concourse,Concourse,28.570705,77.233124,0,st_ljpn,1,L5
+st_ljpn_platform_4,Platform 4,28.570705,77.233124,0,st_ljpn,1,L6
+st_ljpn_lift_no_3a_pink_line,Lift No.3A (Pink Line),28.5706249,77.2342561,0,st_ljpn,1,L4
+st_ljpn_gate_no_5_pink_line,Gate No. 5 (Pink Line),28.5706249,77.2342561,0,st_ljpn,1,L1
+st_ljpn_gate_no_2,Gate No. 2,28.5706249,77.2342561,0,st_ljpn,0,L1
+st_ljpn_lift_no_1a_pink_line,Lift No. 1A (Pink Line),28.5706249,77.2342561,0,st_ljpn,1,L4
+st_ljpn_platform_1,Platform 1,28.570705,77.233124,0,st_ljpn,1,L7
+st_ljpn_lift_no_2_voilet_line,Lift No. 2  (Voilet Line),28.5706249,77.2342561,0,st_ljpn,1,L4
+st_ljpn_lift_no_4_voilet_line,Lift No. 4  (Voilet Line),28.5706249,77.2342561,0,st_ljpn,1,L1
+st_ljpn_unpaid_concourse,Unpaid Concourse,28.570705,77.233124,0,st_ljpn,1,L3
+st_ljpn_gate_no_1,Gate No. 1,28.5706249,77.2342561,0,st_ljpn,1,L1
+st_ljpn_lift_no_3_voilet_line,Lift No. 3  (Voilet Line),28.5706249,77.2342561,0,st_ljpn,1,L1
+st_ljpn_platform_3,Platform 3,28.570705,77.233124,0,st_ljpn,1,L6
+st_ljpn_lift_no_1_voilet_line,Lift No. 1 (Voilet Line),28.5706249,77.2342561,0,st_ljpn,1,L4
+st_ljpn_paid_concourse,Paid Concourse,28.570705,77.233124,0,st_ljpn,1,L4
+st_ljpn_gate_no_3,Gate No. 3,28.5706249,77.2342561,0,st_ljpn,1,L1
+st_ljpn_platform_2,Platform 2,28.570705,77.233124,0,st_ljpn,1,L8
+st_rn,RAMESH NAGAR,28.652809,77.131462,1,,1,
+st_rn_lift_no_2,Lift No. 2,28.6527,77.1315,0,st_rn,1,L4
+st_rn_gate_no_2,Gate No. 2,28.6527,77.1315,0,st_rn,1,L1
+st_rn_platform_1,Platform 1,28.652809,77.131462,0,st_rn,1,L7
+st_rn_lift_no_1,Lift No. 1,28.6527,77.1315,0,st_rn,1,L4
+st_rn_platform_2,Platform 2,28.652809,77.131462,0,st_rn,1,L8
+st_rn_gate_no_4,Gate No. 4,28.6527,77.1315,0,st_rn,0,L1
+st_rn_unpaid_concourse,Unpaid Concourse,28.652809,77.131462,0,st_rn,1,L3
+st_rn_gate_no_1,Gate No. 1,28.6527,77.1315,0,st_rn,1,L1
+st_rn_gate_no_5,Gate No. 5,28.6527,77.1315,0,st_rn,0,L1
+st_rn_lift_no_3,Lift No. 3,28.6527,77.1315,0,st_rn,1,L1
+st_rn_paid_concourse,Paid Concourse,28.652809,77.131462,0,st_rn,1,L4
+st_rn_gate_no_3,Gate No. 3,28.6527,77.1315,0,st_rn,0,L1
+st_rn_lift_no_4,Lift No. 4,28.6527,77.1315,0,st_rn,1,L1
+st_ito,ITO,28.627205,77.240952,1,,1,
+st_ito_lift_no_2,Lift No. 2,28.6278305,77.240214,0,st_ito,1,L1
+st_ito_gate_no_2,Gate No. 2,28.6278305,77.240214,0,st_ito,0,L1
+st_ito_gate_no_6,Gate No. 6,28.6278305,77.240214,0,st_ito,1,L1
+st_ito_unpaid_concourse,Unpaid Concourse,28.627205,77.240952,0,st_ito,1,L3
+st_ito_lift_no_1,Lift No. 1,28.6278305,77.240214,0,st_ito,1,L4
+st_ito_gate_no_4,Gate No. 4,28.6278305,77.240214,0,st_ito,0,L1
+st_ito_lift_no_5,Lift No. 5,28.6278305,77.240214,0,st_ito,1,L1
+st_ito_gate_no_1,Gate No. 1,28.6278305,77.240214,0,st_ito,1,L1
+st_ito_gate_no_5,Gate No. 5,28.6278305,77.240214,0,st_ito,1,L1
+st_ito_lift_no_3,Lift No. 3,28.6278305,77.240214,0,st_ito,1,L1
+st_ito_paid_concourse,Paid Concourse,28.627205,77.240952,0,st_ito,1,L4
+st_ito_gate_no_3,Gate No. 3,28.6278305,77.240214,0,st_ito,1,L1
+st_ito_lift_no_4,Lift No. 4,28.6278305,77.240214,0,st_ito,1,L1
+st_dlic,DELHI CANTT.,28.608641,77.140373,1,,1,
+st_dlic_lift_no_2,Lift No. 2,28.6086915,77.1382338,0,st_dlic,1,L4
+st_dlic_concourse,Concourse,28.608641,77.140373,0,st_dlic,1,L5
+st_dlic_gate_no_2,Gate No. 2,28.6086915,77.1382338,0,st_dlic,1,L1
+st_dlic_unpaid_concourse,Unpaid Concourse,28.608641,77.140373,0,st_dlic,1,L3
+st_dlic_lift_no_1,Lift No. 1,28.6086915,77.1382338,0,st_dlic,1,L4
+st_dlic_gate_no_1,Gate No. 1,28.6086915,77.1382338,0,st_dlic,1,L1
+st_dlic_lift_no_3,Lift No. 3,28.6086915,77.1382338,0,st_dlic,1,L1
+st_dlic_paid_concourse,Paid Concourse,28.608641,77.140373,0,st_dlic,1,L4
+st_dlic_lift_no_4,Lift No. 4,28.6086915,77.1382338,0,st_dlic,1,L1
+st_smsm,MAHARAJA SURAJMAL STADIUM,28.681833,77.073891,1,,1,
+st_smsm_lift_no_2,Lift No. 2,28.68182,77.0717713,0,st_smsm,1,L5
+st_smsm_gate_no_2,Gate No. 2,28.68182,77.0717713,0,st_smsm,1,L1
+st_smsm_unpaid_concourse,Unpaid Concourse,28.681833,77.073891,0,st_smsm,1,L3
+st_smsm_lift_no_1,Lift No. 1,28.68182,77.0717713,0,st_smsm,1,L5
+st_smsm_gate_no_1,Gate No. 1,28.68182,77.0717713,0,st_smsm,1,L1
+st_smsm_lift_no_3,Lift No. 3,28.68182,77.0717713,0,st_smsm,1,L1
+st_smsm_paid_concourse,Paid Concourse,28.681833,77.073891,0,st_smsm,1,L4
+st_smsm_lift_no_4,Lift No. 4,28.68182,77.0717713,0,st_smsm,1,L1
+st_nagr,NEW ASHOK NAGAR,28.58847,77.30146,1,,1,
+st_nagr_concourse,Concourse,28.58847,77.30146,0,st_nagr,1,L5
+st_nagr_lift_no_2,Lift No. 2,28.5892,77.3021,0,st_nagr,1,L4
+st_nagr_platform_1,Platform 1,28.58847,77.30146,0,st_nagr,1,L7
+st_nagr_lift_no_1,Lift No. 1,28.5892,77.3021,0,st_nagr,1,L4
+st_nagr_unpaid_concourse,Unpaid Concourse,28.58847,77.30146,0,st_nagr,1,L3
+st_nagr_gate_no_1,Gate No. 1,28.5892,77.3021,0,st_nagr,1,L1
+st_nagr_lift_no_3,Lift No. 3,28.5892,77.3021,0,st_nagr,1,L1
+st_nagr_paid_concourse,Paid Concourse,28.58847,77.30146,0,st_nagr,1,L4
+st_nagr_platform_2,Platform 2,28.58847,77.30146,0,st_nagr,1,L8
+st_jw,JHANDEWALAN,28.644312,77.199791,1,,1,
+st_jw_lift_no_2,Lift No. 2,28.6443,77.1999,0,st_jw,1,L4
+st_jw_gate_no_2,Gate No. 2,28.6443,77.1999,0,st_jw,1,L1
+st_jw_platform_1,Platform 1,28.644312,77.199791,0,st_jw,1,L7
+st_jw_lift_no_1,Lift No. 1,28.6443,77.1999,0,st_jw,1,L4
+st_jw_platform_2,Platform 2,28.644312,77.199791,0,st_jw,1,L8
+st_jw_gate_no_4,Gate No. 4,28.6443,77.1999,0,st_jw,1,L1
+st_jw_unpaid_concourse,Unpaid Concourse,28.644312,77.199791,0,st_jw,1,L3
+st_jw_gate_no_1,Gate No. 1,28.6443,77.1999,0,st_jw,0,L1
+st_jw_lift_no_3,Lift No. 3,28.6443,77.1999,0,st_jw,1,L1
+st_jw_paid_concourse,Paid Concourse,28.644312,77.199791,0,st_jw,1,L4
+st_jw_gate_no_1_a,Gate No. 1 A,28.6443,77.1999,0,st_jw,0,L1
+st_jw_gate_no_3,Gate No. 3,28.6443,77.1999,0,st_jw,1,L1
+st_jw_lift_no_4,Lift No. 4,28.6443,77.1999,0,st_jw,1,L1
+st_srai,SARAI,28.47794,77.304932,1,,1,
+st_srai_lift_no_2,Lift No. 2,28.4780481,77.3028175,0,st_srai,1,L4
+st_srai_concourse,Concourse,28.47794,77.304932,0,st_srai,1,L5
+st_srai_gate_no_2,Gate No. 2,28.4780481,77.3028175,0,st_srai,1,L1
+st_srai_platform_1,Platform 1,28.47794,77.304932,0,st_srai,1,L7
+st_srai_lift_no_1,Lift No. 1,28.4780481,77.3028175,0,st_srai,1,L4
+st_srai_unpaid_concourse,Unpaid Concourse,28.47794,77.304932,0,st_srai,1,L3
+st_srai_lift_no_5,Lift No. 5,28.4780481,77.3028175,0,st_srai,1,L1
+st_srai_gate_no_1,Gate No. 1,28.4780481,77.3028175,0,st_srai,0,L1
+st_srai_lift_no_3,Lift No. 3,28.4780481,77.3028175,0,st_srai,1,L0
+st_srai_paid_concourse,Paid Concourse,28.47794,77.304932,0,st_srai,1,L4
+st_srai_gate_no_3,Gate No. 3,28.4780481,77.3028175,0,st_srai,1,L1
+st_srai_platform_2,Platform 2,28.47794,77.304932,0,st_srai,1,L8
+st_mupr,MAUJPUR-BABARPUR,28.6921031,77.2774233,1,,1,
+st_mupr_lift_no_2,Lift No. 2,28.6921031,77.2774233,0,st_mupr,1,L5
+st_mupr_concourse,Concourse,28.6921031,77.2774233,0,st_mupr,1,L5
+st_mupr_gate_no_2,Gate No. 2,28.6921031,77.2774233,0,st_mupr,1,L1
+st_mupr_unpaid_concourse,Unpaid Concourse,28.6921031,77.2774233,0,st_mupr,1,L3
+st_mupr_lift_no_1,Lift No. 1,28.6921031,77.2774233,0,st_mupr,1,L5
+st_mupr_gate_no_4,Gate No. 4,28.6921031,77.2774233,0,st_mupr,0,L1
+st_mupr_lift_no_5,Lift No. 5,28.6921031,77.2774233,0,st_mupr,1,L1
+st_mupr_gate_no_1,Gate No. 1,28.6921031,77.2774233,0,st_mupr,1,L1
+st_mupr_gate_no_5,Gate No. 5,28.6921031,77.2774233,0,st_mupr,1,L1
+st_mupr_lift_no_3,Lift No. 3,28.6921031,77.2774233,0,st_mupr,1,L5
+st_mupr_paid_concourse,Paid Concourse,28.6921031,77.2774233,0,st_mupr,1,L4
+st_mupr_gate_no_3,Gate No. 3,28.6921031,77.2774233,0,st_mupr,0,L1
+st_mupr_lift_no_4,Lift No. 4,28.6921031,77.2774233,0,st_mupr,1,L1
+st_bimr,HAIDERPUR BADLI MOR,28.718657,77.149956,1,,1,
+st_bimr_lift_no_2,Lift No. 2,28.73,77.1492,0,st_bimr,1,L4
+st_bimr_concourse,Concourse,28.718657,77.149956,0,st_bimr,1,L5
+st_bimr_gate_no_2,Gate No. 2,28.73,77.14971,0,st_bimr,1,L1
+st_bimr_platform_1,Platform 1,28.718657,77.149956,0,st_bimr,1,L7
+st_bimr_lift_no_1,Lift No. 1,28.73,77.1492,0,st_bimr,1,L4
+st_bimr_unpaid_concourse,Unpaid Concourse,28.718657,77.149956,0,st_bimr,1,L3
+st_bimr_gate_no_1,Gate No. 1,28.72956,77.14881,0,st_bimr,0,L1
+st_bimr_lift_no_3,Lift No. 3,28.73,77.1492,0,st_bimr,1,L1
+st_bimr_paid_concourse,Paid Concourse,28.718657,77.149956,0,st_bimr,1,L4
+st_bimr_gate_no_3,Gate No. 3,28.73067,77.14989,0,st_bimr,0,L1
+st_bimr_platform_2,Platform 2,28.718657,77.149956,0,st_bimr,1,L8
+st_mudk,MUNDKA,28.682411,77.028282,1,,1,
+st_mudk_lift_no_2,Lift No. 2,28.68239,77.0281513,0,st_mudk,1,L5
+st_mudk_gate_no_2,Gate No. 2,28.68239,77.0281513,0,st_mudk,1,L1
+st_mudk_unpaid_concourse,Unpaid Concourse,28.682411,77.028282,0,st_mudk,1,L3
+st_mudk_lift_no_1,Lift No. 1,28.68239,77.0281513,0,st_mudk,1,L5
+st_mudk_gate_no_1,Gate No. 1,28.68239,77.0281513,0,st_mudk,0,L1
+st_mudk_lift_no_3,Lift No. 3,28.68239,77.0281513,0,st_mudk,1,L1
+st_mudk_paid_concourse,Paid Concourse,28.682411,77.028282,0,st_mudk,1,L4
+st_mudk_lift_no_4,Lift No. 4,28.68239,77.0281513,0,st_mudk,1,L1
+st_kb,KAROL BAGH,28.643925,77.188416,1,,1,
+st_kb_gate_no_7,Gate No. 7,28.644,77.1885,0,st_kb,0,L1
+st_kb_lift_no_2,Lift No. 2,28.644,77.1885,0,st_kb,1,L4
+st_kb_gate_no_2,Gate No. 2,28.644,77.1885,0,st_kb,0,L1
+st_kb_gate_no_8,Gate No. 8,28.644,77.1885,0,st_kb,1,L1
+st_kb_gate_no_6,Gate No. 6,28.644,77.1885,0,st_kb,0,L1
+st_kb_lift_no_1,Lift No. 1,28.644,77.1885,0,st_kb,1,L4
+st_kb_platform_2,Platform 2,28.643925,77.188416,0,st_kb,1,L8
+st_kb_gate_no_4,Gate No. 4,28.644,77.1885,0,st_kb,0,L1
+st_kb_platform_1,Platform 1,28.643925,77.188416,0,st_kb,1,L7
+st_kb_unpaid_concourse,Unpaid Concourse,28.643925,77.188416,0,st_kb,1,L3
+st_kb_gate_no_1,Gate No. 1,28.644,77.1885,0,st_kb,1,L1
+st_kb_gate_no_5,Gate No. 5,28.644,77.1885,0,st_kb,0,L1
+st_kb_lift_no_3,Lift No. 3,28.644,77.1885,0,st_kb,1,L1
+st_kb_paid_concourse,Paid Concourse,28.643925,77.188416,0,st_kb,1,L4
+st_kb_gate_no_3,Gate No. 3,28.644,77.1885,0,st_kb,1,L1
+st_kb_lift_no_4,Lift No. 4,28.644,77.1885,0,st_kb,1,L1
+st_dm,DWARKA MOR,28.619366,77.033188,1,,1,
+st_dm_lift_no_2,Lift No. 2,28.37948,77.02038,0,st_dm,1,L4
+st_dm_concourse,Concourse,28.619366,77.033188,0,st_dm,1,L5
+st_dm_gate_no_2,Gate No. 2,28.37948,77.02038,0,st_dm,1,L1
+st_dm_unpaid_concourse,Unpaid Concourse,28.619366,77.033188,0,st_dm,1,L3
+st_dm_lift_no_1,Lift No. 1,28.37948,77.02038,0,st_dm,1,L4
+st_dm_gate_no_1,Gate No. 1,28.37948,77.02038,0,st_dm,1,L1
+st_dm_lift_no_3,Lift No. 3,28.37948,77.02038,0,st_dm,1,L1
+st_dm_paid_concourse,Paid Concourse,28.619366,77.033188,0,st_dm,1,L4
+st_dm_lift_no_4,Lift No. 4,28.37948,77.02038,0,st_dm,1,L1
+st_ptvr,PREET VIHAR,28.641352,77.295158,1,,1,
+st_ptvr_lift_no_2,Lift No. 2,28.6419,77.2956,0,st_ptvr,1,L4
+st_ptvr_gate_no_2,Gate No. 2,28.6419,77.2956,0,st_ptvr,1,L1
+st_ptvr_platform_1,Platform 1,28.641352,77.295158,0,st_ptvr,1,L7
+st_ptvr_lift_no_1,Lift No. 1,28.6419,77.2956,0,st_ptvr,1,L4
+st_ptvr_unpaid_concourse,Unpaid Concourse,28.641352,77.295158,0,st_ptvr,1,L3
+st_ptvr_gate_no_4,Gate No. 4,28.6419,77.2956,0,st_ptvr,0,L1
+st_ptvr_gate_no_1,Gate No. 1,28.6419,77.2956,0,st_ptvr,0,L1
+st_ptvr_lift_no_3,Lift No.3,28.6419,77.2956,0,st_ptvr,1,L1
+st_ptvr_paid_concourse,Paid Concourse,28.641352,77.295158,0,st_ptvr,1,L4
+st_ptvr_gate_no_3,Gate No. 3,28.6419,77.2956,0,st_ptvr,0,L1
+st_ptvr_platform_2,Platform 2,28.641352,77.295158,0,st_ptvr,1,L8
+st_nv,NIRMAN VIHAR,28.637049,77.287872,1,,1,
+st_nv_lift_no_2,Lift No. 2,28.6366,77.2868,0,st_nv,1,L4
+st_nv_gate_no_2,Gate No. 2,28.6366,77.2868,0,st_nv,0,L1
+st_nv_platform_1,Platform 1,28.637049,77.287872,0,st_nv,1,L7
+st_nv_lift_no_1,Lift No. 1,28.6366,77.2868,0,st_nv,1,L4
+st_nv_unpaid_concourse,Unpaid Concourse,28.637049,77.287872,0,st_nv,1,L3
+st_nv_gate_no_4,Gate No. 4,28.6366,77.2868,0,st_nv,0,L1
+st_nv_gate_no_1,Gate No. 1,28.6366,77.2868,0,st_nv,1,L1
+st_nv_gate_no_5,Gate No. 5,28.6366,77.2868,0,st_nv,0,L1
+st_nv_lift_no_3,Lift No.3,28.6366,77.2868,0,st_nv,1,L1
+st_nv_paid_concourse,Paid Concourse,28.637049,77.287872,0,st_nv,1,L4
+st_nv_gate_no_3,Gate No. 3,28.6366,77.2868,0,st_nv,0,L1
+st_nv_platform_2,Platform 2,28.637049,77.287872,0,st_nv,1,L8
+st_svvr,SHIV VIHAR,28.721863,77.289635,1,,1,
+st_svvr_lift_no_2,Lift No. 2,28.7215468,77.2883255,0,st_svvr,1,L5
+st_svvr_gate_no_2,Gate No. 2,28.7215468,77.2883255,0,st_svvr,1,L1
+st_svvr_unpaid_concourse,Unpaid Concourse,28.721863,77.289635,0,st_svvr,1,L3
+st_svvr_lift_no_1,Lift No. 1,28.7215468,77.2883255,0,st_svvr,1,L5
+st_svvr_gate_no_1,Gate No. 1,28.7215468,77.2883255,0,st_svvr,1,L1
+st_svvr_lift_no_3,Lift No. 3,28.7215468,77.2883255,0,st_svvr,1,L1
+st_svvr_paid_concourse,Paid Concourse,28.721863,77.289635,0,st_svvr,1,L4
+st_svvr_lift_no_4,Lift No. 4,28.7215468,77.2883255,0,st_svvr,1,L1
+st_rg,RAJOURI GARDEN,28.649157,77.122749,1,,1,
+st_rg_gate_no_7,Gate No. 7,28.649,77.1227,0,st_rg,0,L1
+st_rg_lift_no_2,Lift No. 2,28.649,77.1227,0,st_rg,1,L4
+st_rg_concourse,Concourse,28.649157,77.122749,0,st_rg,1,L5
+st_rg_platform_4,Platform 4,28.649157,77.122749,0,st_rg,1,L6
+st_rg_lift_no_1a_pink_line,Lift No. 1A (Pink Line),28.649,77.1227,0,st_rg,1,L6
+st_rg_gate_no_1,Gate No. 1,28.649,77.1227,0,st_rg,1,L1
+st_rg_paid_concourse,Paid Concourse,28.649157,77.122749,0,st_rg,1,L4
+st_rg_gate_no_10_pink_line,Gate No. 10 (Pink Line),28.649,77.1227,0,st_rg,0,L1
+st_rg_gate_no_4,Gate No. 4,28.649,77.1227,0,st_rg,0,L1
+st_rg_gate_no_1_2_3_4,Gate No 1 2 3 4,28.649157,77.122749,0,st_rg,0,
+st_rg_gate_no_5_6_7_8,Gate No 5 6 7 8,28.649157,77.122749,0,st_rg,0,
+st_rg_gate_no_8,Gate No. 8,28.649,77.1227,0,st_rg,0,L1
+st_rg_gate_no_6,Gate No. 6,28.649,77.1227,0,st_rg,0,L1
+st_rg_lift_no_1,Lift No. 1,28.649,77.1227,0,st_rg,1,L4
+st_rg_gate_no_5,Gate No. 5,28.649,77.1227,0,st_rg,0,L1
+st_rg_platform_3,Platform 3,28.649157,77.122749,0,st_rg,1,L6
+st_rg_lift_no_3,Lift No. 3,28.649,77.1227,0,st_rg,1,L1
+st_rg_lift_no_4,Lift No. 4,28.649,77.1227,0,st_rg,1,L1
+st_rg_lift_no_2a_pink_line,Lift No. 2A (Pink Line),28.649,77.1227,0,st_rg,1,L4
+st_rg_gate_no_9_pink_line,Gate No. 9 (Pink Line),28.649,77.1227,0,st_rg,1,L1
+st_rg_gate_no_2,Gate No. 2,28.649,77.1227,0,st_rg,1,L1
+st_rg_unpaid_concourse,Unpaid Concourse,28.649157,77.122749,0,st_rg,1,L3
+st_rg_fob,Fob,28.649157,77.122749,0,st_rg,0,
+st_rg_gate_no_3,Gate No. 3,28.649,77.1227,0,st_rg,0,L1
+st_sht,SHASTRI NAGAR,28.670135,77.181679,1,,1,
+st_sht_lift_no_2,Lift No. 2,28.6701,77.1813,0,st_sht,1,L5
+st_sht_gate_no_2,Gate No. 2,28.6701,77.1813,0,st_sht,1,L1
+st_sht_platform_1,Platform 1,28.670135,77.181679,0,st_sht,1,L7
+st_sht_lift_no_1,Lift No. 1,28.6701,77.1813,0,st_sht,1,L5
+st_sht_platform_2,Platform 2,28.670135,77.181679,0,st_sht,1,L8
+st_sht_unpaid_concourse,Unpaid Concourse,28.670135,77.181679,0,st_sht,1,L3
+st_sht_gate_no_1,Gate No. 1,28.6701,77.1813,0,st_sht,1,L1
+st_sht_lift_no_3,Lift No. 3,28.6701,77.1813,0,st_sht,1,L1
+st_sht_paid_concourse,Paid Concourse,28.670135,77.181679,0,st_sht,1,L4
+st_sht_lift_no_4,Lift No. 4,28.6701,77.1813,0,st_sht,1,L1
+st_nset,NOIDA SECTOR-18,,,1,,1,
+st_nset_paid_concourse,Paid Concourse,,,0,st_nset,1,L4
+st_nset_unpaid_concourse,Unpaid Concourse,,,0,st_nset,1,L3
+st_smpk,SHYAM PARK,28.678217,77.370911,1,,1,
+st_smpk_lift_no_2,Lift No. 2,28.6782,77.3702,0,st_smpk,1,L5
+st_smpk_concourse,Concourse,28.678217,77.370911,0,st_smpk,1,L5
+st_smpk_gate_no_2,Gate No. 2,28.6782,77.3702,0,st_smpk,1,L1
+st_smpk_platform_1,Platform 1,28.678217,77.370911,0,st_smpk,1,L7
+st_smpk_lift_no_1,Lift No. 1,28.6782,77.3702,0,st_smpk,1,L5
+st_smpk_platform_2,Platform 2,28.678217,77.370911,0,st_smpk,1,L8
+st_smpk_unpaid_concourse,Unpaid Concourse,28.678217,77.370911,0,st_smpk,1,L3
+st_smpk_gate_no_1,Gate No. 1,28.6782,77.3702,0,st_smpk,1,L1
+st_smpk_lift_no_3,Lift No. 3,28.6782,77.3702,0,st_smpk,1,L1
+st_smpk_paid_concourse,Paid Concourse,28.678217,77.370911,0,st_smpk,1,L4
+st_smpk_gate_no_3,Gate No. 3,28.6782,77.3702,0,st_smpk,0,L1
+st_smpk_lift_no_4,Lift No. 4,28.6782,77.3702,0,st_smpk,1,L1

@@ -1,0 +1,9 @@
+venv/
+.venv/
+**/venv/
+**/.venv/
+yolo11n.pt
+*.pt
+__pycache__/
+*.pyc
+.env

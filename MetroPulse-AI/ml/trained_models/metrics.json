@@ -1,0 +1,32 @@
+{
+  "linear_regression_5min": {
+    "MAE": 2.232,
+    "RMSE": 2.814,
+    "R2": 0.9798
+  },
+  "random_forest_5min": {
+    "MAE": 2.095,
+    "RMSE": 2.618,
+    "R2": 0.9825
+  },
+  "linear_regression_10min": {
+    "MAE": 3.216,
+    "RMSE": 4.032,
+    "R2": 0.9586
+  },
+  "random_forest_10min": {
+    "MAE": 2.75,
+    "RMSE": 3.446,
+    "R2": 0.9698
+  },
+  "linear_regression_15min": {
+    "MAE": 3.978,
+    "RMSE": 4.989,
+    "R2": 0.9366
+  },
+  "random_forest_15min": {
+    "MAE": 3.138,
+    "RMSE": 3.938,
+    "R2": 0.9605
+  }
+}

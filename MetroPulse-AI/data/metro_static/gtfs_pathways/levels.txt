@@ -1,0 +1,12 @@
+level_id,level_index,level_name
+L0,0,Basement
+L1,1,Ground
+L10,10,Platform 4
+L2,2,Mezzanine
+L3,3,Unpaid Concourse
+L4,4,Paid Concourse
+L5,5,Concourse
+L6,6,Platform
+L7,7,Platform 1
+L8,8,Platform 2
+L9,9,Platform 3

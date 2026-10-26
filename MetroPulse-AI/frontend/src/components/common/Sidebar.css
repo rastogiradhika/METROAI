@@ -1,0 +1,176 @@
+/* Sidebar.css */
+
+.sidebar {
+  width: 260px;
+  min-height: 100vh;
+  background: var(--color-navy-900);
+  border-right: 1px solid var(--border-subtle);
+  display: flex;
+  flex-direction: column;
+  transition: width var(--transition-base);
+  flex-shrink: 0;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow: hidden;
+}
+.sidebar.collapsed { width: 68px; }
+
+.sidebar-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.25rem 1rem;
+  border-bottom: 1px solid var(--border-subtle);
+  min-height: 72px;
+}
+.sidebar-brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  overflow: hidden;
+}
+.sidebar-brand-name {
+  font-family: var(--font-display);
+  font-size: 1rem;
+  font-weight: 800;
+  color: var(--text-primary);
+  white-space: nowrap;
+}
+.sidebar-brand-name span { color: var(--color-cyan-400); }
+
+.sidebar-collapse-btn {
+  background: var(--bg-glass);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-sm);
+  color: var(--text-secondary);
+  cursor: pointer;
+  padding: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transition: all var(--transition-fast);
+}
+.sidebar-collapse-btn:hover {
+  background: var(--bg-glass-hover);
+  color: var(--text-primary);
+}
+.sidebar.collapsed .sidebar-header {
+  justify-content: center;
+}
+
+.sidebar-nav { flex: 1; padding: 0.75rem 0.625rem; overflow-y: auto; }
+.sidebar-nav ul { list-style: none; display: flex; flex-direction: column; gap: 2px; }
+
+.sidebar-nav-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 0.65rem 0.875rem;
+  border-radius: var(--radius-md);
+  text-decoration: none;
+  color: var(--text-secondary);
+  font-size: 0.875rem;
+  font-weight: 500;
+  transition: all var(--transition-fast);
+  position: relative;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.sidebar-nav-item:hover {
+  background: var(--bg-glass);
+  color: var(--text-primary);
+}
+.sidebar-nav-item.active {
+  background: rgba(6, 182, 212, 0.1);
+  color: var(--color-cyan-400);
+  border: 1px solid rgba(6, 182, 212, 0.15);
+}
+.sidebar-nav-icon { display: flex; align-items: center; flex-shrink: 0; }
+.sidebar-nav-label { flex: 1; }
+.sidebar-active-dot {
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: var(--color-cyan-400);
+  flex-shrink: 0;
+}
+
+.sidebar-footer {
+  padding: 0.75rem;
+  border-top: 1px solid var(--border-subtle);
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.sidebar-user {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.75rem;
+  background: var(--bg-glass);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-subtle);
+  overflow: hidden;
+}
+.sidebar-user-avatar {
+  width: 36px; height: 36px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--color-cyan-500), var(--color-teal-500));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.875rem;
+  color: #fff;
+  flex-shrink: 0;
+}
+.sidebar-user-info {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.sidebar-user-name {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.sidebar-user-role {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  text-transform: capitalize;
+}
+
+.sidebar-logout-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  width: 100%;
+  padding: 0.65rem;
+  font-family: var(--font-primary);
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+.sidebar-logout-btn:hover {
+  background: rgba(239,68,68,0.08);
+  color: var(--color-red-400);
+  border-color: rgba(239,68,68,0.15);
+}
+
+/* Collapsed adjustments */
+.sidebar.collapsed .sidebar-nav-item {
+  justify-content: center;
+  padding: 0.75rem;
+}
+.sidebar.collapsed .sidebar-user { padding: 0.5rem; justify-content: center; }

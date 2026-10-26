@@ -1,0 +1,9 @@
+station_id,station_name,station_code,line_names,interchange,latitude,longitude,platforms
+stn-001,Rajiv Chowk,RJC,"Yellow Line;Blue Line",True,28.6328,77.2197,"plt-001-Y:Platform 1 (Yellow Line - Northbound);plt-001-B:Platform 2 (Blue Line - Eastbound)"
+stn-002,Kashmere Gate,KSG,"Yellow Line;Red Line;Violet Line",True,28.6675,77.2282,"plt-002-Y:Platform 1 (Yellow Line - Northbound);plt-002-R:Platform 2 (Red Line - Eastbound)"
+stn-003,Central Secretariat,CTS,"Yellow Line;Violet Line",True,28.6145,77.2112,"plt-003-Y:Platform 1 (Yellow Line - Southbound);plt-003-V:Platform 2 (Violet Line - Southbound)"
+stn-004,New Delhi,NDL,"Yellow Line;Airport Express",True,28.6425,77.2195,"plt-004-Y:Platform 1 (Yellow Line);plt-004-A:Platform 2 (Airport Express)"
+stn-005,Connaught Place,CNP,Blue Line,False,28.6327,77.2179,"plt-005-B:Platform 1 (Blue Line - Westbound)"
+stn-006,Hauz Khas,HZK,"Yellow Line;Magenta Line",True,28.5435,77.2066,"plt-006-Y:Platform 1 (Yellow Line - Southbound);plt-006-M:Platform 2 (Magenta Line)"
+stn-007,HUDA City Centre,HCC,Yellow Line,False,28.4595,77.0725,"plt-007-Y:Platform 1 (Yellow Line - Terminal)"
+stn-008,Chandni Chowk,CCK,Yellow Line,False,28.6578,77.2301,"plt-008-Y:Platform 1 (Yellow Line - Southbound)"
