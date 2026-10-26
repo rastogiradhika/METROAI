@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: metropulse-ai-backend
+    runtime: python
+    buildCommand: "cd MetroPulse-AI/backend && pip install -r requirements.txt"
+    startCommand: "cd MetroPulse-AI/backend && uvicorn app.main:app --host 0.0.0.0 --port $PORT"
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: SUPABASE_URL
+        value: https://wqpmyjqjoayuwipehwkm.supabase.co
+      - key: SUPABASE_ANON_KEY
+        sync: false
+      - key: SUPABASE_SERVICE_ROLE_KEY
+        sync: false
+      - key: ML_DEVICE
+        value: cpu
+      - key: CORS_ORIGINS
+        value: '["*","https://frontend-two-blue-65.vercel.app"]'
