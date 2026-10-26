@@ -206,14 +206,58 @@ def main():
             print("Skipping remote database write. Verified records remain in local static catalog.")
         else:
             print("Committing validated records to Supabase...")
-            # Perform upsert
             client = supabase_manager.client
             try:
+                # 1. Upsert Stations
                 for s in stations:
                     client.table("stations").upsert(s).execute()
+                print(f"  - Synchronized {len(stations)} stations.")
+
+                # 2. Upsert Platforms for each station
+                KNOWN_PLATFORMS = {
+                    "stn-001": [
+                        {"id": "plt-001-Y", "station_id": "stn-001", "name": "Platform 1", "direction": "Yellow Line – Northbound", "nominal_capacity": 450},
+                        {"id": "plt-001-B", "station_id": "stn-001", "name": "Platform 2", "direction": "Blue Line – Eastbound", "nominal_capacity": 400},
+                    ],
+                    "stn-002": [
+                        {"id": "plt-002-Y", "station_id": "stn-002", "name": "Platform 1", "direction": "Yellow Line – Northbound", "nominal_capacity": 400},
+                        {"id": "plt-002-R", "station_id": "stn-002", "name": "Platform 2", "direction": "Red Line – Eastbound", "nominal_capacity": 350},
+                    ],
+                    "stn-003": [
+                        {"id": "plt-003-Y", "station_id": "stn-003", "name": "Platform 1", "direction": "Yellow Line – Southbound", "nominal_capacity": 350},
+                        {"id": "plt-003-V", "station_id": "stn-003", "name": "Platform 2", "direction": "Violet Line – Southbound", "nominal_capacity": 300},
+                    ],
+                    "stn-004": [
+                        {"id": "plt-004-Y", "station_id": "stn-004", "name": "Platform 1", "direction": "Yellow Line", "nominal_capacity": 400},
+                        {"id": "plt-004-A", "station_id": "stn-004", "name": "Platform 2", "direction": "Airport Express", "nominal_capacity": 250},
+                    ],
+                    "stn-005": [
+                        {"id": "plt-005-B", "station_id": "stn-005", "name": "Platform 1", "direction": "Blue Line", "nominal_capacity": 380},
+                        {"id": "plt-005-M", "station_id": "stn-005", "name": "Platform 2", "direction": "Magenta Line", "nominal_capacity": 350},
+                    ],
+                }
+
+                platform_count = 0
+                for s in stations:
+                    sid = s["id"]
+                    if sid in KNOWN_PLATFORMS:
+                        plats = KNOWN_PLATFORMS[sid]
+                    else:
+                        plats = [
+                            {"id": f"{sid}-P1", "station_id": sid, "name": "Platform 1", "direction": "Northbound / Outbound", "nominal_capacity": 300},
+                            {"id": f"{sid}-P2", "station_id": sid, "name": "Platform 2", "direction": "Southbound / Inbound", "nominal_capacity": 300},
+                        ]
+                    for p in plats:
+                        client.table("platforms").upsert(p).execute()
+                        platform_count += 1
+                print(f"  - Synchronized {platform_count} platforms.")
+
+                # 3. Upsert Routes
                 for r in routes:
                     client.table("routes").upsert(r).execute()
-                print("DATABASE COMMIT SUCCESSFUL: All records synchronized with Supabase.")
+                print(f"  - Synchronized {len(routes)} routes.")
+
+                print("DATABASE COMMIT SUCCESSFUL: All stations, platforms, and routes synchronized with Supabase.")
             except Exception as e:
                 print(f"ERROR committing to Supabase: {e}")
     print("=" * 60)
